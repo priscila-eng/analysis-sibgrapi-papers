@@ -1,0 +1,48 @@
+id,title,year
+0,Preface,2009
+1,Technical Program Committee,2009
+2,Hermite Interpolation of Implicit Surfaces with Radial Basis Functions,2009
+3,Scale-Space for Union of 3D Balls,2009
+4,Legolizer: A Real-Time System for Modeling and Rendering LEGO Representations of Boundary Models,2009
+5,RGBN Image Editing,2009
+6,Synthesis and Transfer of Time-Variant Material Appearance on Images,2009
+7,Geometry Super-Resolution by Example,2009
+8,Perspective Contouring in Illustrative Visualization,2009
+9,Salient Clustering for View-dependent Multiresolution Rendering,2009
+10,Efficient and High Quality Contouring of Isosurfaces on Uniform Grids,2009
+11,Surface Reconstruction: An Improved Marching Triangle Algorithm for Scalar and Vector Implicit Field Representations,2009
+12,Lossless Compression of Adaptive Multiresolution Meshes,2009
+13,Optimized Pattern-Based Adaptive Mesh Refinement Using GPU,2009
+14,Fast Medial Axis Transform for Planar Domains With General Boundaries,2009
+15,Support Vectors Learning for Vector Field Reconstruction,2009
+16,Random Walks for Vector Field Denoising,2009
+17,Rectangular Hexagonal Mesh Generation for Parametric Modeling,2009
+18,Segmentation of Brain Structures by Watershed Transform on Tensorial Morphological Gradient of Diffusion Tensor Imaging,2009
+19,Analysis of the Watershed Algorithms Based on the Breadth-First and Depth-First Exploring Methods,2009
+20,The Use of High Resolution Images in Morphological Operator Learning,2009
+21,Jump-Miss Binary Erosion Algorithm,2009
+22,GSAShrink: A Novel Iterative Approach for Wavelet-Based Image Denoising,2009
+23,A Regularized Nonlinear Diffusion Approach for Texture Image Denoising,2009
+24,Image Restoration with Operators Modeled by Artificial Neural Networks,2009
+25,Mammography Images Restoration by Quantum Noise Reduction and Inverse MTF Filtering,2009
+26,Microcalcification Detection in Mammograms Using Difference of Gaussians Filters and a Hybrid Feedforward-Kohonen Neural Network,2009
+27,A Semi-Automatic Method for Segmentation of the Coronary Artery Tree from Angiography,2009
+28,Extraction and Selection of Dynamic Features of the Human Iris,2009
+29,Determination of the Reference Point of a Fingerprint Based on Multiple Levels of Representation,2009
+30,A Multi-linear Discriminant Analysis of 2D Frontal Face Images,2009
+31,Nude Detection in Video Using Bag-of-Visual-Features,2009
+32,Computing the q-index for Tsallis Nonextensive Image Segmentation,2009
+33,An Immune-Inspired Approach for Unsupervised Texture Segmentation Using Wavelet Packet Transform,2009
+34,A Study of the Effect of Illumination Conditions and Color Spaces on Skin Segmentation,2009
+35,Fractal-JSEG: JSEG Using an Homogeneity Measurement Based on Local Fractal Descriptor,2009
+36,Automatic Discrimination between Printed and Handwritten Text in Documents,2009
+37,A Comparative Study among Pattern Classifiers in Interactive Image Segmentation,2009
+38,Detecting Buildings in Historical Photographs Using Bag-of-Keypoints,2009
+39,Multi-Frame Motion Detection for Active/Unstable Cameras,2009
+40,2D-DCT Distance Based Face Recognition Using a Reduced Number of Coefficients,2009
+41,Action Recognition in Video by Covariance Matching of Silhouette Tunnels,2009
+42,An Improved Methodology for Image Feature Matching,2009
+43,Spatio-Temporal Frames in a Bag-of-Visual-Features Approach for Human Actions Recognition,2009
+44,Learning Discriminative Appearance-Based Models Using Partial Least Squares,2009
+45,Stereo Based Structure Recovery of Underwater Scenes from Automatically Restored Images,2009
+46,[Publisher's information],2009

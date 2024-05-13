@@ -1,0 +1,286 @@
+id,id_paper,keyword
+0,0,Filling
+1,0,Hardware
+2,0,Robustness
+3,0,Shape
+4,0,Graphics
+5,0,Page description languages
+6,0,Computational geometry
+7,0,Information systems
+8,0,Silicon
+9,0,Arithmetic
+10,1,Image analysis
+11,1,Geometry
+12,1,Computer graphics
+13,1,Rendering (computer graphics)
+14,1,Layout
+15,1,Pixel
+16,1,Digital filters
+17,1,Image sampling
+18,1,Information systems
+19,1,Quantization
+20,2,Casting
+21,2,Rendering (computer graphics)
+22,2,Algorithm design and analysis
+23,2,Application software
+24,2,Games
+25,2,Geographic Information Systems
+26,2,Graphics
+27,2,Visualization
+28,2,Information systems
+29,2,Microcomputers
+30,3,Programming profession
+31,3,Computer graphics
+32,3,Layout
+33,3,Software libraries
+34,3,Graphical user interfaces
+35,3,Application software
+36,3,Educational programs
+37,3,Dynamic programming
+38,3,Rendering (computer graphics)
+39,3,Object oriented programming
+40,4,Layout
+41,4,Java
+42,4,World Wide Web
+43,4,Application software
+44,4,Tactile sensors
+45,4,Acceleration
+46,4,Data visualization
+47,4,HTML
+48,4,Graphics
+49,4,Animation
+50,5,Animation
+51,5,Java
+52,5,Object oriented modeling
+53,5,Layout
+54,5,Computer industry
+55,5,Automation
+56,5,Computer science
+57,5,Computer graphics
+58,5,Virtual reality
+59,5,Power generation
+60,6,Animation
+61,6,Computer architecture
+62,6,User interfaces
+63,6,Prototypes
+64,6,Position measurement
+65,6,Magnetic sensors
+66,6,Magnetic field measurement
+67,6,Data visualization
+68,6,Motion control
+69,6,Graphical user interfaces
+70,7,Deformable models
+71,7,Geometry
+72,7,Solid modeling
+73,7,Animation
+74,7,Surface resistance
+75,7,Equations
+76,7,Tensile stress
+77,7,Immune system
+78,7,Analytical models
+79,7,Shape
+80,8,Shape
+81,8,Skeleton
+82,8,Biological system modeling
+83,8,Computer graphics
+84,8,Solid modeling
+85,8,Mathematical model
+86,8,Humans
+87,8,Liquids
+88,8,Animation
+89,8,Controllability
+90,9,Computational geometry
+91,9,Pipelines
+92,9,Polynomials
+93,9,Algorithm design and analysis
+94,9,Data structures
+95,9,Shape
+96,9,Graphics
+97,9,Costs
+98,9,Equations
+99,9,Solid modeling
+100,10,Geographic Information Systems
+101,10,Geometry
+102,10,Testing
+103,10,Roundoff errors
+104,10,H infinity control
+105,10,Robustness
+106,10,Robot kinematics
+107,10,Satellites
+108,11,Data mining
+109,11,Application software
+110,11,Aerospace simulation
+111,11,Laboratories
+112,11,Costs
+113,11,Microcomputers
+114,11,Computational modeling
+115,11,Information systems
+116,11,Data visualization
+117,11,Shape
+118,12,Data visualization
+119,12,Analytical models
+120,12,Data analysis
+121,12,Image generation
+122,12,Surface fitting
+123,12,Isosurfaces
+124,12,Clouds
+125,12,Computer science
+126,12,Projection algorithms
+127,12,Image analysis
+128,13,Data visualization
+129,13,Layout
+130,13,Vehicles
+131,13,Transmission lines
+132,13,Aerospace simulation
+133,13,Surface texture
+134,13,Image generation
+135,13,Lighting
+136,13,Casting
+137,13,Navigation
+138,14,Image reconstruction
+139,14,Interpolation
+140,14,Soil
+141,14,Computed tomography
+142,14,Spline
+143,14,Application software
+144,14,Biomedical imaging
+145,14,Magnetic materials
+146,14,Attenuation
+147,14,Composite materials
+148,15,Wavelet analysis
+149,15,Entropy
+150,15,Information analysis
+151,15,Wavelet transforms
+152,15,Multiresolution analysis
+153,15,Data visualization
+154,15,Rendering (computer graphics)
+155,15,Digital systems
+156,15,Systems engineering and theory
+157,15,Data mining
+158,16,Image processing
+159,16,Image fusion
+160,16,Uncertainty
+161,16,Biomedical imaging
+162,16,Medical robotics
+163,16,Robot vision systems
+164,16,Knowledge based systems
+165,16,Artificial intelligence
+166,16,Fuzzy sets
+167,16,Satellites
+168,17,Image segmentation
+169,17,Mammography
+170,17,Histograms
+171,17,Breast tissue
+172,17,Humans
+173,17,Breast neoplasms
+174,17,Algorithm design and analysis
+175,17,Lesions
+176,17,Image converters
+177,17,Breast cancer
+178,18,Iterative algorithms
+179,18,Image segmentation
+180,18,Electrokinetics
+181,18,Genetics
+182,18,Filtering algorithms
+183,18,Pattern analysis
+184,18,Biochemistry
+185,18,Humans
+186,18,Clustering algorithms
+187,18,DNA
+188,19,Neurons
+189,19,Performance analysis
+190,19,Humans
+191,19,Image segmentation
+192,19,Cells (biology)
+193,19,Shape measurement
+194,19,Binary trees
+195,19,Optical microscopy
+196,19,Cybernetics
+197,19,Character generation
+198,20,Solid modeling
+199,20,Application software
+200,20,Image reconstruction
+201,20,Shape
+202,20,Noise shaping
+203,20,Protein engineering
+204,20,Transmission electron microscopy
+205,20,Computational efficiency
+206,20,Biological system modeling
+207,20,Computer vision
+208,21,Morphology
+209,21,Computer architecture
+210,21,Data structures
+211,21,Image reconstruction
+212,21,Image processing
+213,21,Formal languages
+214,21,Vocabulary
+215,22,Morphology
+216,22,Lattices
+217,22,Gray-scale
+218,22,Remote sensing
+219,22,Pattern matching
+220,22,Image processing
+221,22,Image registration
+222,22,Correlation
+223,22,Gaussian noise
+224,22,Image reconstruction
+225,23,Lattices
+226,23,Power system modeling
+227,23,Morphology
+228,23,Image processing
+229,23,Mathematical model
+230,23,Information filtering
+231,23,Information filters
+232,23,Image segmentation
+233,23,Data mining
+234,23,Image analysis
+235,24,Inspection
+236,24,Conductors
+237,24,Image processing
+238,24,Circuit testing
+239,24,Pattern matching
+240,24,Morphology
+241,24,Printed circuits
+242,24,Proposals
+243,24,Image coding
+244,24,Information analysis
+245,25,Channel bank filters
+246,25,Image coding
+247,25,Filter bank
+248,25,Image sampling
+249,25,Image reconstruction
+250,25,Filtering theory
+251,25,Data compression
+252,25,Mirrors
+253,25,Image analysis
+254,25,Sampling methods
+255,26,Color
+256,26,Quantization
+257,26,Image coding
+258,26,Clustering algorithms
+259,26,Image processing
+260,26,Computer graphics
+261,26,Computer displays
+262,26,Optimization methods
+263,26,Digital images
+264,26,Pixel
+265,27,Synthetic aperture radar
+266,27,Image classification
+267,27,Gray-scale
+268,27,Image analysis
+269,27,Image sensors
+270,27,Radar imaging
+271,27,Optical sensors
+272,27,Image processing
+273,27,Testing
+274,27,Airborne radar
+275,28,Satellites
+276,28,Wavelet transforms
+277,28,Image registration
+278,28,Image processing
+279,28,Remote sensing
+280,28,Image sensors
+281,28,Multispectral imaging
+282,28,Artificial intelligence
+283,28,Multiresolution analysis
+284,28,Wavelet analysis

@@ -1,0 +1,150 @@
+id,id_paper,name
+0,2,Frederico A. Limberger
+1,2,Victor C. Schetinger
+2,2,Manuel M. Oliveira
+3,3,Iago U. Berndt
+4,3,Rafael P. Torchelsen
+5,3,Anderson Maciel
+6,4,Leonardo Quatrin Campagnolo
+7,4,Waldemar Celes
+8,4,Luiz Henrique de Figueiredo
+9,5,Ammar Hattab
+10,5,Gabriel Taubin
+11,6,Giovani Balen Meneghel
+12,6,Marcio Lobo Netto
+13,7,Ricardo Barbosa Kloss
+14,7,Marcos Vinicius Mussel Cirne
+15,7,Samira Silva
+16,7,Helio Pedrini
+17,7,William Robson Schwartz
+18,8,Pedro Senna
+19,8,Isabela Neves Drummond
+20,8,Guilherme Sousa Bastos
+21,9,Pedro Garcia Freitas
+22,9,Mylène C.Q. Farias
+23,9,Aletéia P.F. de Araújo
+24,10,Marta M. Dornelles
+25,10,Nina S.T. Hirata
+26,11,K. Otiniano-Rodríguez
+27,11,E. Cayllahua-Cahuina
+28,11,A. Araújo de A.
+29,11,G. Cámara-Chávez
+30,12,Oscar Cuadros Linares
+31,12,Glenda Botelho
+32,12,Francisco Rodrigues
+33,12,João Batista Neto
+34,13,Vinicius R. Pereira Borges
+35,13,Bernd Hamann
+36,13,Thais G. Silva
+37,13,Armando A.H. Vieira
+38,13,Maria Cristina F. Oliveira
+39,14,Daniel Y. T. Chino
+40,14,Letricia P. S. Avalhais
+41,14,Jose F. Rodrigues
+42,14,Agma J. M. Traina
+43,15,Hilario Seibel
+44,15,Siome Goldenstein
+45,15,Anderson Rocha
+46,16,Mariela Atausinchi Fernandez
+47,16,Rubens M. Lopes
+48,16,Nina S.T. Hirata
+49,17,Kleber J.F. de Souza
+50,17,Arnaldo de A. Araújo
+51,17,Silvio J.F. Guimarães
+52,17,Zenilton K.G. do Patrocínio
+53,17,Matthieu Cord
+54,18,Rensso Victor Hugo Mora Colque
+55,18,Carlos Antônio Caetano Júnior
+56,18,William Robson Schwartz
+57,19,Pedro H.C. de Pádua
+58,19,Flávio L.C. Pádua
+59,19,Marco T.D. Sousa
+60,19,Marconi De A. Pereira
+61,20,Fabio Piva
+62,20,Vanessa Testoni
+63,21,Rodrigo Ferreira Berriel
+64,21,Edilson de Aguiar
+65,21,Vanderlei Vieira de Souza Filho
+66,21,Thiago Oliveira-Santos
+67,22,Pedro Silva
+68,22,Eduardo Luz
+69,22,Rafael Baeta
+70,22,Helio Pedrini
+71,22,Alexandre Xavier Falcao
+72,22,David Menotti
+73,23,Jorge Henrique Piazentin Ono
+74,23,Fabio Sikansi
+75,23,Débora Cristina Corrêa
+76,23,Fernando Vieira Paulovich
+77,23,Afonso Paiva
+78,23,Luis Gustavo Nonato
+79,24,Edwin Escobedo
+80,24,Guillermo Camara
+81,25,Marcelo de Gomensoro Malheiros
+82,25,Marcelo Walter
+83,26,Daniel B. Mesquita
+84,26,Erickson R. Nascimento
+85,26,Mario F.M. Campos
+86,27,Bernardo Henz
+87,27,Frederico A. Limberger
+88,27,Manuel M. Oliveira
+89,28,Marcelo Mendonça
+90,28,Luciano Oliveira
+91,29,Tatiane Silvia Leite
+92,29,José Mario de Martino
+93,30,Ricardo Teles Freitas
+94,30,Kelson Rômulo Teixeira Aires
+95,30,Victor Eulálio Sousa Campelo
+96,31,Wagner Schmitt
+97,31,Jose L. Sotomayor
+98,31,Alexandru Telea
+99,31,Cláudio T. Silva
+100,31,João L.D. Comba
+101,32,Tiago Etiene
+102,32,Paulo Pagliosa
+103,32,Luis Gustavo Nonato
+104,33,Zamir Martins Filho
+105,33,Emilio Vital Brazil
+106,33,Mario Costa Sousa
+107,34,Danilo Motta
+108,34,Maria Oliveira
+109,34,Paulo Pagliosa
+110,34,Luis Gustavo Nonato
+111,34,Afonso Paiva
+112,35,Francisco G. de Borja
+113,35,Carla M.D.S. Freitas
+114,36,Jairo Calmon
+115,36,João Queiroz
+116,36,Claudio Goes
+117,36,Angelo Loula
+118,37,Andre Teixeira Lopes
+119,37,Edilson de Aguiar
+120,37,Thiago Oliveira-Santos
+121,38,André A. Araujo
+122,38,Jonas C. Sampaio
+123,38,Raphael S. Evangelista
+124,38,Altobelli B. Mantuan
+125,38,Leandro A.F. Fernandes
+126,39,Keiller Nogueira
+127,39,Waner O. Miranda
+128,39,Jefersson A. Dos Santos
+129,40,Ana Carolina Quintão Siravenha
+130,40,Schubert R. Carvalho
+131,41,Igor L.O. Bastos
+132,41,Michele F. Angelo
+133,41,Angelo C. Loula
+134,42,Vinicius C. Assis
+135,42,Denis H.P. Salvadeo
+136,42,Nelson D.A. Mascarenhas
+137,42,Alexandre L.M. Levada
+138,43,Daniel Carlos Guimarães Pedronette
+139,43,Ricardo da S. Torres
+140,44,Julio Cezar Silveira Jacques
+141,44,Soraia Raupp Musse
+142,45,Eduardo Barreto Alexandre
+143,45,Ananda Shankar Chowdhury
+144,45,Alexandre Xavier Falcao
+145,45,Paulo A. Vechiatto Miranda
+146,46,Bruno C. Gregório da Silva
+147,46,Ricardo J. Ferrari
+148,46,Juliana Carvalho Tavares

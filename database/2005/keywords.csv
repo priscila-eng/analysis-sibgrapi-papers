@@ -1,0 +1,174 @@
+id,id_paper,keyword
+0,2,Computational modeling
+1,2,Stress
+2,2,Ultrasonic imaging
+3,2,Acoustic beams
+4,2,Focusing
+5,2,Frequency
+6,2,Acoustic emission
+7,2,Acoustic transducers
+8,2,Imaging phantoms
+9,2,Image resolution
+10,3,Convergence
+11,3,Image reconstruction
+12,3,Positron emission tomography
+13,3,Single photon emission computed tomography
+14,3,Inverse problems
+15,3,Detectors
+16,3,Image recognition
+17,3,Maximum likelihood detection
+18,3,Filling
+19,3,Image quality
+20,4,Computer graphics
+21,4,Image processing
+22,5,Image analysis
+23,5,Biomedical imaging
+24,5,Image registration
+25,5,Covariance matrix
+26,5,Active shape model
+27,5,Pathology
+28,5,Alzheimer's disease
+29,5,Anatomy
+30,5,Matrix decomposition
+31,5,In vivo
+32,6,Iris
+33,6,Image segmentation
+34,6,Light sources
+35,6,Cameras
+36,6,Optical noise
+37,6,Optical distortion
+38,6,Noise robustness
+39,6,Geometry
+40,6,Biometrics
+41,6,Streaming media
+42,7,Equations
+43,7,Shape
+44,7,Sampling methods
+45,7,Spirals
+46,7,Computer graphics
+47,7,Image processing
+48,7,Image sampling
+49,7,Union of Balls
+50,7,Medial Axis
+51,7,Curvature Motion
+52,7,Shape
+53,7,Vision
+54,7,Multiresolution
+55,8,Robustness
+56,8,Pixel
+57,8,Image segmentation
+58,8,Image processing
+59,8,Computer industry
+60,8,Automation
+61,8,Image analysis
+62,8,Computational modeling
+63,8,Surfaces
+64,8,Shortest path problem
+65,9,Boolean functions
+66,9,Training data
+67,9,Image segmentation
+68,9,Computer science
+69,9,Mathematics
+70,9,Statistics
+71,9,Probability
+72,9,Shape
+73,9,Iterative methods
+74,9,Character recognition
+75,10,Maximum likelihood estimation
+76,10,Entropy
+77,10,Probability distribution
+78,10,Image processing
+79,10,Image analysis
+80,10,Computer vision
+81,10,Proposals
+82,10,Signal resolution
+83,10,Signal processing
+84,10,Computer graphics
+85,11,Gray-scale
+86,11,Morphology
+87,11,Fuzzy sets
+88,11,Fuzzy set theory
+89,11,Lattices
+90,11,Image processing
+91,11,Level set
+92,11,Image analysis
+93,11,Shape measurement
+94,11,Filtering
+95,12,Uncertainty
+96,12,Face recognition
+97,12,Linear discriminant analysis
+98,12,Scattering
+99,12,Covariance matrix
+100,12,Principal component analysis
+101,12,Image recognition
+102,12,Pixel
+103,12,Spatial databases
+104,12,Educational institutions
+105,13,Object detection
+106,13,Pixel
+107,13,Image segmentation
+108,13,Cost function
+109,13,Biomedical imaging
+110,13,Automation
+111,13,Image processing
+112,13,Joining processes
+113,14,Neural networks
+114,14,Imaging phantoms
+115,14,Multilayer perceptrons
+116,14,Multispectral imaging
+117,14,Multi-layer neural network
+118,14,Bagging
+119,14,Computed tomography
+120,14,Soil
+121,14,X-ray imaging
+122,14,Computer networks
+123,15,Fingerprint recognition
+124,15,Solid state circuits
+125,15,Optical sensors
+126,15,Image matching
+127,15,Image sensors
+128,15,Authentication
+129,15,Sensor phenomena and characterization
+130,15,Image databases
+131,15,Spatial databases
+132,15,Fingers
+133,16,Pattern matching
+134,16,Image segmentation
+135,16,Topology
+136,16,Application software
+137,16,Computer science
+138,16,Search problems
+139,16,NP-complete problem
+140,16,Costs
+141,16,Computer vision
+142,16,Tree graphs
+143,17,Solid modeling
+144,17,Geometry
+145,17,Cameras
+146,17,Road accidents
+147,17,Intelligent vehicles
+148,17,Road safety
+149,17,Filtering
+150,17,Vehicle detection
+151,17,Inspection
+152,17,Traffic control
+153,18,Shape
+154,18,Tensile stress
+155,18,Anisotropic magnetoresistance
+156,18,Image retrieval
+157,18,Content based retrieval
+158,18,Image analysis
+159,18,Pixel
+160,18,Histograms
+161,18,Marine animals
+162,18,Databases
+163,19,Performance analysis
+164,19,Computer vision
+165,19,Gabor filters
+166,19,Detectors
+167,19,Nonlinear filters
+168,19,Image analysis
+169,19,Computer displays
+170,19,Object detection
+171,19,Layout
+172,19,Information analysis

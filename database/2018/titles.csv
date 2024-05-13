@@ -1,0 +1,66 @@
+id,title,year
+0,SIBGRAPI 2018 Foreword,2018
+1,SIBGRAPI 2018 Program Committee,2018
+2,Adaptive Patches for Mesh Denoising,2018
+3,Hidden Surface Removal for Accurate Painting-Area Calculation on CAD Models,2018
+4,Synthesizing Periodic Tilings of Regular Polygons,2018
+5,Unsupervised Dialogue Act Classification with Optimum-Path Forest,2018
+6,A Method for Opinion Classification in Video Combining Facial Expressions and Gestures,2018
+7,Deep Feature-Based Classifiers for Fruit Fly Identification (Diptera: Tephritidae),2018
+8,Active Learning Approaches for Deforested Area Classification,2018
+9,Real-Time High-Quality Specular Highlight Removal Using Efficient Pixel Clustering,2018
+10,Video Denoising Quality Assessment for Different Noise Distributions,2018
+11,Restoration of Images Affected by Welding Fume,2018
+12,GuidedNet: Single Image Dehazing Using an End-to-End Convolutional Neural Network,2018
+13,A Deep Learning-Based Compatibility Score for Reconstruction of Strip-Shredded Text Documents,2018
+14,Multimodal Human Action Recognition Based on a Fusion of Dynamic Images Using CNN Descriptors,2018
+15,Object-Based Temporal Segment Relational Network for Activity Recognition,2018
+16,Real-Time Automatic License Plate Recognition through Deep Multi-Task Networks,2018
+17,Real-Time Gender Detection in the Wild Using Deep Neural Networks,2018
+18,Patch PlaNet: Landmark Recognition with Patch Classification Using Convolutional Neural Networks,2018
+19,The Shape of the Game,2018
+20,Extracting Visual Encodings from Map Chart Images with Color-Encoded Scalar Values,2018
+21,Visualization of Roll Call Data for Supporting Analyses of Political Profiles,2018
+22,A Stable Greedy Insertion Treemap Algorithm for Software Evolution Visualization,2018
+23,Barrett's Esophagus Identification Using Color Co-Occurrence Matrices,2018
+24,Convolutional Neural Networks for Static and Dynamic Breast Infrared Imaging Classification,2018
+25,Multicenter Imaging Studies: Automated Approach to Evaluating Data Variability and the Role of Outliers,2018
+26,Robust Feature Spaces from Pre-Trained Deep Network Layers for Skin Lesion Classification,2018
+27,End-to-End Bone Age Assessment with Residual Learning,2018
+28,Deep Transfer Learning for Segmentation of Anatomical Structures in Chest Radiographs,2018
+29,Example-Based Skin Wrinkle Displacement Maps,2018
+30,Decoupling Expressiveness and Body-Mechanics in Human Motion,2018
+31,Scene Conversion for Physically-Based Renderers,2018
+32,Hybrid Cloud Rendering System for Massive CAD Models,2018
+33,A Photon Tracing Approach to Solve Inverse Rendering Problems,2018
+34,Single-Shot Person Re-Identification Combining Similarity Metrics and Support Vectors,2018
+35,On the Learning of Deep Local Features for Robust Face Spoofing Detection,2018
+36,Analysis and Improvements of Fingerprint Enhancement from Gabor Iterative Filtering,2018
+37,A Novel Fingerprint Quality Assessment Based on Gabor Filters,2018
+38,Robust Iris Segmentation Based on Fully Convolutional Networks and Generative Adversarial Networks,2018
+39,The Impact of Preprocessing on Deep Representations for Iris Recognition on Unconstrained Environments,2018
+40,Factors Influencing the Perception of Realism in Synthetic Facial Expressions,2018
+41,An Architecture for Collision Risk Prediction for Visually Impaired People,2018
+42,360 Stitching from Dual-Fisheye Cameras Based on Feature Cluster Matching,2018
+43,Asynchronous Stroboscopic Structured Lighting Image Processing Using Low-Cost Cameras,2018
+44,3D Medical Objects Retrieval Approach Using SPHARMs Descriptor and Network Flow as Similarity Measure,2018
+45,Inverse Projection of Vector Fields,2018
+46,Graph Spectral Filtering for Network Simplification,2018
+47,Image-Based Visualization of Classifier Decision Boundaries,2018
+48,xHiPP: eXtended Hierarchical Point Placement Strategy,2018
+49,Analysis of the Influence of Color Normalization in the Classification of Non-Hodgkin Lymphoma Images,2018
+50,Color Quantization in Transfer Learning and Noisy Scenarios: An Empirical Analysis Using Convolutional Networks,2018
+51,Delaunay Triangulation Data Augmentation Guided by Visual Analytics for Deep Learning,2018
+52,Semi-Supervised Learning with Interactive Label Propagation Guided by Feature Space Projections,2018
+53,Deep Instance Segmentation of Teeth in Panoramic X-Ray Images,2018
+54,RISF: Recursive Iterative Spanning Forest for Superpixel Segmentation,2018
+55,A Divide-and-Conquer Clustering Approach Based on Optimum-Path Forest,2018
+56,A Machine Learning Approach for Graph-Based Page Segmentation,2018
+57,Image-Based State Recognition for Disconnect Switches in Electric Power Distribution Substations,2018
+58,Unsupervised Representation Learning Using Convolutional and Stacked Auto-Encoders: A Domain and Cross-Domain Feature Space Analysis,2018
+59,Bag of Attributes for Video Event Retrieval,2018
+60,A Benchmark Methodology for Child Pornography Detection,2018
+61,A Practical Review on Medical Image Registration: From Rigid to Deep Learning Based Approaches,2018
+62,Deep Face Recognition: A Survey,2018
+63,Biometric Recognition in Surveillance Environments Using Master-Slave Architectures,2018
+64,[Publisher's information],2018

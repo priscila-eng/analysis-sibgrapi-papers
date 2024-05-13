@@ -1,0 +1,107 @@
+id,id_paper,name
+0,0,J.L. Encarnacao
+1,1,P.J. De Rezende
+2,1,R.B. Westrupp
+3,2,L. Velho
+4,2,J. Gomes
+5,3,M. Isenburg
+6,3,J. Snoeyink
+7,4,A.C. Miranda
+8,4,J.B. Cavalcante Neto
+9,4,L.F. Martha
+10,5,K. Basso
+11,5,P.R. De Avila Zingano
+12,5,C.M. Dal Sasso Freitas
+13,6,F.W. Da Silva
+14,6,L. Velho
+15,6,J. Gomes
+16,6,S. Goldenstein
+17,7,J. Bermudez
+18,7,J. Agutter
+19,7,D. Gondeck-Becker
+20,7,S. Foresti
+21,7,D. Westenskow
+22,8,A. De Cusatis
+23,8,L.H. De Figueiredo
+24,8,M. Gattass
+25,9,P. Frederick
+26,9,M. Gattass
+27,9,M.R. Mediano
+28,10,A.G. Ferreira
+29,10,R.F.G. Cerqueira
+30,10,W. Celes
+31,10,M. Gattass
+32,11,H.C. Batagelo
+33,11,I. Costa
+34,12,G.P. Carnielli
+35,12,A.X. Falcao
+36,12,J. Udupa
+37,13,S. De Barros Melo
+38,14,L.M.G. Fonseca
+39,14,C.S. Kenney
+40,15,D. Camara
+41,15,M.F.M. Campos
+42,16,L.M.G. Goncalves
+43,16,A.A.F. Oliveira
+44,16,R.A. Grupen
+45,17,R.A. De Freitas Mini
+46,17,M.F.M. Campos
+47,18,L.S. Coelho
+48,18,M.F.M. Campos
+49,19,C.H. Morimoto
+50,19,D. Koons
+51,19,A. Amit
+52,19,M. Flickner
+53,19,S. Zhai
+54,20,P.S. De Souza Coelho
+55,20,C. Esperanca
+56,20,A.A.F. De Oliveira
+57,21,E. Ribeiro
+58,21,E.R. Hancock
+59,22,Hae Yong Kim
+60,23,Li-Yi Wei
+61,24,D.M. Barbosa
+62,24,J.P. Kitajima
+63,24,W. Weira
+64,25,C. Mota
+65,25,J. Gomes
+66,26,A. Conci
+67,26,F.R. Aquino
+68,27,P.S.L.M. Barreto
+69,27,Hae Yong Kim
+70,28,G.J.F. Banon
+71,29,J. Crespo
+72,29,V. Maoio
+73,30,E.R. Dougherty
+74,31,N.S.T. Hirata
+75,31,J. Barrera
+76,31,E.R. Dougherty
+77,32,R.F. Hashimoto
+78,32,J. Barrera
+79,33,R. Hirata
+80,33,J. Barrera
+81,33,F.C. Flores
+82,33,R.A. Lotufo
+83,34,H.M.F. Madeira
+84,34,J. Barrera
+85,34,R. Hirata
+86,34,N.S.T. Hirata
+87,35,M.C. D'Ornellas
+88,35,R. Van Den Boomgaard
+89,36,J.-P. Cocquerez
+90,36,M. Cord
+91,36,M. Jordan
+92,37,O.H. Bustos
+93,37,A.G. Flessia
+94,37,A.C. Frery
+95,38,J. Jacobo-Berlles
+96,38,M.E. Mejail
+97,38,A.C. Frery
+98,39,O.H. Bustos
+99,39,A.G. Flesia
+100,39,A.C. Frery
+101,40,F.N.S. Medeiros
+102,40,N.D.A. Mascarenhas
+103,40,L.F. Costa
+104,41,G.T. Zaniboni
+105,41,N.D.A. Mascarenhas

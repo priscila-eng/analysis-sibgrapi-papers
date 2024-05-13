@@ -1,0 +1,155 @@
+id,id_paper,name
+0,5,Fabio Augusto faria
+1,5,Gustavo Carneiro
+2,6,Filipe R. Cordeiro
+3,6,Gustavo Carneiro
+4,7,Lucas N. Alegre
+5,7,Manuel M. Oliveira
+6,8,Leonardo Thomas
+7,8,Karl Apaza Agüero
+8,8,Antonio Lopes Apolinário
+9,9,André da Silva Antonitsch
+10,9,Soraia Raupp Musse
+11,9,Luiz Henrique de Figueiredo
+12,10,I.B. Fernandes
+13,10,M. Walter
+14,11,Vítor M. Aranha
+15,11,Márcio C. F. Macedo
+16,11,Antonio L. Apolinario
+17,12,Arthur Flor de Sousa Neto
+18,12,Byron Leite Dantas Bezerra
+19,12,Alejandro Héctor Toselli
+20,12,Estanislau Baptista Lima
+21,13,Samuel Felipe dos Santos
+22,13,Jurandy Almeida
+23,14,Adson M. Santos
+24,14,Carmelo J. A. Bastos-Filho
+25,14,Alexandre M. A. Maciel
+26,14,Estanislau Lima
+27,15,Lucas Niquele Endrice
+28,15,Hugo Vieira Neto
+29,16,Hermes H. Ferreira
+30,16,Eduardo S. L. Gastal
+31,16,Lucas M. Schnorr
+32,16,Philippe O. A. Navaux
+33,17,Leonardo R. Emmendorfer
+34,18,Rafael G. Pires
+35,18,Daniel F. S. Santos
+36,18,Cláudio F.G. Santos
+37,18,Marcos C.S. Santana
+38,18,João P. Papa
+39,19,Daniel F. S. Santos
+40,19,Rafael G. Pires
+41,19,Danilo Colombo
+42,19,João P. Pap
+43,20,Italos Estilon de Souza
+44,20,Barbara C. Benato
+45,20,Alexandre Xavier Falcão
+46,21,Guilherme G. Haetinger
+47,21,Eduardo S. L. Gastal
+48,22,Thiago Dornelles
+49,22,Claudio Rosito Jung
+50,23,Flavio Fontanella
+51,23,Asla Medeiros e Sá
+52,23,Moacyr Alvim H. B. da Silva
+53,24,Germain Garcia-Zanabria
+54,24,Erick Gomez-Nieto
+55,24,Jaqueline Silveira
+56,24,Jorge Poco
+57,24,Marcelo Nery
+58,24,Sergio Adorno
+59,24,Luis G. Nonato
+60,25,Yaima Paz-Soto
+61,25,Silena Herold-Garcia
+62,25,Leandro A. F. Fernandes
+63,25,Saul Díaz-Matos
+64,26,Bernardo Silva
+65,26,Laís Pinheiro
+66,26,Luciano Oliveira
+67,26,Matheus Pithon
+68,27,Danson Evan Garcia
+69,27,Kai Wen Zheng
+70,27,Yi Summer Tao
+71,27,Yi Liu
+72,27,Steve Mann
+73,28,Kauê T N Duarte
+74,28,David G Gobbi
+75,28,Richard Frayne
+76,28,Marco A G de Carvalho
+77,29,Victor G. Cardoso
+78,29,Edna N. S. Barros
+79,29,José A. Barbosa
+80,29,Antonio D. Antonino
+81,29,Abraão V. Nova
+82,30,Ivar Vargas Belizario
+83,30,Joao Batista Neto
+84,31,Pedro H. C. Avelar
+85,31,Anderson R. Tavares
+86,31,Thiago L. T. da Silveira
+87,31,Clíudio R. Jung
+88,31,Luís C. Lamb
+89,32,Daniel V. Ruiz
+90,32,Bruno A. Krinski
+91,32,Eduardo Todt
+92,33,Luis Felipe Zeni
+93,33,Claudio Jung
+94,34,Alonso J. Cerpa Salas
+95,34,Graciela Meza-Lovon
+96,34,Manuel E. Loaiza Fernández
+97,34,Alberto Raposo
+98,35,Charles N. C. Freitas
+99,35,Filipe R. Cordeiro
+100,35,Valmir Macario
+101,36,David Josué Barrientos Rojas
+102,36,Bruno José Torres Fernandes
+103,36,Sergio Murilo Maciel Fernandes
+104,37,David Gabriel Choqueluque Roman
+105,37,Guillermo Cámara Chávez
+106,38,Rodrigo Moreira
+107,38,Larissa Ferreira Rodrigues
+108,38,Pedro Frosi Rosa
+109,38,Rui L. Aguiar
+110,38,Flávio de Oliveira Silva
+111,39,Willian Dihanster G. de Oliveira
+112,39,Otávio A. B. Penatti
+113,39,Lilian Berton
+114,40,Whendell F. Magalhães
+115,40,Jeferson Ferreira
+116,40,Herman M. Gomes
+117,40,Leandro B. Marinho
+118,40,Plínio Silveira
+119,41,Marta Duarte
+120,41,Victor Coch
+121,41,Jovania Dias
+122,41,Silvia Botelho
+123,41,Nelson Duarte
+124,41,Paulo Drews
+125,42,Alaor Cervati Neto
+126,42,Alexandre L. M. Levada
+127,43,Alexandre Silva
+128,43,Sincler Meireles
+129,43,Samira Silva
+130,44,Luís C. S. Júnior
+131,44,Maricéia B. S. Pàdua
+132,44,Leonardo M. Ogusuku
+133,44,Marcelo K. Albertini
+134,44,Renato Pimentel
+135,44,André R. Backes
+136,45,Gabriel Bianchin de Oliveira
+137,45,Helio Pedrini
+138,45,Zanoni Dias
+139,46,Jaime Rocca Layza
+140,46,Helio Pedrini
+141,46,Ricardo da Silva Torres
+142,47,Luiz Schirmer
+143,47,Djalma Lúcio
+144,47,Alberto Raposo
+145,47,Luiz Velho
+146,47,Hélio Lopes
+147,48,Kelvin B. da Cunha
+148,48,Caio Brito
+149,48,Luas Valença
+150,48,Francisco Simões
+151,48,Veronica Teichrieb
+152,49,Wilson E. Marcílio
+153,49,Danilo M. Eler

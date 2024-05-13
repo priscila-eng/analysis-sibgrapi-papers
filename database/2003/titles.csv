@@ -1,0 +1,54 @@
+id,title,year
+0,Proceedings 16th Brazilian Symposium on Computer Graphics and Image Processing (SIBGRAPI 2003),2003
+1,An approximation for normal vectors of deformable models,2003
+2,A hole-filling strategy for reconstruction of smooth surfaces in range images,2003
+3,Moving least squares multiresolution surface approximation,2003
+4,Fast stellar mesh simplification,2003
+5,Reliable algorithms for ray intersection in computer graphics based on interval arithmetic,2003
+6,A topological framework for advancing front triangulation,2003
+7,Reconstruction using surface dedicated tensorial field,2003
+8,A non-self-intersection Douglas-Peucker algorithm,2003
+9,The language LinF for fractal specification,2003
+10,Creating and editing curves on subdivision surfaces,2003
+11,Graphic simulation for virtual prototyping with Java3D,2003
+12,A rules-based model used to describe group dynamics for games,2003
+13,RZSweep: a new hardware-assisted volume-rendering technique for regular datasets,2003
+14,Work distribution for parallel ZSweep algorithm,2003
+15,Frequency plot and relevance plot to enhance visual data exploration,2003
+16,A sketch-based collaborative design system,2003
+17,An interaction model for scientific visualization using sound,2003
+18,Picking and snapping for 3D input devices,2003
+19,Automatically choosing source color images for coloring grayscale images,2003
+20,Object retrieval in image databases using image composition,2003
+21,Effective image retrieval by shape saliences,2003
+22,Exploration and search-by-similarity in CBIR,2003
+23,Using efficient visual exploration techniques to evaluate features for content-based image retrieval,2003
+24,An image retrieval method based on factor analysis,2003
+25,Secure authentication watermarking for binary images,2003
+26,Image morphing applied to 3D reconstruction of coronal loops,2003
+27,Informed embedding for multibit watermarking,2003
+28,Design of order statistic filters from examples,2003
+29,Corresponding geometric distorted images using an uncertainty inference method,2003
+30,Area fractions by linear analysis of intensity level histograms,2003
+31,2-D histogram-based segmentation of postal envelopes,2003
+32,"Texture segmentation considering multiband, multiresolution and affine invariant roughness",2003
+33,Blood vessels segmentation in nonmydriatic images using wavelets and statistical classifiers,2003
+34,Automatic shadow segmentation in aerial color images,2003
+35,Multiscale image segmentation using wavelets and watersheds,2003
+36,Image inpainting and denoising by nonlinear partial differential equations,2003
+37,A novel photometric motion approach,2003
+38,Learning-based versus model-based log-polar feature extraction operators: a comparative study,2003
+39,Robust multiview range image registration,2003
+40,Evaluating the conventional and class-modular architectures feedforward neural network for handwritten word recognition,2003
+41,Semiautomatic hysteroscopic video summarization,2003
+42,Regularized pel-recursive motion estimation using generalized cross-validation and spatial adaptation,2003
+43,Video transition detection using string matching: preliminary results,2003
+44,Object segmentation in image sequences by watershed from markers: a generic approach,2003
+45,Sulcal lines extraction for cortex characterization in cerebral MR images using the image foresting transform,2003
+46,Helical CT reconstruction from wide cone-beam angle data using ART,2003
+47,Multiscale detection of linear features in speckled imagery,2003
+48,Segmentation of images of yeast cells by scale-space analysis,2003
+49,Quantized features for gesture recognition using high speed vision camera,2003
+50,Image feature extraction for application of biometric identification of iris - a morphological approach,2003
+51,Visual speech recognition: a solution from feature extraction to words classification,2003
+52,A computer vision framework for eye gaze tracking,2003

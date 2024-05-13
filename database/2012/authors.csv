@@ -1,0 +1,169 @@
+id,id_paper,name
+0,4,Fábio A.M. Cappabianco
+1,4,Paulo A.V. de Miranda
+2,4,Jaime S. Ide
+3,4,Clarissa L. Yasuda
+4,4,Alexandre X. Falcão
+5,5,Lucas Souza e Silva
+6,5,Filipe Ribeiro Rocha
+7,5,Lorena Borges Amaral
+8,5,Cássio Alves Carneiro
+9,5,Flávia Maglhães Freitas Ferreira
+10,5,Zélia Myriam Assis Peixoto
+11,6,Denis H. P. Salvadeo
+12,6,Nelson D. A. Mascarenhas
+13,6,Alexandre L. M. Levada
+14,7,Oscar Cuadros
+15,7,Glenda Botelho
+16,7,Francisco Rodrigues
+17,7,João Batista Neto
+18,8,Wallace Casaca
+19,8,Erick Gomez-Nieto
+20,8,Cynthia O. L. Ferreira
+21,8,Geovan Tavares
+22,8,Paulo Pagliosa
+23,8,Fernando Paulovich
+24,8,Luis Gustavo Nonato
+25,8,Afonso Paiva
+26,9,Alceu Ferraz Costa
+27,9,Gabriel Humpire-Mamani
+28,9,Agma Juci Machado Traina
+29,10,Erickson R. Nascimento
+30,10,William Robson Schwartz
+31,10,Gabriel L. Oliveira
+32,10,Antônio W. Veira
+33,10,Mario F. M. Campos
+34,10,Daniel B. Mesquita
+35,11,Juliano B. Lima
+36,11,Ricardo M. Campello de Souza
+37,12,Fernanda A. Andalo
+38,12,Gabriel Taubin
+39,12,Sione Goldenstein
+40,13,Filipe de O. Costa
+41,13,Michael Eckmann
+42,13,Walter J. Scheirer
+43,13,Anderson Rocha
+44,14,Grimaldo Silva
+45,14,Leizer Schnitman
+46,14,Luciano Oliveira
+47,15,Raissa T. Vieira
+48,15,Carlos Eduardo de Oliveira Chierici
+49,15,Carolina T. Ferraz
+50,15,Adilson Gonzaga
+51,16,Afonso Paiva
+52,16,Filipe de Carvalho Nascimento
+53,16,Luiz Henrique de Figueiredo
+54,16,Jorge Stolfi
+55,17,Paulo Roma Cavalcanti
+56,17,Yalmar Ponce Atencio
+57,17,Claudio Esperança
+58,17,Flavio Pereira Nascimento
+59,18,Luca Castelli Aleardi
+60,18,Olivier Devillers
+61,18,Jarek Rossignac
+62,19,Luis F. Silva
+63,19,Luiz F. Scheidegger
+64,19,Tiago Etiene
+65,19,João L. D. Comba
+66,19,Luis G. Nonato
+67,19,Cláudio T. Silva
+68,20,Renan Machado e Silva
+69,20,Claudio Esperança
+70,20,Antonio Oliveira
+71,21,Marilena Maule
+72,21,João L. D. Comba
+73,21,Rafael Torchelsen
+74,21,Rui Bastos
+75,22,Eduardo Ceretta Dalla Favera
+76,22,Waldemar Celes
+77,23,Mattia Natali
+78,23,Ivan Viola
+79,23,Daniel Patel
+80,24,Pedro Machado Manhães de Castro
+81,25,Gustavo Führ
+82,25,Cláudio Rosito Jung
+83,26,Erikson Morais
+84,26,Siome Goldenstein
+85,26,Anselmo Ferreira
+86,26,Anderson Rocha
+87,27,Rafael Beserra Gomes
+88,27,Rafael Vidal Aroca
+89,27,Bruno Motta de Carvalho
+90,27,Luiz Marcos Garcia Gonçalves
+91,28,Tatiana Waintraub
+92,28,Waldemar Celes
+93,29,Edilson de Aguiar
+94,29,Norimichi Ukita
+95,30,Leonardo Carvalho
+96,30,Maria Andrade
+97,30,Luiz Velho
+98,31,Marcelo Caniato Renhe
+99,31,Antonio Oliveira
+100,31,Cláudio Esperança
+101,31,Ricardo Marroquim
+102,32,Allan da Silva Pinto
+103,32,Helio Pedrini
+104,32,William Schwartz
+105,32,Anderson Rocha
+106,33,Ramon Pires
+107,33,Herbert F. Jelinek
+108,33,Jacques Wainer
+109,33,Anderson Rocha
+110,34,Leissi Castañeda León
+111,34,Roberto Hirata Jr.
+112,35,Yomna Safaa El-Din
+113,35,Mohamed N. Moustafa
+114,35,Hani Mahdi
+115,36,Fabio Augusto Faria
+116,36,Jefersson Alex dos Santos
+117,36,Anderson Rocha
+118,36,Ricardo da S. Torres
+119,37,Roberto Souza
+120,37,Roberto Lotufo
+121,37,Letícia Rittner
+122,38,Leandro Miranda
+123,38,Thales Vieira
+124,38,Dimas Martinez
+125,38,Thomas Lewiner
+126,38,Antonio W. Vieira
+127,38,Mario F. M. Campos
+128,39,Junior Fabian
+129,39,Ramon Pires
+130,39,Anderson Rocha
+131,40,Fabiane Queiroz
+132,40,Marcelo Walter
+133,41,R. Y. M. Nakamura
+134,41,L. A. M. Pereira
+135,41,K. A. Costa
+136,41,D. Rodrigues
+137,41,J. P. Papa
+138,41,X.-S. Yang
+139,42,V. F. Mota
+140,42,E. A. Perez
+141,42,M. B. Vieira
+142,42,L. M. Maciel
+143,42,F. Precioso
+144,42,P. H. Gosselin
+145,43,Mario Gazziro
+146,43,Guilherme Almeida
+147,43,Paulo Matias
+148,43,Hirokazu Tanaka
+149,43,Shigenobu Minami
+150,44,Pedro Garcia Freitas
+151,44,Ronaldo Rigoni
+152,44,Mylène C.Q. Farias
+153,44,Aletéla P.F. de Araújo
+154,45,Gisele Helena Barboni Miranda
+155,45,Junior Barrera
+156,45,Edson Garcia Soares
+157,45,Joaquim Cezar Felipe
+158,46,A. Mansano
+159,46,J. A. Matsuoka
+160,46,L. C. S. Afonso
+161,46,J. P. Papa
+162,46,F. Faria
+163,46,R. da S. Torres
+164,47,Willian Paraguassu Amorim
+165,47,Marcelo Henriques de Carvalho
+166,48,Simone Regina Ceolin
+167,48,Edwin R. Hancock

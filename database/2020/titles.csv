@@ -1,0 +1,51 @@
+id,title,year
+0,Message from the General Chairs,2020
+1,Message from the Program Chairs,2020
+2,Organizing Committee,2020
+3,Program Committee,2020
+4,Sponsors,2020
+5,Why are Generative Adversarial Networks so Fascinating and Annoying?,2020
+6,A Survey on Deep Learning with Noisy Labels: How to train your model when you cannot trust on the annotations?,2020
+7,SelfieArt: Interactive Multi-Style Transfer for Selfies and Videos with Soft Transitions,2020
+8,Real-Time 3D Position-Based Dynamics Simulation for Hydrographic Printing,2020
+9,Towards a Legion of Virtual Humans: Steering Behaviors and Organic Visualization,2020
+10,A Bucket LBVH Construction and Traversal Algorithm for Volumetric Sparse Data,2020
+11,Screen-space VPL propagation for real-time indirect lighting,2020
+12,HTR-Flor: A Deep Learning System for Offline Handwritten Text Recognition,2020
+13,Faster and Accurate Compressed Video Action Recognition Straight from the Frequency Domain,2020
+14,Counting Vehicle with High-Precision in Brazilian Roads Using YOLOv3 and Deep SORT,2020
+15,Luminance Ratios for Stable SIFT Keypoint Detection in Challenging Illuminations Scenarios,2020
+16,Performance and error analysis of recursive edge-aware Gaussian filters on GPUs,2020
+17,A Conservative Sharpening Filter for Interpolated Images,2020
+18,Image Denoising using Attention-Residual Convolutional Neural Networks,2020
+19,Scene Change Detection Using Multiscale Cascade Residual Convolutional Neural Networks,2020
+20,Feature Learning from Image Markers for Object Delineation,2020
+21,Regularized Kelvinlet Inversion for Real-Time Image Deformation and Video Time Warping,2020
+22,Online frame-to-model pipeline to 3D reconstruction with depth cameras using RGB-D information,2020
+23,Visual Analysis of Forecasts of Football Match Scores,2020
+24,Mirante: A visualization tool for analyzing urban crimes,2020
+25,Automatic Classification of Erythrocytes Using Artificial Neural Networks and Integral Geometry-Based Functions,2020
+26,A study on tooth segmentation and numbering using end-to-end deep neural networks,2020
+27,Capturing Pictures from Human Vision Using SSVEP and Lock-in Amplifier,2020
+28,Detecting Alzheimer’s Disease based on Structural Region Analysis using a 3D Shape Descriptor,2020
+29,An Efficient Method for Porosity Properties Extraction of Carbonate Rocks,2020
+30,Multi-level Graph Label Propagation for Image Segmentation,2020
+31,Superpixel Image Classification with Graph Attention Networks,2020
+32,IDA: Improved Data Augmentation Applied to Salient Object Detection,2020
+33,Weakly Supervised Character Detection for License Plate Recognition,2020
+34,Training with synthetic images for object detection and segmentation in real machinery images,2020
+35,MyFood: A Food Segmentation and Classification System to Aid Nutritional Monitoring,2020
+36,A Review on Image Inpainting Techniques and Datasets,2020
+37,Violence Detection and Localization in Surveillance Video,2020
+38,Packet Vision: a convolutional neural network approach for network traffic classification,2020
+39,A comparison of graph-based semi-supervised learning for data augmentation,2020
+40,Evaluating the Emergence of Winning Tickets by Structured Pruning of Convolutional Networks,2020
+41,Thermographic Non-Invasive Inspection Modelling of Fertilizer Pipelines Using Neural Networks,2020
+42,ISOMAP-KL: a parametric approach for unsupervised metric learning,2020
+43,Using Partial Least Squares in Butterfly Species Identification,2020
+44,Wild boar Classification by Using a Fusion of Texture Analysis Methods,2020
+45,Fusion of BLAST and Ensemble of Classifiers for Protein Secondary Structure Prediction,2020
+46,1-to-N Large Margin Classifier,2020
+47,A lightweight 2D Pose Machine with attention enhancement,2020
+48,A Study on the Impact of Domain Randomization for Monocular Deep 6DoF Pose Estimation,2020
+49,From explanations to feature selection: assessing SHAP values as feature selection mechanism,2020

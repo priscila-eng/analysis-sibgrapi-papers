@@ -1,0 +1,1797 @@
+id,id_paper,keyword
+0,2,Training
+1,2,Deep learning
+2,2,Visualization
+3,2,Vegetation mapping
+4,2,Manuals
+5,2,Sensor phenomena and characterization
+6,2,Cameras
+7,2,Deep Learning
+8,2,Unmanned Aerial Vehicles
+9,2,Non-linear Co-registration
+10,2,Neural Network
+11,2,Multispectral Images
+12,2,Displacement Field
+13,2,Medium Altitude
+14,2,Training Set
+15,2,Convolutional Neural Network
+16,2,Validation Set
+17,2,Convolutional Layers
+18,2,Feature Maps
+19,2,Image Segmentation
+20,2,Visual Analysis
+21,2,Vector Field
+22,2,Red Edge
+23,2,Ground Sampling Distance
+24,2,Unmanned Aerial Vehicle Flight
+25,2,Green Edges
+26,3,Performance evaluation
+27,3,Power transmission lines
+28,3,Transmission line matrix methods
+29,3,Fault detection
+30,3,Power transmission
+31,3,Companies
+32,3,Benchmark testing
+33,3,Public Datasets
+34,3,Transmission Line
+35,3,Transmission Power
+36,3,Power Line
+37,3,Data Augmentation
+38,3,Mean Average Precision
+39,3,Egg Collection
+40,3,Faster R-CNN
+41,3,Data Augmentation Techniques
+42,3,Faster R-CNN Model
+43,3,Training Set
+44,3,Deep Learning
+45,3,Visual Inspection
+46,3,Fine-tuned
+47,3,Video Recordings
+48,3,Object Detection
+49,3,Intersection Over Union
+50,3,Creative Process
+51,3,Unmanned Aerial Vehicles
+52,3,High-quality Images
+53,3,COCO Dataset
+54,3,Technical Team
+55,3,Image Annotation
+56,3,Area Detector
+57,3,Percentage Of Images
+58,3,Lack Of Datasets
+59,4,Training
+60,4,Image segmentation
+61,4,Rain
+62,4,Planets
+63,4,Biological system modeling
+64,4,Forestry
+65,4,Public policy
+66,4,Tropical Forests
+67,4,Deforestation Detection
+68,4,Training Set
+69,4,Machine Learning Methods
+70,4,Classification Results
+71,4,Biosphere
+72,4,Monitoring Program
+73,4,Ensemble Method
+74,4,Balanced Accuracy
+75,4,Relative Gain
+76,4,Criminal Sanctions
+77,4,Forest Cover Change
+78,4,Deforested Areas
+79,4,Neural Network
+80,4,Support Vector Machine
+81,4,Artificial Neural Network
+82,4,Decision Tree
+83,4,Small Datasets
+84,4,Aggregation Scheme
+85,4,Training Area
+86,4,Single Class
+87,4,Landsat Satellite
+88,4,Artificial Neural Network Classifier
+89,4,Official Program
+90,4,Linear Kernel
+91,4,Deep Learning Architectures
+92,4,Base Classifiers
+93,4,Baseline Methods
+94,5,Support vector machines
+95,5,Training
+96,5,Radio frequency
+97,5,Deep learning
+98,5,Satellites
+99,5,Machine learning algorithms
+100,5,Benchmark testing
+101,5,Few-shot Learning
+102,5,High Spatial Resolution Datasets
+103,5,Spatial Resolution
+104,5,Training Set
+105,5,Learning Algorithms
+106,5,Land Use
+107,5,Support Vector Machine
+108,5,Random Forest
+109,5,Deep Neural Network
+110,5,Classification Task
+111,5,Traditional Machine Learning
+112,5,Land Use/land Cover
+113,5,Blue Band
+114,5,Traditional Machine Learning Algorithms
+115,5,Panchromatic Band
+116,5,Smart Approach
+117,5,Convolutional Neural Network
+118,5,Validation Set
+119,5,Machine Learning Models
+120,5,Feature Space
+121,5,Machine Learning Classification Algorithms
+122,5,Normalized Difference Vegetation Index
+123,5,Enhanced Vegetation Index
+124,5,Soil Adjusted Vegetation Index
+125,5,Operational Land Imager
+126,5,Enhanced Thematic Mapper
+127,5,Machine Learning Classifiers
+128,5,Deep Learning Models
+129,5,HSV Color
+130,5,Vegetation Index
+131,6,Training
+132,6,Deep learning
+133,6,Graphics
+134,6,Analytical models
+135,6,Neural networks
+136,6,Robustness
+137,6,Data models
+138,6,Neural Network
+139,6,Convolutional Neural Network
+140,6,Data Augmentation
+141,6,Presence Of Network
+142,6,Convolutional Neural Network Training
+143,6,Noisy Labels
+144,6,Presence Of Noisy Labels
+145,6,Deep Neural Network
+146,6,Training Strategy
+147,6,Design Choices
+148,6,Real-world Datasets
+149,6,Augmentation Strategy
+150,6,MNIST Dataset
+151,6,Different Levels Of Noise
+152,6,Label Noise
+153,6,Synthetic Noise
+154,6,Training Set
+155,6,Learning Rate
+156,6,Weight Decay
+157,6,Stochastic Gradient Descent
+158,6,Data Augmentation Methods
+159,6,Random Cropping
+160,6,Noise Rate
+161,6,High Noise
+162,6,Basis Transformation
+163,6,Type Of Augmentation
+164,6,Horizontal Flip
+165,6,Standard Training
+166,6,Noise Scenarios
+167,6,label noise
+168,6,deep learning
+169,6,classification
+170,7,Training
+171,7,Computer vision
+172,7,Visualization
+173,7,Quantization (signal)
+174,7,Object detection
+175,7,Detectors
+176,7,Multitasking
+177,7,Object Detection
+178,7,Convolutional Network
+179,7,Percentage Points
+180,7,Training Phase
+181,7,Problem Scenario
+182,7,Computer Vision Research
+183,7,Neural Network
+184,7,Deep Learning
+185,7,Convolutional Neural Network
+186,7,Deep Network
+187,7,Bounding Box
+188,7,Semantic Segmentation
+189,7,Harmonic Mean
+190,7,Average Recall
+191,7,Scale-invariant Feature Transform
+192,7,COCO Dataset
+193,7,Open Image
+194,7,Edges Of Objects
+195,7,Histogram Of Oriented Gradients
+196,7,Dice Loss
+197,7,Object Pixels
+198,7,You Only Look Once
+199,7,Unseen Classes
+200,7,Single Shot Detector
+201,7,Object Annotations
+202,7,Single Ones
+203,7,Deep Neural Network
+204,7,Softmax
+205,7,Evaluation Protocol
+206,8,Visualization
+207,8,Computer vision
+208,8,Feature extraction
+209,8,Image sequences
+210,8,Faces
+211,8,Facial features
+212,8,Painting
+213,8,Facial Features
+214,8,Characteristics Of Groups
+215,8,Visual Features
+216,8,Facial Similarity
+217,8,Facial Expressions
+218,8,Combination Of Features
+219,8,Influencers
+220,8,Works Of Art
+221,8,Temporal Order
+222,8,Size Ratio
+223,8,Final Consideration
+224,8,Distance Ratio
+225,8,Face Detection
+226,8,Hausdorff Distance
+227,8,Action Units
+228,8,Sparse Datasets
+229,8,Golden Ratio
+230,9,Graphics
+231,9,Data analysis
+232,9,Visual analytics
+233,9,Soft sensors
+234,9,Urban planning
+235,9,Data visualization
+236,9,Data integration
+237,9,Data Integration
+238,9,Urban Data
+239,9,Urban Planning
+240,9,Visualization Tool
+241,9,Spatial Domain
+242,9,Nodes In The Graph
+243,9,Types Of Layers
+244,9,Urban Patterns
+245,9,Patterns In Cities
+246,9,Different Types Of Layers
+247,9,Time Series
+248,9,Spatial Patterns
+249,9,Distribution Characteristics
+250,9,Data Visualization
+251,9,Aggregate Data
+252,9,Dynamic Characteristics
+253,9,Weather Station
+254,9,Sparse Data
+255,9,Latent Space
+256,9,3D Mesh
+257,9,Projection Views
+258,9,Map View
+259,9,Vertices
+260,9,Census Tracts
+261,9,Visual Analytics Tool
+262,9,Data Layers
+263,9,Visual Components
+264,9,Geolocated
+265,9,Spatial Discretization
+266,9,Start Of The Pandemic
+267,9,Urban data
+268,9,street graphs
+269,9,visual analytics
+270,10,Visualization
+271,10,Time-frequency analysis
+272,10,Predictive models
+273,10,Volcanoes
+274,10,Safety
+275,10,Convolutional neural networks
+276,10,Time-domain analysis
+277,10,Convolutional Neural Network
+278,10,Practical Case Study
+279,10,Neural Network
+280,10,Time Domain
+281,10,Influence Of Noise
+282,10,Explainable Artificial Intelligence
+283,10,Support Vector Machine
+284,10,Artificial Neural Network
+285,10,Deep Neural Network
+286,10,Classification Performance
+287,10,Convolutional Layers
+288,10,Frequency Domain
+289,10,Neurons In Layer
+290,10,High-pass Filter
+291,10,Original Signal
+292,10,Convolutional Neural Network Architecture
+293,10,Max-pooling Layer
+294,10,Nodes In Layer
+295,10,ReLU Activation Function
+296,10,Blue Pixels
+297,10,Seismic Signals
+298,10,Seismic Stations
+299,10,Relevance Score
+300,10,Short-time Fourier Transform
+301,10,Backward Propagation
+302,10,Low-pass
+303,10,Volcanic Activity
+304,10,Neurons In The Previous Layer
+305,10,Additive Noise
+306,11,Training
+307,11,Location awareness
+308,11,Dictionaries
+309,11,Text categorization
+310,11,Symbols
+311,11,Memory
+312,11,Information retrieval
+313,11,Chinese Characters
+314,11,Localizer
+315,11,Pictograms
+316,11,Lexical Entries
+317,11,Training Dataset
+318,11,Convolutional Neural Network
+319,11,Center Of Mass
+320,11,Classification Results
+321,11,Data Storage
+322,11,Information Extraction
+323,11,Recurrent Neural Network
+324,11,Text Data
+325,11,Precision And Recall
+326,11,Bounding Box
+327,11,Convolutional Neural Network Model
+328,11,Classification Datasets
+329,11,Early Stopping
+330,11,Text Classification
+331,11,Local Dataset
+332,11,Natural Language Processing Applications
+333,11,Tagging Location
+334,11,Literal Translation
+335,11,Block Position
+336,11,Validation Dataset
+337,11,Validation Sample
+338,11,Font Type
+339,12,Training
+340,12,Graphics
+341,12,Deformable models
+342,12,Source coding
+343,12,Pipelines
+344,12,Detectors
+345,12,Convolutional neural networks
+346,12,Non-rigid Objects
+347,12,Detection Methods
+348,12,Convolutional Neural Network
+349,12,Image Pairs
+350,12,Matching Accuracy
+351,12,Matching Performance
+352,12,Training Framework
+353,12,Geometric Transformation
+354,12,Correct Matches
+355,12,Keypoint Detection
+356,12,Learning Strategies
+357,12,Feature Detection
+358,12,Depth Information
+359,12,Feature Matching
+360,12,Matching Score
+361,12,Score Map
+362,12,Basic Detection
+363,12,Inliers
+364,12,Homography
+365,12,L2 Loss
+366,12,Non-rigid Deformation
+367,12,Deformable Objects
+368,12,Training Pipeline
+369,12,Matching Ratio
+370,13,Vibrations
+371,13,Training
+372,13,Three-dimensional displays
+373,13,Robot vision systems
+374,13,Neural networks
+375,13,Predictive models
+376,13,Vibration measurement
+377,13,3D Reconstruction
+378,13,Depth Camera
+379,13,Pose Estimation
+380,13,Camera Pose
+381,13,3D Camera Pose
+382,13,Root Mean Square Error
+383,13,Mean Square Error
+384,13,Error Model
+385,13,Multilayer Perceptron
+386,13,3D Point
+387,13,Robotic Platform
+388,13,Pose Error
+389,13,Coordinate System
+390,13,Systematic Errors
+391,13,Random Error
+392,13,Horizontal Axis
+393,13,Internal Factors
+394,13,Point Cloud
+395,13,Position Error
+396,13,Least Absolute Shrinkage And Selection Operator
+397,13,Simultaneous Localization And Mapping
+398,13,Systematic And Random Errors
+399,13,Accurate 3D
+400,13,Camera Coordinate System
+401,13,Internal Parameters
+402,13,Stereo Camera
+403,13,3D Pose
+404,13,Image Coordinates
+405,13,Stereo Pairs
+406,13,Rigid Transformation
+407,13,Errors Prediction
+408,13,Camera Positioning
+409,13,3D Reconstruction
+410,13,RGB-D Cameras
+411,14,Measurement
+412,14,Computer vision
+413,14,Source coding
+414,14,Semantics
+415,14,Pose estimation
+416,14,Computer architecture
+417,14,Object detection
+418,14,Action Recognition
+419,14,Action Recognition Approaches
+420,14,Multi-scale Motion
+421,14,Computer Vision
+422,14,Object Detection
+423,14,Pose Estimation
+424,14,Graph Convolution
+425,14,Transformer Architecture
+426,14,Level Of Ambiguity
+427,14,Computer Vision Approaches
+428,14,Semantic
+429,14,Contextual Information
+430,14,Spatial Dimensions
+431,14,Attention Mechanism
+432,14,Multi-scale Features
+433,14,Graph Convolutional Network
+434,14,Focal Loss
+435,14,Version Of Dataset
+436,14,Encoder-decoder Structure
+437,14,Human Activity Recognition
+438,14,Top-5 Accuracy
+439,14,Input Tensor
+440,14,Pre-training Phase
+441,14,Upsampling Layer
+442,14,Sequence Embedding
+443,14,Joint Relationship
+444,15,Image segmentation
+445,15,Image color analysis
+446,15,Shape
+447,15,Focusing
+448,15,Birds
+449,15,Robustness
+450,15,Proposals
+451,15,Superpixel Segmentation
+452,15,Homogeneous Color
+453,15,Color Variation
+454,15,Luminosity
+455,15,Segmentation Quality
+456,15,Pixel Color
+457,15,Similar Color
+458,15,Homogeneous Regions
+459,15,Color Representation
+460,15,Homogeneous Ones
+461,16,Productivity
+462,16,Visualization
+463,16,Analytical models
+464,16,Adaptation models
+465,16,Solid modeling
+466,16,Transfer learning
+467,16,Soil
+468,16,Soil Conditions
+469,16,Soybean Seedlings
+470,16,Deep Learning
+471,16,Learning Models
+472,16,Convolutional Neural Network
+473,16,Convolutional Neural Network Model
+474,16,Labeled Data
+475,16,Soil Compaction
+476,16,Precision Agriculture
+477,16,Soybean Genotypes
+478,16,Mm In Diameter
+479,16,Image Classification
+480,16,Root System
+481,16,Number Of Images
+482,16,Bounding Box
+483,16,Long Tail
+484,16,Aerial Parts
+485,16,Average Precision
+486,16,Edge Detection
+487,16,Uniform Background
+488,16,Single Shot Detector
+489,16,Individual Seedlings
+490,16,Convolutional Neural Network Training
+491,16,Version Of Dataset
+492,16,Reference Pixels
+493,16,Soybean Seeds
+494,16,PVC Pipe
+495,16,Soybean Plants
+496,16,Power Line
+497,17,Neuroimaging
+498,17,Graphics
+499,17,Brain
+500,17,Computed tomography
+501,17,Feature extraction
+502,17,Hemorrhaging
+503,17,Mixture Model
+504,17,Stroke Classification
+505,17,Computed Tomography
+506,17,Ischemic Stroke
+507,17,Density Analysis
+508,17,Hemorrhagic Stroke
+509,17,Death In The World
+510,17,Computer-aided Diagnosis
+511,17,Diagnosis Of Stroke
+512,17,Computer-aided Diagnosis System
+513,17,Convolutional Neural Network
+514,17,Support Vector Machine
+515,17,Random Forest
+516,17,Probability Density Function
+517,17,K-nearest Neighbor
+518,17,Computed Tomography Images
+519,17,Multilayer Perceptron
+520,17,Probability Estimates
+521,17,Support Vector Machine Classifier
+522,17,Gaussian Mixture Model
+523,17,Hounsfield Units
+524,17,Leave-one-out
+525,17,Default Configuration
+526,17,Pixel Classification
+527,17,Restricted Boltzmann Machine
+528,17,Percentage Of Pixels
+529,17,Technical Validation
+530,17,Maximum A Posteriori
+531,17,Gray Level Co-occurrence Matrix
+532,17,AlexNet
+533,17,Stroke
+534,17,Classification
+535,17,Feature extractor
+536,17,Computed tomography
+537,17,Radiological density
+538,18,Graphics
+539,18,Sensitivity
+540,18,Databases
+541,18,Pulmonary diseases
+542,18,Lung
+543,18,Machine learning
+544,18,Ear
+545,18,Sound Detection
+546,18,Breath Sounds
+547,18,Lung Sound Classification
+548,18,Machine Learning
+549,18,Auscultation
+550,18,Vision Transformer
+551,18,Neural Network
+552,18,Convolutional Network
+553,18,Convolutional Neural Network
+554,18,Spatial Information
+555,18,Attention Mechanism
+556,18,Multilayer Perceptron
+557,18,Wheezing
+558,18,Attention Module
+559,18,Discrete Fourier Transform
+560,18,Hamming Window
+561,18,Window Function
+562,18,Global Average Pooling
+563,18,Convolutional Block
+564,18,Crackles
+565,18,Mel-frequency Cepstral Coefficients
+566,18,Short-time Fourier Transform
+567,18,Discrete Cosine Transform
+568,18,Spatial Attention Module
+569,18,Temporal Convolutional Network
+570,18,Convolutional Recurrent Neural Network
+571,18,Spatial Attention
+572,18,Test Split
+573,18,Global Max Pooling
+574,18,Channel Attention Module
+575,18,Auscultation
+576,18,Lung Sound Classification
+577,18,Vision Transformer
+578,18,ICBHI dataset
+579,19,Brain
+580,19,Image segmentation
+581,19,Visualization
+582,19,Three-dimensional displays
+583,19,Statistical analysis
+584,19,Functional magnetic resonance imaging
+585,19,Feature extraction
+586,19,Magnetic Resonance Imaging
+587,19,Texture Features
+588,19,Tourette Syndrome
+589,19,Statistical Significance Of Features
+590,19,3D Texture Features
+591,19,Brain Regions
+592,19,Neuroimaging
+593,19,Image Acquisition
+594,19,Normal Control
+595,19,Control Subjects
+596,19,Amygdala
+597,19,Regional Characteristics
+598,19,False Discovery Rate Correction
+599,19,Anatomical Regions
+600,19,Normal Control Group
+601,19,Structural Brain Alterations
+602,19,Brain Segmentation
+603,19,Important Literature
+604,19,Anatomical Brain Regions
+605,19,Gray Level Size Zone Matrix
+606,19,Magnetic Resonance Imaging Scans
+607,19,Gray Level Co-occurrence Matrix
+608,19,Regions In Subjects
+609,19,Textual Descriptions
+610,19,Image Pattern
+611,19,Support Vector Machine
+612,19,Skull Stripping
+613,19,Run Length
+614,19,Registration Step
+615,20,Training
+616,20,Pathology
+617,20,Volume measurement
+618,20,Manuals
+619,20,Brain modeling
+620,20,Feature extraction
+621,20,Convolutional neural networks
+622,20,Convolutional Neural Network
+623,20,White Matter Hyperintensities
+624,20,U-Net Convolutional Neural Network
+625,20,Magnetic Resonance Imaging
+626,20,Brain Regions
+627,20,Cerebrospinal Fluid
+628,20,Alzheimer’s Disease
+629,20,Classification Of Diseases
+630,20,Temporal Lobe
+631,20,Mild Cognitive Impairment
+632,20,Fluid-attenuated Inversion Recovery
+633,20,Vascular Dementia
+634,20,Fluid-attenuated Inversion Recovery Images
+635,20,White Matter Hyperintensities Volume
+636,20,Mixed Dementia
+637,20,Role In Alzheimer
+638,20,White Matter Pathology
+639,20,Neurodegenerative
+640,20,Frontal Cortex
+641,20,Slice Thickness
+642,20,T1w Images
+643,20,2D Model
+644,20,Occipital Lobe
+645,20,White Matter Hyperintensities Burden
+646,20,Cognitive Status
+647,20,Pixel Spacing
+648,20,Classification Task
+649,20,Prediction Of Alzheimer’s Disease
+650,20,Voxel Space
+651,20,Data Augmentation
+652,21,Training
+653,21,Graphics
+654,21,Semantic segmentation
+655,21,Semantics
+656,21,Network architecture
+657,21,Logic gates
+658,21,Convolutional neural networks
+659,21,Semantic Segmentation
+660,21,Attention Mechanism
+661,21,Object Boundaries
+662,21,Segment Boundaries
+663,21,Gate Set
+664,21,Attention Gate
+665,21,Validation Set
+666,21,Percentage Points
+667,21,Batch Normalization
+668,21,Training Step
+669,21,Final Segmentation
+670,21,Dilated Convolution
+671,21,Fully Convolutional Network
+672,21,Boundary Detection
+673,21,Boundary Information
+674,21,Partial Errors
+675,21,Semantic Annotation
+676,21,Atrous Spatial Pyramid Pooling
+677,21,Stream Segments
+678,21,ResNet Network
+679,22,Graphics
+680,22,Surveillance
+681,22,Wildlife
+682,22,Urban areas
+683,22,Green products
+684,22,Ecosystems
+685,22,Vegetation
+686,22,Tree Species
+687,22,Tree Species Classification
+688,22,Optimum-Path Forest
+689,22,Urban Environments
+690,22,Tree Structure
+691,22,Urban Landscape
+692,22,Street Level
+693,22,Urban Forest
+694,22,Urban Trees
+695,22,Computer-aided Methods
+696,22,Oversampling Methods
+697,22,Machine Learning
+698,22,Interpolation
+699,22,Training Set
+700,22,Support Vector Machine
+701,22,Covariance Matrix
+702,22,Random Forest
+703,22,Major Classes
+704,22,Confusion Matrix
+705,22,Random Forest Classifier
+706,22,Synthetic Minority Oversampling Technique
+707,22,Minority Class
+708,22,Minority Class Samples
+709,22,Oversampling Technique
+710,22,Light Detection And Ranging
+711,22,Bayesian Optimization
+712,22,Imbalanced Data
+713,22,Average F1-score
+714,22,Hyperparameter Values
+715,22,Version Of Dataset
+716,22,Optimum-Path Forest
+717,22,deep learning
+718,22,convolutional neural networks
+719,22,tree classification
+720,22,urban forest
+721,23,Graphics
+722,23,Scalability
+723,23,Clustering algorithms
+724,23,Estimation
+725,23,Forestry
+726,23,Partitioning algorithms
+727,23,Task analysis
+728,23,Mixture Model
+729,23,Gaussian Mixture Model
+730,23,Optimum-Path Forest
+731,23,Large Datasets
+732,23,Scalable
+733,23,Clustering Algorithm
+734,23,Expectation Maximization
+735,23,Gaussian Parameters
+736,23,Adjacency Relationship
+737,23,Computational Cost
+738,23,Gaussian Kernel
+739,23,Validation Set
+740,23,Relevant Literature
+741,23,Feature Space
+742,23,Conditional Probability
+743,23,Large-scale Datasets
+744,23,Clustering Results
+745,23,Nodes In The Graph
+746,23,Key Nodes
+747,23,Optimal Path
+748,23,Davies-Bouldin Index
+749,23,Nearest Neighbor Search
+750,23,Finite Mixture
+751,23,Cluster C
+752,23,Graph Construction
+753,23,Large Neighbourhood
+754,23,Graph Partitioning
+755,23,Clustering Quality
+756,23,Tree Search
+757,23,Covariance Matrix
+758,24,Deep learning
+759,24,Visualization
+760,24,Veins
+761,24,Transfer learning
+762,24,Pipelines
+763,24,Neural networks
+764,24,Skin
+765,24,Quantitative Description
+766,24,Biological Patterns
+767,24,Pigmentation Patterns
+768,24,Deep Neural Network
+769,24,Natural Patterns
+770,24,Labyrinth
+771,24,Machine Learning Tasks
+772,24,Realistic Patterns
+773,24,Content-based Image Retrieval
+774,24,Image Resolution
+775,24,Number Of Images
+776,24,Confidence Score
+777,24,Test Setup
+778,24,Local Descriptors
+779,24,Background Light
+780,24,Reaction-diffusion Model
+781,24,Animal Identification
+782,24,Large Spot
+783,24,Cheetah
+784,24,Global Descriptors
+785,24,Spot Patterns
+786,24,Stripe Pattern
+787,24,Mathematical Biology
+788,24,Population Standard Deviation
+789,24,Relevant Descriptors
+790,24,Point Pattern Analysis
+791,25,Support vector machines
+792,25,Deep learning
+793,25,Graphics
+794,25,Computer vision
+795,25,Task analysis
+796,25,Medical diagnostic imaging
+797,25,Image classification
+798,25,Image Classification
+799,25,Texture Features
+800,25,Support Vector Machine
+801,25,Classification Problem
+802,25,K-nearest Neighbor
+803,25,Medical Importance
+804,25,Image Classification Problems
+805,25,Computer Vision Research
+806,25,Neural Network
+807,25,Squamous Cell Carcinoma
+808,25,Convolutional Neural Network
+809,25,Grayscale
+810,25,Combination Of Features
+811,25,Local Patterns
+812,25,Linear Discriminant Analysis
+813,25,Fractal Dimension
+814,25,Image Texture
+815,25,Medical Image Analysis
+816,25,Discrete Cosine Transform
+817,25,Two-class Problem
+818,26,Surface reconstruction
+819,26,Liquids
+820,26,Smoothing methods
+821,26,Image resolution
+822,26,Pipelines
+823,26,Graphics processing units
+824,26,Computer architecture
+825,26,Surface Reconstruction
+826,26,Fast Reconstruction
+827,26,Surface Reconstruction Method
+828,26,Grid Cells
+829,26,Prior Methods
+830,26,Computation Time
+831,26,Regular Grid
+832,26,Comparison Of Sets
+833,26,Particle Position
+834,26,3D Mesh
+835,26,Isosurface
+836,26,Liquid Surface
+837,26,Particle Boundaries
+838,26,Smoothed Particle Hydrodynamics
+839,26,Grid Representation
+840,27,Training
+841,27,Shape
+842,27,Service robots
+843,27,Computational modeling
+844,27,Object detection
+845,27,Cameras
+846,27,Production facilities
+847,27,Object Recognition
+848,27,Deep Learning
+849,27,Computer Vision
+850,27,Deep Learning Models
+851,27,Object Detection
+852,27,Bounding Box
+853,27,Image Capture
+854,27,Industrial Settings
+855,27,Training Deep Learning Models
+856,27,Illumination
+857,27,Training Set
+858,27,Image Dataset
+859,27,Object Classification
+860,27,Target Object
+861,27,Depth Images
+862,27,Pose Estimation
+863,27,Synthetic Images
+864,27,Domain Adaptation
+865,27,Assembly Line
+866,27,Camera Position
+867,27,Synthetic Generation
+868,27,3D Pose
+869,27,Popular Image
+870,27,Object Detection Model
+871,27,Object Detection Task
+872,27,Reality Gap
+873,27,Image Annotation
+874,27,Volumetric Reconstruction
+875,27,Transfer Learning
+876,28,Measurement
+877,28,Training
+878,28,Photorealism
+879,28,Pipelines
+880,28,Graphics processing units
+881,28,Rendering (computer graphics)
+882,28,Kernel
+883,28,Neural Radiance Fields
+884,28,Hyperparameters
+885,28,3D Reconstruction
+886,28,Object Of Interest
+887,28,Light Field
+888,28,Worst Results
+889,28,Color Values
+890,28,Unit Sphere
+891,28,Spherical Harmonics
+892,28,Background Points
+893,28,Scene Geometry
+894,28,Trilinear Interpolation
+895,28,Coarse Structure
+896,28,Spherical Harmonic Coefficients
+897,29,Hair
+898,29,Heating systems
+899,29,Solid modeling
+900,29,Three-dimensional displays
+901,29,Head
+902,29,Biological system modeling
+903,29,Computational modeling
+904,29,Alopecia
+905,29,Male Baldness
+906,29,Computer Graphics
+907,29,Heat Diffusion
+908,29,Androgenetic Alopecia
+909,29,Graphics Applications
+910,29,3D Head
+911,29,Half Of Males
+912,29,Interpolation
+913,29,Human Model
+914,29,Wrinkles
+915,29,Generative Adversarial Networks
+916,29,Areas Of Expertise
+917,29,Actual Image
+918,29,Humeral Head
+919,29,Alternative Paths
+920,29,White Pixels
+921,29,Graying
+922,29,Hair Density
+923,29,Facial Age
+924,29,Hair Texture
+925,29,White Hairs
+926,29,Texture Map
+927,29,3D Human Model
+928,30,Graphics
+929,30,Closed-form solutions
+930,30,Filtering
+931,30,Convolution
+932,30,Frequency-domain analysis
+933,30,Filtering algorithms
+934,30,Kernel
+935,30,Weight Decay
+936,30,Frequency Domain
+937,30,Regularization Problem
+938,30,Fourier Transform
+939,30,Computation Time
+940,30,Gaussian Kernel
+941,30,Fast Fourier Transform
+942,30,Periodic Boundary Conditions
+943,30,Spatial Domain
+944,30,Gaussian Filter
+945,30,Nonlinear Programming
+946,30,Intersection Point
+947,30,Constant Term
+948,30,Z-transformation
+949,30,Error Tolerance
+950,30,Single Thread
+951,30,Binary Search
+952,30,2D Gaussian
+953,30,Candidate Points
+954,30,Gaussian Term
+955,30,Multigrid Method
+956,30,Number Of Gaussians
+957,31,Graphics
+958,31,Image resolution
+959,31,Neural networks
+960,31,Imaging
+961,31,Image representation
+962,31,Neural Network
+963,31,Imaging Applications
+964,31,Image Representation
+965,31,Convolutional Neural Network
+966,31,Hidden Layer
+967,31,Image Reconstruction
+968,31,Network Layer
+969,31,Multilayer Perceptron
+970,31,Neural Representations
+971,31,Weights Of Layer
+972,31,Periodic Function
+973,31,Adaptive Scheme
+974,31,Linear Layer
+975,31,Kind Of Network
+976,31,Blocking Layer
+977,31,Nyquist Frequency
+978,31,Stage Of Network
+979,31,Multi-scale Representation
+980,31,Network Initialization
+981,31,Different Levels Of Detail
+982,31,Image Pyramid
+983,31,Sine Transformation
+984,31,Unified Architecture
+985,31,Paper Applications
+986,31,Frequency Band
+987,31,Input Signal
+988,31,Deep Neural Network
+989,31,Low-pass
+990,31,Training Adaptations
+991,31,Level Of Filtering
+992,31,Multiresolution
+993,31,Level fo Detail
+994,31,Neural Networks
+995,31,Imaging
+996,31,Textures
+997,32,Measurement
+998,32,Visualization
+999,32,Convolution
+1000,32,Neural networks
+1001,32,Computer architecture
+1002,32,Transformers
+1003,32,Computational efficiency
+1004,32,Vision Transformer
+1005,32,Image Inpainting
+1006,32,Computational Cost
+1007,32,Feature Maps
+1008,32,Receptive Field
+1009,32,Convolution Operation
+1010,32,Global Information
+1011,32,Small Patches
+1012,32,Patch Size
+1013,32,Number Of Heads
+1014,32,Multi-scale Strategy
+1015,32,Transformer Block
+1016,32,Non-overlapping Patches
+1017,32,Convolutional Neural Network
+1018,32,Global Context
+1019,32,Generative Adversarial Networks
+1020,32,Peak Signal-to-noise Ratio
+1021,32,CNN-based Methods
+1022,32,Long-range Dependencies
+1023,32,Output Of Block
+1024,32,Fréchet Inception Distance
+1025,32,Multi-head Self-attention
+1026,32,GAN-based Methods
+1027,32,Image inpainting
+1028,32,visual transformers
+1029,32,multi-scale patch partitioning
+1030,33,Training
+1031,33,Graphics
+1032,33,Computational modeling
+1033,33,Collaborative filtering
+1034,33,Scalability
+1035,33,Buildings
+1036,33,Distributed databases
+1037,33,Collaborative Filtering
+1038,33,Decision Templates
+1039,33,Computational Cost
+1040,33,Computational Efficiency
+1041,33,Latent Factors
+1042,33,Sparse Matrix
+1043,33,Recognition Rate
+1044,33,Fast Generation
+1045,33,High Sparsity
+1046,33,Fewer Classes
+1047,33,Classifier Fusion
+1048,33,Test Samples
+1049,33,Processing Time
+1050,33,Similarity Measure
+1051,33,K-nearest Neighbor
+1052,33,Matrix Factorization
+1053,33,Computational Burden
+1054,33,Singular Value Decomposition
+1055,33,Latent Space
+1056,33,Nodes In The Graph
+1057,33,Non-negative Matrix Factorization
+1058,33,Latent Vector
+1059,33,Labeled Training Dataset
+1060,33,Label Prediction
+1061,33,Recommender Systems
+1062,33,Project Repository
+1063,33,Sparsity Level
+1064,33,Digital Dataset
+1065,33,Baseline Category
+1066,34,Temperature measurement
+1067,34,Metals
+1068,34,Machine learning
+1069,34,Production
+1070,34,Predictive models
+1071,34,Blast furnaces
+1072,34,Control systems
+1073,34,Machine Learning
+1074,34,Temperature Prediction
+1075,34,Blast Furnace
+1076,34,Support Vector Machine
+1077,34,Machine Learning Models
+1078,34,Temperature Measurements
+1079,34,Multilayer Perceptron
+1080,34,Prediction System
+1081,34,Prediction Task
+1082,34,XGBoost
+1083,34,Hot Temperature
+1084,34,Steel Industry
+1085,34,Iron And Steel Industry
+1086,34,Raw Materials
+1087,34,Control Variables
+1088,34,Artificial Neural Network
+1089,34,Action Plan
+1090,34,Validation Set
+1091,34,Partial Least Squares
+1092,34,Time Series Analysis
+1093,34,Mean Absolute Error
+1094,34,Use Case Scenarios
+1095,34,Mean Absolute Percentage Error
+1096,34,Long Short-term Memory
+1097,34,Coal Dust
+1098,34,Support Vector Regression
+1099,34,Elapsed Time
+1100,34,Hyperparameter Search
+1101,34,Experienced Operator
+1102,34,Gradient Boosting
+1103,35,Deep learning
+1104,35,Training
+1105,35,Databases
+1106,35,Frequency-domain analysis
+1107,35,Perturbation methods
+1108,35,Training data
+1109,35,Fingerprint recognition
+1110,35,Loss Function
+1111,35,Latent Fingerprints
+1112,35,Deep Learning
+1113,35,Forensic
+1114,35,Enhancement Method
+1115,35,Latent Image
+1116,35,Frequency Domain
+1117,35,Gaussian Noise
+1118,35,Fast Fourier Transform
+1119,35,Data Augmentation
+1120,35,Learning Network
+1121,35,Generative Adversarial Networks
+1122,35,Feed-forward Network
+1123,35,Residual Block
+1124,35,Gaussian Blur
+1125,35,Output Image
+1126,35,Utility Value
+1127,35,Matching Results
+1128,35,Block Group
+1129,35,Discrete Cosine Transform
+1130,35,Salt And Pepper Noise
+1131,35,Pepper Noise
+1132,35,Additional Block
+1133,35,Convolutional Autoencoder
+1134,35,ResNet Block
+1135,36,Performance evaluation
+1136,36,Databases
+1137,36,Pandemics
+1138,36,Face recognition
+1139,36,Computational modeling
+1140,36,Pipelines
+1141,36,Benchmark testing
+1142,36,Face Recognition
+1143,36,Masked Faces
+1144,36,Masked Face Recognition
+1145,36,Biometric Systems
+1146,36,Loss Function
+1147,36,Convolutional Neural Network
+1148,36,Image Pairs
+1149,36,Face Images
+1150,36,Recognition Performance
+1151,36,Original Protocol
+1152,36,Low-resolution Images
+1153,36,Synthetic Images
+1154,36,Performance In Scenarios
+1155,36,Self-supervised Learning
+1156,36,Masked Images
+1157,36,Homeland Security
+1158,36,Triplet Loss
+1159,36,Student Network
+1160,36,Private Dataset
+1161,36,Equal Error Rate
+1162,36,Face Recognition Model
+1163,36,Face Recognition Performance
+1164,36,False Acceptance Rate
+1165,37,Measurement
+1166,37,Graphics
+1167,37,Analytical models
+1168,37,Image synthesis
+1169,37,Gesture recognition
+1170,37,Assistive technologies
+1171,37,Generative adversarial networks
+1172,37,Sign Language
+1173,37,Deep Generative Models
+1174,37,Brazilian Sign Language
+1175,37,Deep Models
+1176,37,Generative Adversarial Networks
+1177,37,Non-verbal Communication
+1178,37,Peak Signal-to-noise Ratio
+1179,37,Synthetic Images
+1180,37,Variational Autoencoder
+1181,37,Image Synthesis
+1182,37,Structural Similarity Index Measure
+1183,37,World Health Organization
+1184,37,Neural Network
+1185,37,Deep Learning
+1186,37,Image Quality
+1187,37,Synthesis Method
+1188,37,Hearing Loss
+1189,37,Body Position
+1190,37,Single Person
+1191,37,Language Translation
+1192,37,Images Of People
+1193,37,Evidence Lower Bound
+1194,37,Input RGB Image
+1195,37,Neural Machine Translation
+1196,37,Conditional Variational Autoencoder
+1197,37,Sign Language Recognition
+1198,37,Sign Language Translation
+1199,37,Person Image
+1200,38,PSNR
+1201,38,Inverse problems
+1202,38,Face recognition
+1203,38,Superresolution
+1204,38,Stochastic processes
+1205,38,Differential equations
+1206,38,Particle measurements
+1207,38,Stochastic Differential Equations
+1208,38,Recognition Task
+1209,38,Face Recognition
+1210,38,Diffusion Model
+1211,38,Facial Features
+1212,38,Inverse Problem
+1213,38,Peak Signal-to-noise Ratio
+1214,38,Structural Similarity Index Measure
+1215,38,Solution Of The Inverse Problem
+1216,38,Markov Chain
+1217,38,High-resolution Images
+1218,38,Denoising
+1219,38,Diffusion Process
+1220,38,Markov Chain Monte Carlo
+1221,38,Reversible Process
+1222,38,Generative Adversarial Networks
+1223,38,Recognition Accuracy
+1224,38,Low-resolution Images
+1225,38,Image Synthesis
+1226,38,Correction Step
+1227,38,Forward Process
+1228,38,Image Smoothing
+1229,38,Noisy Images
+1230,38,Drift Coefficient
+1231,38,Langevin Dynamics
+1232,38,Affine Function
+1233,38,Super-resolution Algorithms
+1234,38,Surveillance Cameras
+1235,38,Random Gaussian Noise
+1236,38,Super-resolution Problem
+1237,39,Industries
+1238,39,Neural networks
+1239,39,Quality control
+1240,39,Inspection
+1241,39,Feature extraction
+1242,39,Transformers
+1243,39,Pattern recognition
+1244,39,Local Patterns
+1245,39,Melamine
+1246,39,Neural Network
+1247,39,Pattern Recognition
+1248,39,Convolutional Neural Network
+1249,39,Local Network
+1250,39,Use Of Natural Resources
+1251,39,Clean Technology
+1252,39,Neural Network Approach
+1253,39,Binary Network
+1254,39,Machine Learning
+1255,39,Support Vector Machine
+1256,39,Artificial Neural Network
+1257,39,Convolutional Layers
+1258,39,Data Augmentation
+1259,39,Types Of Images
+1260,39,Human Eye
+1261,39,Near-infrared Spectroscopy
+1262,39,Support Vector Machine Classifier
+1263,39,Main Aspects
+1264,39,Local Binary Pattern Features
+1265,39,Types Of Defects
+1266,39,Near-infrared Camera
+1267,39,Learning Phase
+1268,39,LBCNN
+1269,39,fault classification
+1270,39,melamine panel
+1271,39,wood defect classification
+1272,40,Training
+1273,40,Image recognition
+1274,40,Surveillance
+1275,40,Superresolution
+1276,40,Training data
+1277,40,Computer architecture
+1278,40,Noise measurement
+1279,40,Attention Module
+1280,40,Pixel Shuffle
+1281,40,Loss Function
+1282,40,Deep Learning
+1283,40,High-resolution Images
+1284,40,Surveillance System
+1285,40,Gaussian Noise
+1286,40,Low-resolution Images
+1287,40,Low-quality Images
+1288,40,License Plate
+1289,40,Structural Similarity Index Measure
+1290,40,Single Image Super-resolution
+1291,40,License Plate Recognition
+1292,40,Convolutional Neural Network
+1293,40,Convolutional Layers
+1294,40,Image Reconstruction
+1295,40,Attention Mechanism
+1296,40,Generative Adversarial Networks
+1297,40,Interpolation Method
+1298,40,Peak Signal-to-noise Ratio
+1299,40,Optical Character Recognition
+1300,40,Super-resolution Model
+1301,40,Recognition Rate
+1302,40,Perceptual Loss
+1303,40,Reconstruction Module
+1304,40,Motion Blur
+1305,40,Shallow Features
+1306,40,Recognition Results
+1307,40,Translation Invariance
+1308,40,End Of Module
+1309,41,Graphics
+1310,41,Computer vision
+1311,41,Costs
+1312,41,Computational modeling
+1313,41,Predictive models
+1314,41,License plate recognition
+1315,41,Dataset Bias
+1316,41,License Plate Recognition
+1317,41,Public Datasets
+1318,41,Mainland China
+1319,41,Computer Vision Community
+1320,41,Real-world Performance
+1321,41,License Plate
+1322,41,Training Set
+1323,41,Training Data
+1324,41,Convolutional Neural Network
+1325,41,Support Vector Machine
+1326,41,Convolutional Layers
+1327,41,Image Dataset
+1328,41,Image Regions
+1329,41,Training Images
+1330,41,Optical Character Recognition
+1331,41,Image Compression
+1332,41,Provinces In Mainland China
+1333,41,Cause Of Bias
+1334,41,Lightweight Convolutional Neural Network
+1335,42,Training
+1336,42,Computer vision
+1337,42,Computational modeling
+1338,42,Urban areas
+1339,42,Computer architecture
+1340,42,Feature extraction
+1341,42,Safety
+1342,42,Neural Network
+1343,42,Convolutional Neural Network
+1344,42,Deep Neural Network
+1345,42,Deep Convolutional Neural Network
+1346,42,Computer Vision
+1347,42,Classification Task
+1348,42,Traffic Safety
+1349,42,Intelligent Transportation Systems
+1350,42,Urban Mobility
+1351,42,Traffic Violations
+1352,42,Training Set
+1353,42,Learning Rate
+1354,42,Validation Set
+1355,42,Batch Size
+1356,42,Training Time
+1357,42,Data Augmentation
+1358,42,Traffic Flow
+1359,42,Input Size
+1360,42,Computational Performance
+1361,42,Inference Time
+1362,42,Data Augmentation Techniques
+1363,42,Blocking Layer
+1364,42,Car Model
+1365,42,Validation Loss
+1366,43,Training
+1367,43,Computer vision
+1368,43,Animals
+1369,43,Biological system modeling
+1370,43,Roads
+1371,43,Data models
+1372,43,Safety
+1373,43,Computer Vision
+1374,43,Highway
+1375,43,Data Augmentation
+1376,43,Detection Model
+1377,43,Average Precision
+1378,43,Large Mammals
+1379,43,Field Of Computer Vision
+1380,43,Convolutional Neural Network
+1381,43,Object Detection
+1382,43,Image Object
+1383,43,Bounding Box
+1384,43,Detection Task
+1385,43,Road Accidents
+1386,43,Text File
+1387,43,Image Collection
+1388,43,Mean Average Precision
+1389,43,Poaching
+1390,43,Labeled Data Set
+1391,43,Animal Category
+1392,43,Official Website
+1393,43,Literature Datasets
+1394,43,Axis Of The Image
+1395,43,Camera Traps
+1396,43,Distribution Of Instances
+1397,43,Objects In Context
+1398,43,Real Animals
+1399,43,Google Images
+1400,43,XML File
+1401,44,Uncertainty
+1402,44,Sensitivity
+1403,44,Printed circuits
+1404,44,Electronic components
+1405,44,Detectors
+1406,44,Object detection
+1407,44,Data models
+1408,44,Printed Circuit Board
+1409,44,Electronic Components
+1410,44,Printed Circuit
+1411,44,Waste Printed Circuit Boards
+1412,44,Source Material
+1413,44,Object Detection
+1414,44,Teacher Model
+1415,44,Integrated Circuit
+1416,44,Student Model
+1417,44,Recycling Process
+1418,44,E-waste
+1419,44,Modern Imaging
+1420,44,Neural Network
+1421,44,Impedance
+1422,44,Deep Learning
+1423,44,Window Size
+1424,44,Image Pairs
+1425,44,Classical Components
+1426,44,Target Dataset
+1427,44,Broken Parts
+1428,44,Ceramic Capacitors
+1429,44,Object Detection Model
+1430,44,Original Label
+1431,44,Self-training
+1432,44,Electronic components detector
+1433,44,Teacher-student models
+1434,45,Measurement
+1435,45,Training
+1436,45,Image analysis
+1437,45,Image color analysis
+1438,45,Histopathology
+1439,45,Computational modeling
+1440,45,Predictive models
+1441,45,Ridge Regularization
+1442,45,Studies In The Literature
+1443,45,non-Hodgkin Lymphoma
+1444,45,Outcome Metrics
+1445,45,Hermite Polynomials
+1446,45,Important Role In Medicine
+1447,45,Prediction Model
+1448,45,Learning Algorithms
+1449,45,Standard Deviation Values
+1450,45,Multilayer Perceptron
+1451,45,Chronic Lymphocytic Leukemia
+1452,45,Random Forest Classifier
+1453,45,Maximum Point
+1454,45,Random Forest Algorithm
+1455,45,Fractal Dimension
+1456,45,Regularization Method
+1457,45,Accuracy Metrics
+1458,45,Computer-aided Diagnosis
+1459,45,RGB Color
+1460,45,Mantle Cell Lymphoma
+1461,45,Multilayer Perceptron Classifier
+1462,45,Color Model
+1463,45,Axis Of The Graph
+1464,45,Fractal Geometry
+1465,45,Weka Software
+1466,45,Euclidean Geometry
+1467,45,Vector Data
+1468,45,Laboratory Model
+1469,45,Norm Penalty
+1470,45,CAD
+1471,45,Histological Image
+1472,45,Polynomial Classifier
+1473,45,Regularization
+1474,46,Tongue
+1475,46,Histopathology
+1476,46,Transfer learning
+1477,46,Feature extraction
+1478,46,Mice
+1479,46,Classification algorithms
+1480,46,Lesions
+1481,46,Deep Features
+1482,46,Association Of Characteristics
+1483,46,Oral Dysplasia
+1484,46,Oral Epithelial Dysplasia
+1485,46,Convolutional Neural Network
+1486,46,Convolutional Layers
+1487,46,Transfer Learning
+1488,46,AlexNet
+1489,46,ResNet-50 Model
+1490,46,Grading Process
+1491,46,Mouse Tongue
+1492,46,Deep Learning
+1493,46,Learning Algorithms
+1494,46,Support Vector Machine
+1495,46,Random Forest
+1496,46,Performance Of Algorithm
+1497,46,Classification Task
+1498,46,Linear Discriminant Analysis
+1499,46,Number Of Images
+1500,46,Convolutional Neural Network Model
+1501,46,Identification Of Lesions
+1502,46,Handcrafted Features
+1503,46,Polynomial Expansion
+1504,46,Hermite Polynomials
+1505,46,ResNet-50 Architecture
+1506,46,Order Of Expansion
+1507,46,Decision Rules
+1508,46,Computer-aided Diagnosis
+1509,46,Orthogonal Polynomials
+1510,46,Polynomial Basis
+1511,47,Measurement
+1512,47,Head
+1513,47,Image recognition
+1514,47,Computational modeling
+1515,47,Morphology
+1516,47,Computer architecture
+1517,47,Manuals
+1518,47,Convolutional Neural Network
+1519,47,Deep Convolutional Neural Network
+1520,47,Acrosome
+1521,47,Sperm Head Morphology
+1522,47,High Similarity
+1523,47,Artificial Neural Network
+1524,47,Convolutional Neural Network Model
+1525,47,Object Of Interest
+1526,47,Humeral Head
+1527,47,Computational Perspective
+1528,47,World Health Organization
+1529,47,Convolutional Layers
+1530,47,Input Image
+1531,47,Feature Maps
+1532,47,Confusion Matrix
+1533,47,Data Augmentation
+1534,47,Precision And Recall
+1535,47,Convolution Kernel
+1536,47,Deep Architecture
+1537,47,Convolutional Neural Network Architecture
+1538,47,Standard Metrics
+1539,47,Medical Image Classification
+1540,47,Pooling Operation
+1541,47,Interclass Similarity
+1542,47,Invariant Function
+1543,47,Raw Video
+1544,47,Filtering Stage
+1545,47,Cetaceans
+1546,47,Medical Classification
+1547,47,Head Shape
+1548,48,Deep learning
+1549,48,Training
+1550,48,Malignant tumors
+1551,48,Neural networks
+1552,48,Computer architecture
+1553,48,Transformers
+1554,48,Breast cancer
+1555,48,Breast Cancer
+1556,48,Histopathological Images
+1557,48,Breast Cancer Histopathological Images
+1558,48,Neural Network
+1559,48,Early Diagnosis
+1560,48,Deep Network
+1561,48,Classification Accuracy
+1562,48,Deep Neural Network
+1563,48,Annotated Dataset
+1564,48,Females Worldwide
+1565,48,Classification Accuracy Rate
+1566,48,Heatmap
+1567,48,Training Set
+1568,48,Malignant Tumors
+1569,48,Convolutional Layers
+1570,48,Image Classification
+1571,48,Highest Accuracy
+1572,48,Machine Learning Approaches
+1573,48,Image Dataset
+1574,48,Data Augmentation
+1575,48,Tumor Nuclei
+1576,48,Malignant Cases
+1577,48,Otsu’s Method
+1578,48,Deep Neural Network Model
+1579,48,High Classification Accuracy
+1580,48,PNG Format
+1581,48,JSON Format
+1582,48,Image Annotation
+1583,48,Masked Images
+1584,48,Medical Context
+1585,49,COVID-19
+1586,49,Deep learning
+1587,49,Surveillance
+1588,49,Neural networks
+1589,49,Human factors
+1590,49,Cameras
+1591,49,Social factors
+1592,49,Neural Network
+1593,49,Social Distancing
+1594,49,Convolutional Neural Network
+1595,49,Risk Of Contamination
+1596,49,Face Masks
+1597,49,Number Of People
+1598,49,Deep Neural Network
+1599,49,Surveillance Cameras
+1600,49,Support Vector Machine
+1601,49,Artificial Neural Network
+1602,49,Number Of Deaths
+1603,49,Object Detection
+1604,49,Pedestrian
+1605,49,Intersection Over Union
+1606,49,Simulated Datasets
+1607,49,Deep Convolutional Neural Network
+1608,49,Bounding Box
+1609,49,Face Images
+1610,49,Synthetic Images
+1611,49,Pre-trained Network
+1612,49,Masked Faces
+1613,49,Face Detection
+1614,49,Bird’s Eye
+1615,49,KITTI Dataset
+1616,49,Social Evaluation
+1617,49,Images Of People
+1618,50,Training
+1619,50,Image segmentation
+1620,50,Taxonomy
+1621,50,Supervised learning
+1622,50,Surgery
+1623,50,Tutorials
+1624,50,Classification algorithms
+1625,50,Medical Imaging
+1626,50,Image Segmentation
+1627,50,Medical Image Segmentation
+1628,50,Neural Network
+1629,50,Training Dataset
+1630,50,Supervised Learning
+1631,50,Body Of Knowledge
+1632,50,Semantic Segmentation
+1633,50,Segmentation Task
+1634,50,Surgery Planning
+1635,50,Deep Neural Network
+1636,50,Chest X-ray
+1637,50,Image Classification
+1638,50,Cross-entropy
+1639,50,Large-scale Datasets
+1640,50,Domain Shift
+1641,50,RGB Images
+1642,50,Related Domains
+1643,50,Self-supervised Learning
+1644,50,Few-shot Classification
+1645,50,Few-shot Learning
+1646,50,Query Set
+1647,50,Large-scale Image Datasets
+1648,50,Moment Matching
+1649,50,Understanding Of Methods
+1650,50,Query Image
+1651,50,meta-learning
+1652,50,few-shot learning
+1653,50,semantic segmentation
+1654,50,medical imaging
+1655,50,domain generalization
+1656,51,Dimensionality reduction
+1657,51,Deep learning
+1658,51,Visualization
+1659,51,Analytical models
+1660,51,Data visualization
+1661,51,Machine learning
+1662,51,Tutorials
+1663,51,Machine Learning
+1664,51,Deep Learning
+1665,51,Learning Models
+1666,51,Dimensionality Reduction
+1667,51,Machine Learning Models
+1668,51,Deep Learning Models
+1669,51,Topological Analysis
+1670,51,Visualization Techniques
+1671,51,Topological Data Analysis
+1672,51,Linear Model
+1673,51,Neural Network
+1674,51,Convolutional Neural Network
+1675,51,Artificial Neural Network
+1676,51,Decision Tree
+1677,51,Black Box
+1678,51,Visual Analysis
+1679,51,Confusion Matrix
+1680,51,Long Short-term Memory
+1681,51,Visualization Tool
+1682,51,Example Of Model
+1683,51,Generalized Additive Models
+1684,51,Partial Dependence Plots
+1685,51,Dimensionality Reduction Methods
+1686,51,Visual Capabilities
+1687,51,Gradient-based Methods
+1688,51,Common Metrics
+1689,51,Box Model
+1690,51,Hidden State
+1691,51,Local Explanations
+1692,51,Interactive Visualization
+1693,51,visualization
+1694,51,machine learning
+1695,52,Degradation
+1696,52,Visualization
+1697,52,Solid modeling
+1698,52,Image analysis
+1699,52,Computational modeling
+1700,52,Imaging
+1701,52,Virtual reality
+1702,52,Spherical Surface
+1703,52,Immersive Experience
+1704,52,Virtual Reality Experience
+1705,52,Spherical Domain
+1706,52,Spherical Image
+1707,52,Single Image
+1708,52,3D Reconstruction
+1709,52,Receptive Field
+1710,52,Latent Space
+1711,52,Ground Plane
+1712,52,Image Point
+1713,52,3D Point
+1714,52,Depth Values
+1715,52,Unit Sphere
+1716,52,Depth Estimation
+1717,52,Intrinsic Parameters
+1718,52,Head-mounted Display
+1719,52,Skew-symmetric
+1720,52,Scene Information
+1721,52,North Pole
+1722,52,Spherical Projection
+1723,52,World Coordinate System
+1724,52,360° images
+1725,52,spherical images
+1726,52,omnidirectional images
+1727,52,panoramas
+1728,53,Training
+1729,53,Measurement
+1730,53,Graphics
+1731,53,Neural networks
+1732,53,Generative adversarial networks
+1733,53,Quality assessment
+1734,53,Convergence
+1735,53,Generative Adversarial Networks
+1736,53,Stability Issues
+1737,53,Synthetic Images
+1738,53,Stable Training
+1739,53,Convolutional Network
+1740,53,Convolutional Neural Network
+1741,53,Latent Space
+1742,53,Noise Vector
+1743,53,Vanishing Gradient
+1744,53,Image Synthesis
+1745,53,Realistic Images
+1746,53,Adversarial Training
+1747,53,Latent Vector
+1748,53,Conditional Generative Adversarial Network
+1749,53,Style Transfer
+1750,53,Generator Training
+1751,53,Generative Adversarial Networks Training
+1752,53,Fréchet Inception Distance
+1753,53,Trilemma
+1754,53,Generative Adversarial Network
+1755,53,image manipulation
+1756,53,deep image synthesis
+1757,53,deep neural network
+1758,54,Training
+1759,54,Visualization
+1760,54,Systematics
+1761,54,Semantic segmentation
+1762,54,Taxonomy
+1763,54,Semantics
+1764,54,Training data
+1765,54,Visual Learning
+1766,54,Semantic Segmentation
+1767,54,Unknown Samples
+1768,54,Visual Recognition Tasks
+1769,54,Neural Network
+1770,54,Statistical Models
+1771,54,Deep Learning
+1772,54,Convolutional Neural Network
+1773,54,Web Of Science
+1774,54,Deep Neural Network
+1775,54,Rare Events
+1776,54,Types Of Strategies
+1777,54,Visual Task
+1778,54,Kullback-Leibler
+1779,54,Generative Adversarial Networks
+1780,54,Search String
+1781,54,Variational Autoencoder
+1782,54,Intermediate Features
+1783,54,Reconstruction Loss
+1784,54,Anomaly Score
+1785,54,Auxiliary Data
+1786,54,Jensen-Shannon Divergence
+1787,54,Open World
+1788,54,Classification Of Articles
+1789,54,Input Image
+1790,54,open-set
+1791,54,semantic segmentation
+1792,54,open-set recognition
+1793,54,open-set segmentation
+1794,54,deep learning
+1795,54,neural network

@@ -1,0 +1,201 @@
+id,id_paper,name
+0,0,W. Niessen
+1,1,J.R.A. Torreao
+2,2,L.A. Pereira Neves
+3,2,J. Facon
+4,3,R.S. Feris
+5,3,R.M. Cesar
+6,4,T.E. de Dampos
+7,4,R. Schimidt Feris
+8,4,R.M. Cesar
+9,5,L.L. Galdino
+10,5,D.L. Borges
+11,6,J.S. Tanaka
+12,6,E.T.M. Manoel
+13,6,L. da Fontoura Costa
+14,7,J.D.S. da Silva
+15,7,P.O. Simoni
+16,7,K.K. Bharadwaj
+17,8,E.M. de Almeida Neves
+18,8,J.E. Borelli
+19,8,A. Gonzaga
+20,9,L.E. Soares de Oliveira
+21,9,E. Lethelier
+22,9,F. Bortolozzi
+23,9,R. Sabourin
+24,10,A.M. Correa Machado
+25,10,M.F. Montenegro CAmpos
+26,10,J. Gee
+27,11,G.A. Giraldi
+28,11,E. Strauss
+29,11,A.A.F. Oliveira
+30,12,C.H. Quartucci Forster
+31,12,C.L. Tozzi
+32,13,C.O. de Almendra Freitas
+33,13,A. El Yacoubi
+34,13,F. Bortolozzi
+35,13,R. Sabourin
+36,14,E.J.R. Justino
+37,14,A. El Yacoubi
+38,14,F. Bortolozzi
+39,14,R. Sabourin
+40,15,M.E. Morita
+41,15,E. Letelier
+42,15,A. El Yacoubi
+43,15,F. Bortolozzi
+44,15,R. Sabourin
+45,16,L. Velho
+46,16,J. Gomes
+47,17,L. Velho
+48,18,J.B.S. de Oliveira
+49,18,L.H. de Figueiredo
+50,19,M. Walter
+51,19,C.G. Franco
+52,20,Wu Shin-Ting
+53,20,O. Alessio
+54,20,S.I.R. Costa
+55,21,N.D.A. Mascarenhas
+56,21,I.A. Souza
+57,21,P.E. Cruvinel
+58,21,C.I. Biscegli
+59,21,R.R. Rosa
+60,22,R.M. Rangayyan
+61,22,R.J. Ferrari
+62,22,J.E.L. Desautels
+63,22,A.F. Frere
+64,23,C.R. Jung
+65,23,J. Scharcanski
+66,24,Zhao Hui Li
+67,24,Liang Zhao
+68,24,N.Y. Soma
+69,25,P.E. Cruvinel
+70,25,F.A. Balogun
+71,26,D. Szwarcman
+72,26,B. Feijo
+73,26,M. Costa
+74,27,F. Wagner da Silva
+75,27,L.M. Garcia
+76,27,R.C. Farias
+77,27,A.A.F. Oliveira
+78,28,H. Mayer
+79,29,D. Nehab
+80,29,M. Gattass
+81,30,A.E. Fabris
+82,30,M.M.O. Assis
+83,30,A.R. Forrest
+84,31,R. Farias
+85,31,J.S.B. Mitchell
+86,31,C.T. Silva
+87,31,B. Wylie
+88,32,L.A.P. Lozada
+89,32,C.X. de Mendonca
+90,32,J. Stolfi
+91,33,A.D. Alves
+92,33,M.C. Ferreira de Oliveira
+93,33,R. Minghim
+94,33,L.G. Nonato
+95,34,R.A. Lotufo
+96,34,A.A. Falcao
+97,34,F.A. Zampirolli
+98,35,S.J.F. Guimaraes
+99,35,N.J. Leite
+100,36,N.S.T. Hirata
+101,36,J. Barbera
+102,36,R. Terada
+103,37,F. De Assis Zampirolli
+104,37,R. De Alencar Lotufo
+105,38,F.C. Flores
+106,38,R. Hirata
+107,38,J. Barrera
+108,38,R.A. Lotufo
+109,38,F. Meyer
+110,39,H.M.F. Madeira
+111,39,J. Barbera
+112,40,R. Hirata
+113,40,F.C. Flores
+114,40,J. Barbera
+115,40,R.A. Lotufo
+116,40,F. Meyer
+117,41,G.J. Fernandez
+118,41,J. Jacobo-Berlles
+119,41,M. Bauza
+120,41,P. Borensztein
+121,41,M. Mejail
+122,42,A. De Albuquerque Araujo
+123,42,B.M. De Faria
+124,42,L.S. Neto
+125,43,A. Da Rocha Gesualdi
+126,43,M.P. De Albuquerque
+127,43,J.M. Seixas
+128,43,L.P. Caloba
+129,44,S.J.F. Guimaraes
+130,44,A. De Albuquerque Araujo
+131,44,G. Cerqueira
+132,45,A.D. Sappa
+133,45,L.M. Garcia
+134,46,J.R. Bittencourt
+135,46,F.S. Osorio
+136,47,L.R. Veloso
+137,47,R.P. Sousa
+138,47,J.M. De Carvalho
+139,48,S.E.N. Correia
+140,48,J.M. De Carvalho
+141,49,V.C. Da Silva
+142,49,J.M. De Carvalho
+143,50,A.D.A. Araujo
+144,50,L.M.B. Claudino
+145,50,R.A.R. Oliveira
+146,50,S. Jamil
+147,51,J.G.F. Mexas
+148,51,A. De Oliveira
+149,51,C. Esperanca
+150,52,S.D.F. Fernandes
+151,52,A.M.V. Monteiro
+152,52,C.L. Mendes
+153,53,S.M.F. Costa
+154,53,N. Peixoto
+155,53,J.M.V. De Oliveira
+156,53,L.M. Arantes
+157,53,F.J.R. Fernandez
+158,54,C.A.C. Caetano
+159,54,L. Ventura
+160,54,S.J.F. Sousa
+161,54,R.D.A. Lotufo
+162,55,C.R.P. Dionisio
+163,55,R.M. Cesar
+164,56,C.B.F. Marques
+165,56,L.V. Souza
+166,56,L.C.G. Andrade
+167,56,M.F.M. Campos
+168,57,I.D.O. Matias
+169,57,A.A.F.D. Oliveira
+170,58,P.P.D.M. Oliveira
+171,58,M. Gattass
+172,59,A.D.A. Araujo
+173,59,B.M. De Faria
+174,59,H.J. Rees
+175,59,M.A.R. Silva
+176,60,T.K. Mitre
+177,60,A.B. Huguet
+178,60,A.D.A. Araujo
+179,60,N.S. Andrade
+180,61,R. Pizzio
+181,61,P.R.G. Franco
+182,62,S. De Abreu
+183,62,R.B. De Araujo
+184,62,A.L. Battaiola
+185,63,M.R.G. Marquez
+186,63,Wu Shin-Ting
+187,64,A.P. Borges
+188,64,M.O.P. Lisboa
+189,64,F.J.R. Fernandez
+190,65,C.A.M. Dos Santos
+191,65,A.K. Kojima
+192,65,C.M.D.S. Freitas
+193,66,I.H. Manssour
+194,66,S.S. Furuie
+195,66,L.P. Nedel
+196,66,C.M.D.S. Freitas
+197,67,A.J.A.D. Cruz
+198,67,A.B. Raposo
+199,67,L.P. Magalhaes

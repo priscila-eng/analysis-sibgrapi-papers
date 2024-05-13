@@ -1,0 +1,225 @@
+id,id_paper,name
+0,3,João Coutinho
+1,3,Bruno A. D. Marques
+2,3,João Paulo Gois
+3,4,Daniele Fernandes E. Silva
+4,4,Iago Berndt
+5,4,Rafael P. Torchelsen
+6,4,Anderson Maciel
+7,5,Jardel Rodrigues
+8,5,Nivando Bezerra
+9,6,Lizeth A. C. Beltran
+10,6,Jorge Luiz dos Santos
+11,6,Carolina Uribe Cruzz
+12,6,Carla M. D. S. Freitas
+13,7,Hugo N. De Oliveira
+14,7,Jefersson Alex Dos Santos
+15,7,Matheus C. de Melo
+16,7,Thaís G. do Rêgo
+17,7,Leonardo V. Batista
+18,8,Vaclav Skala
+19,8,Michal Smolik
+20,8,Zuzana Majdisova
+21,9,F. Betul Atalay
+22,9,Sorelle A. Friedler
+23,9,Dianna Xu
+24,10,João Paulo Silva do Monte Lima
+25,10,Veronica Teichrieb
+26,11,Matheus L. Krueger
+27,11,Manuel M. Oliveira
+28,11,Airton L. Kronbauer
+29,12,Fernanda A. Andaló
+30,12,Otávio A. B. Penatti
+31,12,Vanessa Testoni
+32,13,Gustavo Führ
+33,13,Claudio R. Jung
+34,13,Mauricio B. De Paula
+35,14,Ítalo de Pontes Oliveira
+36,14,João Lucas Peixoto Medeiros
+37,14,Vinícius Fernandes de Sousa
+38,14,Adalberto Gomes Teixeira Junior
+39,14,Eanes Torres Pereira
+40,14,Herman Martins Gomes
+41,15,Pedro J. Soto Vega
+42,15,Raul Queiroz Feitosa
+43,15,Victor H. Ayma Quirita
+44,15,Patrick Nigri Happ
+45,16,Pedro De Moura Garcia
+46,16,Diego Luis Kreutz
+47,16,Daniel Welfer
+48,17,Estephan Dazzi
+49,17,Teofilo De Campos
+50,17,Adrian Hilton
+51,17,Roberto Cesar
+52,18,Helton H. Bíscaro
+53,18,Hellyan Oliveira
+54,18,Leila C. C. Bergamasco
+55,18,Fátima L. S. Nunes
+56,19,Elisa de Cássia Silva Rodrigues
+57,19,Jorge Stolfi
+58,20,Renan Nespolo
+59,20,Leandro Alves Neves
+60,20,Guilherme Roberto
+61,20,Matheus Ribeiro
+62,20,Marcelo Zanchetta do Nascimento
+63,20,Adriano Cansian
+64,21,Rafael S. T. Vieira
+65,21,Joaquim B. Cavalcante-Neto
+66,21,Creto Augusto Vidal
+67,21,Guillaume Vialaneix
+68,21,Claudio T. Silva
+69,22,M. A. Almeida
+70,22,Emerson Carlos Pedrino
+71,22,M. C. Nicoletti
+72,23,Natal Henrique Cordeiro
+73,23,Antonio Miguel Batista Dourado
+74,23,Gustavo da Silva Quirino
+75,23,Emerson Carlos Pedrino
+76,24,Igor L. P. Andrezza
+77,24,Erick V. C. L. Borges
+78,24,Rajiv A. T. Mota
+79,24,João Janduy B. Primo
+80,25,Erick V. C. L. Borges
+81,25,Igor L. P. Andrezza
+82,25,José R. T. Marques
+83,25,Rajiv A. T. Mota
+84,25,João Janduy B. Primo
+85,26,R. L. Parente
+86,26,Leonardo V. Batista
+87,26,Igor L. P. Andrezza
+88,26,Erick V. C. L. Borges
+89,26,Rajiv A. T. Mota
+90,27,Renato Augusto De Souza
+91,27,Raquel Pereira De Almeida
+92,27,Arghir-Nicolae Moldovan
+93,27,Zenilton Kleber G. do Patrocínio
+94,27,Silvio Jamil F. Guimarães
+95,28,Kleber Jacques De Souza
+96,28,Arnaldo de Albuquerque Araújo
+97,28,Zenilton Kleber G. do Patrocínio
+98,28,Jean Cousty
+99,28,Laurent Najman
+100,28,Yukiko Kenmochi
+101,28,Silvio Jamil F. Guimarães
+102,29,Rodolfo Migon Favaretto
+103,29,Leandro Lorenzett Dihl
+104,29,Soraia Raupp Musse
+105,30,Edwin Escobedo
+106,30,Guillermo Camara
+107,31,Maiko Min Ian Lie
+108,31,Gustavo Benvenutti Borba
+109,31,Hugo Vieira Neto
+110,31,Humberto Remigio Gamba
+111,32,Jonathan S. Ramos
+112,32,Carolina Y. V. Watanabey
+113,32,Agma J. M. Traina
+114,33,Daily Daleno de O. Rodrigues
+115,33,Wagner F. de Barros
+116,33,José P. de Queiroz-Neto
+117,33,Anderson G. Fontoura
+118,33,José Reginaldo H. Carvalho
+119,34,Welinton A. Contato
+120,34,Tiago S. Nazare
+121,34,Gabriel B. Paranhos da Costa
+122,34,Moacir Ponti
+123,34,João E. S. Batista Neto
+124,35,Lucas Pascotti Valem
+125,35,Daniel Carlos Guimarães Pedronette
+126,36,Leonardo A. Duarte
+127,36,Otávio A. B. Penatti
+128,36,Jurandy Almeida
+129,37,Carlos Alberto F. Pimentel Filho
+130,37,Arnaldo de Albuquerque Araújo
+131,37,Jean Cousty
+132,37,Silvio Jamil F. Guimarães
+133,37,Laurent Najman
+134,38,Thiago Vallin Spina
+135,38,Samuel Botter Martins
+136,38,Alexandre Xavier Falcão
+137,39,Gustavo B. Souza
+138,39,Gabriel M. Alves
+139,39,Alexandre L. M. Levada
+140,39,Paulo E. Cruvinel
+141,39,Aparecido N. Marana
+142,40,Lucy A. C. Mansilla
+143,40,Paulo A. V. Miranda
+144,41,Lucas Pagliosa
+145,41,Paulo Pagliosa
+146,41,Luis Gustavo Nonato
+147,42,Jose Florencio de Queiroz Neto
+148,42,Emanuele Marques dos Santos
+149,42,Creto Augusto Vidal
+150,43,Luís A. Tavares
+151,43,Roberto M. Souza
+152,43,Leticia Rittner
+153,43,Rubens C. Machado
+154,43,Roberto A. Lotufo
+155,44,Darwin Danilo Saire Pilco
+156,44,Neucimar Jerônimo Leite
+157,45,Max E. Vizcarra Melgar
+158,45,Mylène C. Q. Farias
+159,45,Flávio de Barros Vidal
+160,45,Alexandre Zaghetto
+161,46,Guilherme B. Martins
+162,46,João P. Papa
+163,46,Jurandy Almeida
+164,47,Clayton R. Pereira
+165,47,Silke A. T. Weber
+166,47,Christian Hook
+167,47,Gustavo H. Rosa
+168,47,João P. Papa
+169,48,Jovan de Andrade Fernandes Junior
+170,48,Leonardo Nogueira Matos
+171,48,Maria Géssica dos Santos Aragão
+172,49,Tiene A. Filisbino
+173,49,Gilson A. Giraldi
+174,49,Carlos Eduardo Thomaz
+175,50,Romulo L. Frutuoso
+176,50,João Paulo P. Gomes
+177,50,Emanuele M. dos Santos
+178,50,Joaquim B. Cavalcante-Neto
+179,50,Creto Augusto Vidal
+180,51,Gabriel F. C. Campos
+181,51,Sylvio Barbon
+182,51,Rafael G. Mantovani
+183,52,Manoel Horta Ribeiro
+184,52,Bruno Teixeira
+185,52,Antônio Otávio Fernandes
+186,52,Wagner Meira
+187,52,Erickson R. Nascimento
+188,53,Igor S. Montagner
+189,53,Roberto Hirata
+190,53,Nina S. T. Hirata
+191,53,Stéphane Canu
+192,54,Ailton Felix
+193,54,Marcelo Oliveira
+194,54,Aydano Machado
+195,54,José Raniery
+196,55,Luis Afonso
+197,55,Alexandre Vidal
+198,55,Michelle Kuroda
+199,55,Alexandre Xavier Falcão
+200,55,João P. Papa
+201,56,Juan Felipe Hernández Albarracín
+202,56,Jefersson Alex Dos Santos
+203,56,Ricardo da S. Torres
+204,57,Edemir Ferreira
+205,57,Arnaldo de Albuquerque Araújo
+206,57,Jefersson Alex Dos Santos
+207,58,José Angel Iván Rubianes Silva
+208,58,Fabio Enrique Suarez Burgos
+209,58,Shin-Ting Wu
+210,59,Rafael Silva Santos
+211,59,Danilo Medeiros Eler
+212,59,Rogério Eduardo Garcia
+213,59,Ronaldo Celso Messias Correia
+214,60,Fernando Melo Nascimento
+215,60,André Britto de Carvalho
+216,60,Beatriz Trinchão Andrade
+217,61,Rafael Umino Nakanishi
+218,61,Jorge Piazentin Ono
+219,61,Paulo Pagliosa
+220,61,Luis Gustavo Nonato
+221,61,Afonso Paiva
+222,62,Tiago Trocoli
+223,62,Luciano Oliveira

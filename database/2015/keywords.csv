@@ -1,0 +1,1684 @@
+id,id_paper,keyword
+0,2,Rendering (computer graphics)
+1,2,Fabrics
+2,2,Metals
+3,2,Surface texture
+4,2,Image color analysis
+5,2,Geometry
+6,2,Solids
+7,2,Texture Map
+8,2,Ambient Occlusion
+9,2,Multiple Scales
+10,2,Detailed Surface
+11,2,Combined Representation
+12,2,Bottom Row
+13,2,Fine Details
+14,2,Depth Map
+15,2,Color Map
+16,2,Solid Angle
+17,2,Circle Area
+18,2,Fabric Texture
+19,2,Color Texture
+20,2,Normal Map
+21,2,Displacement Maps
+22,2,Depth Scale
+23,2,Meta-relief mapping
+24,2,Multiscale surface details
+25,2,Real-time rendering
+26,2,Texture-space ambient occlusion
+27,3,Path planning
+28,3,Collision avoidance
+29,3,Navigation
+30,3,Computational efficiency
+31,3,Graphics processing units
+32,3,Distortion
+33,3,Real-time systems
+34,3,Arbitrary Surface
+35,3,Distortion
+36,3,Computational Cost
+37,3,Parallelization
+38,3,Path Planning
+39,3,Pathfinding
+40,3,Geodesic Distance
+41,3,Non-planar Surfaces
+42,3,Field Of View
+43,3,Use Of Techniques
+44,3,Shortest Path
+45,3,3D Surface
+46,3,Number Of Agents
+47,3,Efficient Implementation
+48,3,Orthogonal Projection
+49,3,3D Mesh
+50,3,Distance Map
+51,3,Optimal Path
+52,3,Obstacle Avoidance
+53,3,Position Of Agent
+54,3,Center Of The Triangle
+55,3,Parallel Implementation
+56,3,Dijkstra’s Algorithm
+57,3,Movement Of Agents
+58,3,Planar Regions
+59,3,path planning
+60,3,agents
+61,3,computer graphics
+62,4,Rendering (computer graphics)
+63,4,Accuracy
+64,4,Iterative methods
+65,4,Transfer functions
+66,4,Graphics processing units
+67,4,Integral equations
+68,4,Computational modeling
+69,4,Volume Rendering
+70,4,Adaptive Numerical Integration
+71,4,Step Size
+72,4,GPU Implementation
+73,4,Riemann Sum
+74,4,Uniform Step
+75,4,Evaluation Of Function
+76,4,Numerical Methods
+77,4,Transfer Function
+78,4,Adaptive Method
+79,4,Adaptive Algorithm
+80,4,Integration Method
+81,4,Final Image
+82,4,Integral Value
+83,4,Distance Sampling
+84,4,Subintervals
+85,4,Configuration Parameters
+86,4,Error Tolerance
+87,4,Adaptive Procedure
+88,4,Numerical Errors
+89,4,Adaptive Sampling
+90,4,Adaptive Rule
+91,4,Coupling Strategy
+92,4,Scalar Value
+93,4,Adaptive Step Size
+94,4,Numerical Integration Method
+95,4,Adaptive Approach
+96,4,volume rendering
+97,4,adaptive integration
+98,4,error control
+99,4,Simpson's rule
+100,5,Three-dimensional displays
+101,5,Solid modeling
+102,5,Computational modeling
+103,5,Computers
+104,5,Design automation
+105,5,Iterative closest point algorithm
+106,5,Reverse engineering
+107,5,Physical Modification
+108,5,Computational Model
+109,5,Design Process
+110,5,3D Printing
+111,5,3D Scanning
+112,5,3D Modeling Software
+113,5,3D Computational Model
+114,5,Virtually
+115,5,Point Cloud
+116,5,Pair Of Points
+117,5,3D Mesh
+118,5,Reverse Engineering
+119,5,Goal Of Experiment
+120,5,Performed Principal Component Analysis
+121,5,CAD Model
+122,5,Mesh Model
+123,5,Cylindrical Surface
+124,5,Surface Patches
+125,5,Rigid Registration
+126,5,Iterative Closest Point
+127,5,3D Registration
+128,5,3D CAD Models
+129,5,Laser Pointer
+130,5,Iterative Closest Point Algorithm
+131,5,Original Mesh
+132,5,Fine Registration
+133,5,Non-rigid Registration
+134,5,Triangular Mesh
+135,5,Random Sampling
+136,5,Specific Distance
+137,5,3D registration
+138,5,3D reverse engineering
+139,5,3D modeling
+140,5,tangible interface
+141,5,human-computer interaction
+142,6,Lighting
+143,6,Measurement
+144,6,Photonics
+145,6,Rendering (computer graphics)
+146,6,Image color analysis
+147,6,Light sources
+148,6,Estimation
+149,6,Perception Of Quality
+150,6,Quality Metrics
+151,6,Light Conditions
+152,6,Convergence Rate
+153,6,General Case
+154,6,Density Estimation
+155,6,Reference Image
+156,6,Illumination Conditions
+157,6,Density Estimation Method
+158,6,Strong Illumination
+159,6,Root Mean Square Error
+160,6,Light Source
+161,6,Intersection Point
+162,6,Constant Factor
+163,6,Light Environment
+164,6,Two-stage Method
+165,6,Color Channels
+166,6,Direct Light
+167,6,PhD Thesis
+168,6,Objects In The Scene
+169,6,Indirect Light
+170,6,Comparison Of Metrics
+171,6,Low Dynamic Range
+172,6,Glossy Surface
+173,6,Simple Objects
+174,6,Structural Similarity Index
+175,6,Worth Mention
+176,6,Ray Tracing
+177,6,Direct Illumination
+178,6,Unbiased Method
+179,6,Global illumination
+180,6,Image synthesis
+181,6,Image quality metrics
+182,6,Perceptual quality
+183,6,Ray tracing
+184,7,Visualization
+185,7,Measurement
+186,7,Feature extraction
+187,7,Clustering methods
+188,7,Image color analysis
+189,7,Clustering algorithms
+190,7,Support vector machines
+191,7,Least-squares
+192,7,Partial Least Squares
+193,7,Partial Least
+194,7,High Purity
+195,7,Clustering Method
+196,7,Images In Set
+197,7,Group Of Images
+198,7,Low Purity
+199,7,Low Redundancy
+200,7,Visual Concepts
+201,7,Video Summarization
+202,7,Similarity Measure
+203,7,Clustering Algorithm
+204,7,Precision And Recall
+205,7,Texture Features
+206,7,Similarity Matrix
+207,7,Video Frames
+208,7,Natural World
+209,7,Discovery Set
+210,7,Distance Metrics
+211,7,HSV Color
+212,7,Merging Step
+213,7,Discrete Cosine Transform
+214,7,Attitude Matrix
+215,7,Color Histogram
+216,7,Channel Pairs
+217,7,Digital Image Correlation
+218,7,Agglomerative Clustering
+219,7,Feature Extraction Process
+220,7,Delaunay Triangulation
+221,7,Image Clustering
+222,7,Partial Least Squares
+223,7,Video Summarization
+224,7,Shot Sampling
+225,8,Feature extraction
+226,8,Visualization
+227,8,Vocabulary
+228,8,Training
+229,8,Databases
+230,8,Support vector machines
+231,8,Histograms
+232,8,Image Classification
+233,8,Bag Of Features
+234,8,Computational Cost
+235,8,Running Time
+236,8,Local Features
+237,8,Hierarchical Model
+238,8,Recognition Rate
+239,8,Amount Of Features
+240,8,Local Feature Extraction
+241,8,Response Time
+242,8,Support Vector Machine
+243,8,Graphics Processing Unit
+244,8,Training Images
+245,8,Radial Basis Function
+246,8,Regular Grid
+247,8,Best Response
+248,8,Image Representation
+249,8,Bag-of-words
+250,8,Vocabulary Size
+251,8,Intra-class Variance
+252,8,Scale-invariant Feature Transform
+253,8,Vocabulary Words
+254,8,Occurrence Of Words
+255,8,Scene Classification
+256,8,White Striping
+257,8,Gabor Filters
+258,8,Small Advantage
+259,8,Image classification
+260,8,bag-of-features
+261,8,HMAX
+262,8,low feature usage
+263,9,Image color analysis
+264,9,Watermarking
+265,9,Image restoration
+266,9,Gray-scale
+267,9,Color
+268,9,Yttrium
+269,9,Distortion
+270,9,Image Quality
+271,9,Color Images
+272,9,Minimization Problem
+273,9,Color Channels
+274,9,Original Color
+275,9,Dot Patterns
+276,9,Optimization Problem
+277,9,Distancing Measures
+278,9,Similarity Measure
+279,9,Binary Vector
+280,9,Grayscale Images
+281,9,Color Difference
+282,9,Binary Image
+283,9,Quality Metrics
+284,9,Human Visual System
+285,9,Dissimilarity Measure
+286,9,Hidden Information
+287,9,RGB Channels
+288,9,Image Quality Metrics
+289,9,Digital Watermarking
+290,9,Decoding Time
+291,9,Color Enhancement
+292,9,Embedding
+293,9,Halftone
+294,9,Color Restoration
+295,9,Watermark
+296,9,Inverse Halftoning
+297,10,Training
+298,10,Entropy
+299,10,Genetic algorithms
+300,10,Image segmentation
+301,10,Training data
+302,10,Computational efficiency
+303,10,Context
+304,10,Selection Window
+305,10,Window Size
+306,10,Manual Selection
+307,10,Morphological Operations
+308,10,Combined Search
+309,10,Combination Of Operators
+310,10,Insufficient Number Of Samples
+311,10,Learning Process
+312,10,Conditional Probability
+313,10,Fitness Function
+314,10,Number Of Images
+315,10,Types Of Errors
+316,10,Training Images
+317,10,Image Pairs
+318,10,Binary Image
+319,10,Optimal Operation
+320,10,Train Operation
+321,10,Generalization Error
+322,10,Conditional Entropy
+323,10,Window Settings
+324,10,Good Combination
+325,10,Magnitude Information
+326,10,Ranking Criteria
+327,10,Training Image Pairs
+328,10,binary image
+329,10,morphological operator design
+330,10,W-operator combination
+331,10,conditional entropy
+332,10,sequential forward selection
+333,11,Kernel
+334,11,Accuracy
+335,11,Training
+336,11,Feature extraction
+337,11,Assistive technology
+338,11,Gesture recognition
+339,11,Shape
+340,11,Depth Images
+341,11,Fingerspelling
+342,11,Kernel Descriptors
+343,11,RGB Images
+344,11,Depth Information
+345,11,Depth Camera
+346,11,Sign Language
+347,11,Letters Of The Alphabet
+348,11,Deaf People
+349,11,Hand Shape
+350,11,American Sign Language
+351,11,Combination Of Descriptors
+352,11,Support Vector Machine
+353,11,Gaussian Kernel
+354,11,Diverse Backgrounds
+355,11,Average Accuracy
+356,11,Kernel Function
+357,11,Vector-based
+358,11,Object Recognition
+359,11,Semantic Information
+360,11,Kernel Principal Component Analysis
+361,11,Depth Values
+362,11,Support Vector Machine Classifier
+363,11,Image Patches
+364,11,Radial Basis Function
+365,11,Hybrid System
+366,11,Codeword
+367,11,Gradient Magnitude
+368,11,Finger spelling
+369,11,Depth images
+370,11,Kernel descriptors
+371,11,Bag-of-Words
+372,12,Image segmentation
+373,12,Measurement uncertainty
+374,12,Current measurement
+375,12,Standards
+376,12,Indexes
+377,12,Electronic mail
+378,12,Image Segmentation
+379,12,Evaluation Method
+380,12,Segmentation Method
+381,12,Empirical Methods
+382,12,Reference Image
+383,12,Penalty Parameter
+384,12,Ground Truth Image
+385,12,Measures In The Literature
+386,12,Similar Segments
+387,12,Refinement Level
+388,12,Analytical Methods
+389,12,Image Pixels
+390,12,Error Values
+391,12,Intersection Over Union
+392,12,Number Of Objects
+393,12,Localization Error
+394,12,Similar Images
+395,12,Natural Scenes
+396,12,Cardinality Of The Set
+397,12,Triangle Inequality
+398,12,Natural Scene Images
+399,12,Largest Element
+400,12,Penalty Value
+401,12,error measure
+402,12,metric
+403,12,evaluation
+404,12,image segmentation
+405,13,Algae
+406,13,Level set
+407,13,Image segmentation
+408,13,Image edge detection
+409,13,Eigenvalues and eigenfunctions
+410,13,Shape
+411,13,Level Set Approach
+412,13,Biologists
+413,13,Image Regions
+414,13,Background Regions
+415,13,Level Set Method
+416,13,Freshwater Microalgae
+417,13,Normal Distribution
+418,13,Energy Function
+419,13,Green Algae
+420,13,Binary Image
+421,13,Kinetic Curves
+422,13,Image Domain
+423,13,Iterative Scheme
+424,13,Image Pattern
+425,13,Parametric Approach
+426,13,Curve Parameters
+427,13,Object Boundaries
+428,13,Distinct Shape
+429,13,Edge Information
+430,13,Deformation Model
+431,13,Active Contour Model
+432,13,Evolution Curves
+433,13,Mathematical Morphology
+434,13,Green Image
+435,13,Active Contour
+436,13,Sobel Operator
+437,13,Lagrange Equations
+438,13,Digital Images
+439,13,Phytoplankton
+440,13,Term In Eq
+441,13,edge detection
+442,13,Gaussian distribution
+443,13,green microalgae
+444,13,image segmentation
+445,13,level set
+446,14,Image color analysis
+447,14,Feature extraction
+448,14,Videos
+449,14,Training
+450,14,Clustering algorithms
+451,14,Color
+452,14,Proposals
+453,14,Still Images
+454,14,Fire Detection
+455,14,Crisis Management
+456,14,Texture Classification
+457,14,False Positive Rate
+458,14,Classification Methods
+459,14,Small Region
+460,14,Image Pixels
+461,14,Image Segmentation
+462,14,K-nearest Neighbor
+463,14,Temporal Information
+464,14,Emergency Situations
+465,14,Color Space
+466,14,Feature Extraction Methods
+467,14,Output Image
+468,14,Firing Activity
+469,14,Neighboring Pixels
+470,14,Uniform Pattern
+471,14,Color Categories
+472,14,Simple Linear Iterative Clustering
+473,14,Lab Color Space
+474,14,False Positive Rate Values
+475,14,Percentage Of False Positives
+476,14,fire detection
+477,14,still images
+478,14,pixel-color classification
+479,14,texture feature
+480,15,Image reconstruction
+481,15,Interpolation
+482,15,Spatial resolution
+483,15,Mobile handsets
+484,15,Feature extraction
+485,15,Videos
+486,15,K-nearest Neighbor
+487,15,Multiframe Super-resolution
+488,15,High-resolution Images
+489,15,Mobile Phone
+490,15,Input Image
+491,15,Number Of Images
+492,15,Biometric
+493,15,Remote Sensing
+494,15,Linear Time
+495,15,Low-resolution Images
+496,15,Video Surveillance
+497,15,Super-resolution Techniques
+498,15,Image Dataset
+499,15,Input Sequence
+500,15,Target Image
+501,15,Final Image
+502,15,Feature Detection
+503,15,Reconstruction Algorithm
+504,15,Peak Signal-to-noise Ratio
+505,15,Variety Of Algorithms
+506,15,Speeded Up Robust Features
+507,15,Scale-invariant Feature Transform
+508,15,Translation Matrix
+509,15,Super-resolution Algorithms
+510,15,Registration Step
+511,15,High-resolution Grid
+512,15,Correct Alignment
+513,15,Reconstruction Step
+514,15,Perspective Transformation
+515,15,Burst Mode
+516,15,super-resolution
+517,15,geometric k-NN
+518,15,multi-frame
+519,15,burst
+520,15,mobile devices
+521,16,Image segmentation
+522,16,Accuracy
+523,16,Feature extraction
+524,16,Support vector machines
+525,16,Context
+526,16,Visualization
+527,16,Inspection
+528,16,Image Segmentation
+529,16,High-level Tasks
+530,16,Visual Inspection
+531,16,Objective Function
+532,16,Classification Accuracy
+533,16,Segmentation Method
+534,16,Big Data Analytics
+535,16,Object Contour
+536,16,Segmentation Evaluation
+537,16,Classification Model
+538,16,Evaluation Method
+539,16,Classification Results
+540,16,Specific Tasks
+541,16,Contextual Information
+542,16,Segmentation Algorithm
+543,16,Segmentation Results
+544,16,Unfocused
+545,16,Distributed Computing
+546,16,Processing Chain
+547,16,Optical Character Recognition
+548,16,Objective Metrics
+549,16,Histogram Equalization
+550,16,Binary Algorithm
+551,16,Chain Components
+552,16,Image Segmentation Methods
+553,16,SVM Classifier
+554,16,Classification Confidence
+555,16,Image Segmentation Algorithm
+556,16,holistic system evaluation
+557,16,classification evaluation
+558,16,plankton image classification
+559,16,segmentation evaluation
+560,16,plankton image segmentation
+561,17,Streaming media
+562,17,Coherence
+563,17,Yttrium
+564,17,Logic gates
+565,17,Merging
+566,17,Three-dimensional displays
+567,17,Image segmentation
+568,17,Video Segments
+569,17,Time And Space
+570,17,Usability
+571,17,Methods In The Literature
+572,17,Graph Partitioning
+573,17,Temporal Coherence
+574,17,Consecutive Blocks
+575,17,Partitioning Problem
+576,17,Performance Measures
+577,17,Processing Time
+578,17,Differences In Intensity
+579,17,Qualitative Results
+580,17,Real Applications
+581,17,Segmentation Method
+582,17,Adjacent Regions
+583,17,Edge Weights
+584,17,Hierarchical Levels
+585,17,Hierarchical Method
+586,17,Observation Scale
+587,17,Hierarchical Scale
+588,17,Memory Consumption
+589,17,Graph-based Methods
+590,17,Video Information
+591,17,Neighbors In Space
+592,17,Weight Map
+593,17,Streaming video segmentation
+594,17,Observation scale
+595,17,Graph-based segmentation
+596,17,Label propagation
+597,18,Optical imaging
+598,18,Histograms
+599,18,Feature extraction
+600,18,Hidden Markov models
+601,18,Image motion analysis
+602,18,Computer vision
+603,18,Nearest neighbor searches
+604,18,Histogram
+605,18,Optical Flow
+606,18,Magnitude Of Flow
+607,18,Anomalous Events
+608,18,Video Events
+609,18,Optical Orientation
+610,18,Magnitude Of Optical Flow
+611,18,Descriptive Characteristics
+612,18,Unpredictability
+613,18,Normal Pattern
+614,18,Event Detection
+615,18,Video Sequences
+616,18,Nearest Neighbor Search
+617,18,Simple Search
+618,18,Optical Information
+619,18,Support Vector Machine
+620,18,Horizontal Axis
+621,18,Expectation Maximization
+622,18,Hidden Markov Model
+623,18,Pedestrian
+624,18,Anomaly Detection
+625,18,Non-overlapping Regions
+626,18,Equal Error Rate
+627,18,Area Under Curve
+628,18,Crowded Scenes
+629,18,Gaussian Mixture Model
+630,18,Unusual Location
+631,18,Scene Regions
+632,18,Flow Vector
+633,18,Normal Events
+634,18,Anomalous event detection
+635,18,spatiotemporal feature extraction
+636,18,optical flow
+637,18,histograms of oriented optical flow
+638,18,smart surveillance
+639,19,Trajectory
+640,19,Cameras
+641,19,Tracking
+642,19,Games
+643,19,Adaptation models
+644,19,Particle filters
+645,19,Training
+646,19,Single Camera
+647,19,Futsal Players
+648,19,Single Stationary Camera
+649,19,Athletes
+650,19,Background Subtraction
+651,19,Range Analysis
+652,19,Particle Filter
+653,19,Analysis Of A Wide Range
+654,19,False Positive
+655,19,True Positive
+656,19,Mixture Model
+657,19,Object Detection
+658,19,Bounding Box
+659,19,Kalman Filter
+660,19,Detection Process
+661,19,Gaussian Mixture Model
+662,19,Image Point
+663,19,Process Noise
+664,19,Background Model
+665,19,Objects In The Scene
+666,19,Negative Weights
+667,19,Foreground Objects
+668,19,Player Position
+669,19,Status Of Players
+670,19,Gaussian Components
+671,19,Particle Weight
+672,19,Successive Frames
+673,19,Image Coordinates
+674,19,Motion Model
+675,19,Detection Step
+676,19,Player Tracking
+677,19,Particle Filter
+678,19,Futsal
+679,19,Tactical and physical analyses
+680,20,Degradation
+681,20,Protocols
+682,20,Decoding
+683,20,Scalability
+684,20,Encryption
+685,20,Video sequences
+686,20,Multimedia
+687,20,Protocol Design
+688,20,Validation Accuracy
+689,20,Dispute Resolution
+690,20,Video Coding
+691,20,Low Quality
+692,20,Decoding
+693,20,Hierarchical Structure
+694,20,Type Of Content
+695,20,Digital Content
+696,20,Video Sequences
+697,20,Bitrate
+698,20,Video Content
+699,20,Base Layer
+700,20,Quantization Parameter
+701,20,Original Content
+702,20,Item Version
+703,20,Item Descriptions
+704,20,Valid Problem
+705,20,Encryption Key
+706,20,Group Of Pictures
+707,20,I-frame
+708,20,Temporal Layer
+709,20,Digital Music
+710,20,Scalable video coding
+711,20,VOD
+712,20,item validation
+713,20,fair exchange protocols
+714,20,reversible degradation
+715,21,Splines (mathematics)
+716,21,Roads
+717,21,Cameras
+718,21,Vehicles
+719,21,Distortion
+720,21,Standards
+721,21,Gaussian distribution
+722,21,Cubic Spline
+723,21,Spline Model
+724,21,Cubic Spline Model
+725,21,Tracking Markers
+726,21,Lane Markings
+727,21,Monocular
+728,21,Particle Filter
+729,21,Traffic Conditions
+730,21,Road Conditions
+731,21,Inverse Mapping
+732,21,Perspective Distortion
+733,21,Validation Set
+734,21,Pedestrian
+735,21,Point Values
+736,21,Control Points
+737,21,Error Function
+738,21,Visual Perspective
+739,21,Adaptive Threshold
+740,21,Previous Frame
+741,21,Number Of Evidence
+742,21,Evidence Map
+743,21,Difference Of Gaussian
+744,21,Constant Width
+745,21,Particle Weight
+746,21,Lane Change
+747,21,Real Observations
+748,21,Images In Row
+749,21,Ground Truth Location
+750,21,lane marker tracking
+751,21,particle filter
+752,21,cubic splines
+753,22,Lenses
+754,22,Iris recognition
+755,22,Databases
+756,22,Iris
+757,22,Training
+758,22,Network topology
+759,22,Image representation
+760,22,Contact Lens
+761,22,Deep Representation
+762,22,Promising Results
+763,22,Health-related Quality Of Life
+764,22,Convolutional Network
+765,22,Multinomial Regression
+766,22,Fully-connected Layer
+767,22,Image Database
+768,22,Soft Contact
+769,22,Biometric Systems
+770,22,State Of The Art Approaches
+771,22,Training Data
+772,22,Detection Methods
+773,22,Support Vector Machine
+774,22,Convolutional Layers
+775,22,Input Image
+776,22,Image Size
+777,22,Network Topology
+778,22,Normal Operation
+779,22,Deep Learning Techniques
+780,22,Correct Classification Rate
+781,22,False Acceptance Rate
+782,22,Cropped Images
+783,22,Input Image Size
+784,22,Scale-invariant Feature Transform
+785,22,Training Methodology
+786,22,Filters In Layer
+787,22,Weights Of Layer
+788,22,Co-occurrence Matrix
+789,22,Fake Images
+790,22,Iris Biometrics
+791,22,Contact Lens Detection
+792,22,Deep Learning
+793,22,Convolutional Networks
+794,23,Data visualization
+795,23,Visualization
+796,23,Layout
+797,23,Mood
+798,23,Glass
+799,23,Context
+800,23,Instruments
+801,23,Multi-task Classification
+802,23,Classification Task
+803,23,Visualization Techniques
+804,23,Cluttering
+805,23,Visual Processing
+806,23,Scale Parameter
+807,23,Dimensional Vector
+808,23,Multiple Classes
+809,23,Visualization Tool
+810,23,Lower Class
+811,23,Information Retrieval
+812,23,Class Probabilities
+813,23,Original Space
+814,23,Data Instances
+815,23,Mean Average Precision
+816,23,Visual Space
+817,23,Center Of The Circle
+818,23,Coordinate Values
+819,23,Projection Point
+820,23,Traveling Salesman Problem
+821,23,Head Pose
+822,23,Group Dimension
+823,23,Visual Metaphors
+824,23,Single Circle
+825,23,Low Probability
+826,23,Multidimensional Data
+827,23,Visual Analytics Tool
+828,23,Original Weight
+829,23,Interactive
+830,23,Average Precision
+831,23,Rad Viz
+832,23,Multi-task classification
+833,23,Information Visualization
+834,24,Histograms
+835,24,Assistive technology
+836,24,Three-dimensional displays
+837,24,Gesture recognition
+838,24,Support vector machines
+839,24,Accuracy
+840,24,Image segmentation
+841,24,Depth Data
+842,24,Fingerspelling
+843,24,Support Vector Machine
+844,24,Point Cloud
+845,24,Support Vector Machine Classifier
+846,24,Depth Images
+847,24,Depth Information
+848,24,Sign Language
+849,24,3D Point Cloud
+850,24,Letters Of The Alphabet
+851,24,Hand Shape
+852,24,American Sign Language
+853,24,Axis In Order
+854,24,Convolutional Neural Network
+855,24,Local Features
+856,24,Image Intensity
+857,24,Radial Basis Function
+858,24,RGB Images
+859,24,Hand Movements
+860,24,Recognition Methods
+861,24,Local Descriptors
+862,24,Recognition Rate
+863,24,Gabor Filters
+864,24,Sparse Autoencoder
+865,24,Cumulative Histogram
+866,24,Depth Camera
+867,24,Grid Graph
+868,24,Deaf Community
+869,24,Finger spelling recognition
+870,24,depth information
+871,24,points cloud
+872,24,directional cosines
+873,24,support vector machine (SVM)
+874,25,Sorting
+875,25,Arrays
+876,25,Graphics processing units
+877,25,Standards
+878,25,Time complexity
+879,25,Nearest Neighbor Search
+880,25,Spatial Sorting
+881,25,Approximate Nearest Neighbor Search
+882,25,Matrix Elements
+883,25,Parallelization
+884,25,Distribution Of Points
+885,25,Approach Task
+886,25,Data Structure
+887,25,Uniform Distribution
+888,25,Running Time
+889,25,Less Than Or Equal
+890,25,Single Step
+891,25,Time Complexity
+892,25,Regular Grid
+893,25,Simple Algorithm
+894,25,Linear Algorithm
+895,25,Voronoi Diagram
+896,25,Setup Time
+897,25,Linear Sequence
+898,25,Tree Search
+899,25,Sorting Algorithm
+900,25,Query Point
+901,25,Smoothed Particle Hydrodynamics
+902,25,Query Time
+903,25,Pathological Cases
+904,25,Uniform Grid
+905,25,2D Point
+906,25,Worst-case Complexity
+907,25,Set Of Distributions
+908,25,Partial Order
+909,25,spatial sorting
+910,25,k-nearest neighbors
+911,25,parallel algorithms
+912,25,data structures
+913,26,Sensors
+914,26,Image reconstruction
+915,26,Image sensors
+916,26,Cameras
+917,26,Optimization
+918,26,Spatial resolution
+919,26,Low Resolution
+920,26,Depth Map
+921,26,Optimization Process
+922,26,Image Reconstruction
+923,26,Object Recognition
+924,26,Image Intensity
+925,26,Depth Images
+926,26,Depth Information
+927,26,Low-resolution Images
+928,26,Low-cost Sensors
+929,26,Root Mean Square Error
+930,26,Optimization Problem
+931,26,Data Visualization
+932,26,Reference Frame
+933,26,Work In This Area
+934,26,3D Reconstruction
+935,26,Energy Function
+936,26,Number Of Images
+937,26,Multiple Images
+938,26,Presence Of Noise
+939,26,Bicubic Interpolation
+940,26,Peak Signal-to-noise Ratio
+941,26,RGB-D Sensor
+942,26,Markov Random Field
+943,26,Virtual Camera
+944,26,Synthetic Images
+945,26,Convex Optimization Problem
+946,26,Reprojection
+947,26,Camera Pose
+948,26,Dual Variables
+949,26,Super-resolution
+950,26,convex optimization
+951,26,RGB-D data
+952,26,3D reconstruction
+953,26,computer vision
+954,27,Image color analysis
+955,27,Cloning
+956,27,Laplace equations
+957,27,Poles and towers
+958,27,Linear systems
+959,27,Mathematical model
+960,27,Lighting
+961,27,Seamless Cloning
+962,27,Color Adjustment
+963,27,Composite Image
+964,27,Automatic Calculation
+965,27,Linear System
+966,27,Transition Zone
+967,27,Target Image
+968,27,Vector Field
+969,27,Source Images
+970,27,Background Image
+971,27,Natural Composites
+972,27,Top Right
+973,27,Poisson Equation
+974,27,Dirichlet Boundary Conditions
+975,27,Laplace Equation
+976,27,Original Color
+977,27,Average Color
+978,27,Degree Of Preservation
+979,27,Alpha Matte
+980,27,Color adjustment
+981,27,Color preservation
+982,27,Poisson image editing
+983,27,Seamless cloning
+984,27,Image composition
+985,28,Roads
+986,28,Image color analysis
+987,28,Adaptation models
+988,28,Automobiles
+989,28,Analytical models
+990,28,Surveillance
+991,28,Background Model
+992,28,Background Subtraction
+993,28,Foreground Objects
+994,28,Fast Update
+995,28,Background Subtraction Method
+996,28,Neural Network
+997,28,Aspect Ratio
+998,28,Pixel Intensity
+999,28,Early Models
+1000,28,Traffic Flow
+1001,28,Convex Hull
+1002,28,Adaptive Learning
+1003,28,Video Sequences
+1004,28,Context-aware
+1005,28,Background Pixels
+1006,28,Surveillance Cameras
+1007,28,Sample Pixels
+1008,28,Background Reference
+1009,28,Foreground Pixels
+1010,28,Vehicle Detection
+1011,28,Road Region
+1012,28,Part Of The Video
+1013,28,Gray-level Intensity
+1014,28,Background modeling
+1015,28,traffic analysis
+1016,28,surveillance videos
+1017,29,Skin
+1018,29,Geometry
+1019,29,Training
+1020,29,Image color analysis
+1021,29,Feature extraction
+1022,29,Hair
+1023,29,Machine learning algorithms
+1024,29,Face Images
+1025,29,Facial Attractiveness
+1026,29,Supervised Learning
+1027,29,Set Of Papers
+1028,29,Facial Skin
+1029,29,Geometric Restrictions
+1030,29,Skin Texture
+1031,29,Supervised Machine Learning Techniques
+1032,29,Texture Modification
+1033,29,Training Set
+1034,29,Input Image
+1035,29,K-nearest Neighbor
+1036,29,Facial Features
+1037,29,Final Image
+1038,29,Feature Points
+1039,29,Support Vector Regression
+1040,29,Changes In Geometry
+1041,29,Original Score
+1042,29,Original Ones
+1043,29,Set Of Distances
+1044,29,Input Face
+1045,29,Skin Regions
+1046,29,Pixel Color
+1047,29,Average Face
+1048,29,Warped Image
+1049,29,Target Face
+1050,29,Original Picture
+1051,29,Set Of Faces
+1052,29,Supervised Learning Algorithms
+1053,29,Skin Area
+1054,29,facial attractiveness
+1055,29,facial geometry
+1056,29,skin texture
+1057,29,machine learning
+1058,30,Face
+1059,30,Surgery
+1060,30,Nose
+1061,30,Image edge detection
+1062,30,Planning
+1063,30,Face recognition
+1064,30,Image segmentation
+1065,30,Facial Expressions
+1066,30,Face Recognition
+1067,30,Age Estimation
+1068,30,Oral And Maxillofacial Surgery
+1069,30,Medical Software
+1070,30,Field Task
+1071,30,Accurate Method
+1072,30,Results Of Method
+1073,30,Image Size
+1074,30,Second Derivative
+1075,30,Activity Profile
+1076,30,Facial Features
+1077,30,Edge Detection
+1078,30,Human Faces
+1079,30,Work Motivation
+1080,30,Beginning Of This Section
+1081,30,Face Detection
+1082,30,Landmark Localization
+1083,30,Lower Lip
+1084,30,Plastic Surgeons
+1085,30,Active Contour Model
+1086,30,Tip Of The Nose
+1087,30,Nasal Tip
+1088,30,Facial Points
+1089,30,Facial landmarks
+1090,30,Plastic surgery
+1091,31,Shape
+1092,31,Three-dimensional displays
+1093,31,Histograms
+1094,31,Computational modeling
+1095,31,Solid modeling
+1096,31,Complexity theory
+1097,31,Databases
+1098,31,3D Shape
+1099,31,Shape Descriptors
+1100,31,3D Shape Descriptors
+1101,31,Thickness Histograms
+1102,31,Global Features
+1103,31,Graphics Processing Unit
+1104,31,Geometric Shapes
+1105,31,Efficient Implementation
+1106,31,Geometry And Topology
+1107,31,Precision And Recall
+1108,31,Geometric Properties
+1109,31,Intersection Point
+1110,31,Thickness Values
+1111,31,3D Scanning
+1112,31,Concavity
+1113,31,Scale-invariant
+1114,31,Distance Metrics
+1115,31,Depth Values
+1116,31,Mean Average Precision
+1117,31,Text Retrieval
+1118,31,Hellinger Distance
+1119,31,Earth Mover’s Distance
+1120,31,Rotation Invariance
+1121,31,Spherical Harmonics
+1122,31,Local Thickness
+1123,31,Thickness Distribution
+1124,31,Shape matching
+1125,31,Shape analysis
+1126,31,Depth complexity
+1127,31,Thickness
+1128,31,Histograms
+1129,31,Content-based retrieval
+1130,32,Histograms
+1131,32,Data visualization
+1132,32,Buildings
+1133,32,Layout
+1134,32,History
+1135,32,Data mining
+1136,32,Feature extraction
+1137,32,Unstructured Text
+1138,32,Time Scale
+1139,32,Time Interval
+1140,32,Large Time
+1141,32,Text Analysis
+1142,32,Temporal Information
+1143,32,Information Retrieval
+1144,32,Cloud Data
+1145,32,General Relativity
+1146,32,Transition Probability Matrix
+1147,32,User Feedback
+1148,32,Collection Of Papers
+1149,32,Abdominal Aortic Aneurysm
+1150,32,Science Careers
+1151,32,Special Relativity
+1152,32,Video Summarization
+1153,32,Timeline Of Events
+1154,32,PageRank Algorithm
+1155,32,Wikipedia Articles
+1156,32,Event Extraction
+1157,32,Hashtags
+1158,32,Previous Knowledge
+1159,32,Data Pre-processing
+1160,32,Diagonal Matrix
+1161,32,timeline
+1162,32,textual summaries
+1163,32,event matrix
+1164,33,Three-dimensional displays
+1165,33,Data structures
+1166,33,Explosions
+1167,33,Solid modeling
+1168,33,Data visualization
+1169,33,Image color analysis
+1170,33,Geometry
+1171,33,3D Grid
+1172,33,Exploded View
+1173,33,Data Structure
+1174,33,Grid Cells
+1175,33,Viewing Angle
+1176,33,Flow Simulation
+1177,33,Convex Polygon
+1178,33,Primary Objective
+1179,33,Secondary Objective
+1180,33,Property Values
+1181,33,Regular Grid
+1182,33,Root Node
+1183,33,Stopping Criterion
+1184,33,Number Of Objects
+1185,33,Domain Experts
+1186,33,Color Map
+1187,33,Convex Hull
+1188,33,Visualization Techniques
+1189,33,2D Plane
+1190,33,Geological Features
+1191,33,3D Clusters
+1192,33,Set Of Planes
+1193,33,Limited Amount Of Information
+1194,33,Binary Tree
+1195,33,Volumetric Data
+1196,33,CAD Model
+1197,33,Dynamic Scenarios
+1198,33,Computational Geometry
+1199,33,Computer Graphics
+1200,34,Visualization
+1201,34,Feature extraction
+1202,34,Aerospace electronics
+1203,34,Histograms
+1204,34,Image segmentation
+1205,34,Pipelines
+1206,34,Interpolation
+1207,34,Vector Field
+1208,34,Multidimensional Projection
+1209,34,Streamline
+1210,34,Visual Space
+1211,34,Field Behavior
+1212,34,Interactive Framework
+1213,34,Discrete Field
+1214,34,Scientific Visualization
+1215,34,Feature Space
+1216,34,Grid Cells
+1217,34,Human-computer Interaction
+1218,34,Control Points
+1219,34,Segmentation Method
+1220,34,Correct Predictions
+1221,34,Two-dimensional Space
+1222,34,Affine Transformation
+1223,34,Segmentation Process
+1224,34,Feature Calculation
+1225,34,Field In Order
+1226,34,Particle Image Velocimetry
+1227,34,User Intervention
+1228,34,Grid Nodes
+1229,34,Frequency Histograms
+1230,34,Segmentation Quality
+1231,34,vector field
+1232,34,segmentation
+1233,34,multidimensional projection
+1234,34,visualization
+1235,35,Data visualization
+1236,35,Nominations and elections
+1237,35,Inspection
+1238,35,Government
+1239,35,Principal component analysis
+1240,35,Image color analysis
+1241,35,Algorithm design and analysis
+1242,35,Interactive
+1243,35,Roll Call
+1244,35,Coalition
+1245,35,Presidential Election
+1246,35,Political History
+1247,35,N-dimensional Space
+1248,35,Political Science
+1249,35,Political Orientation
+1250,35,Singular Value Decomposition
+1251,35,Infographic
+1252,35,General Election
+1253,35,Opinion Research
+1254,35,Coalition Government
+1255,35,Ideal Point
+1256,35,Two-dimensional Spectra
+1257,35,Electoral Districts
+1258,35,Voting Patterns
+1259,35,Position Of Spectra
+1260,35,Set Of Calls
+1261,35,Political data visualization
+1262,35,roll calls visualization
+1263,35,political spectrum
+1264,36,Skin
+1265,36,Augmented reality
+1266,36,Surface treatment
+1267,36,Distortion
+1268,36,Robustness
+1269,36,Biomedical imaging
+1270,36,Videos
+1271,36,Augmented System
+1272,36,Skin Color
+1273,36,Detection Of Markers
+1274,36,Virtual Objects
+1275,36,Skin Markers
+1276,36,Synthetic Environment
+1277,36,Center Of Mass
+1278,36,Previous Step
+1279,36,Skin Surface
+1280,36,Part Of The Image
+1281,36,Physical World
+1282,36,Adaptive Threshold
+1283,36,Morphological Operations
+1284,36,Visual Markers
+1285,36,Occluded Objects
+1286,36,Augmented Reality Applications
+1287,36,Circular Markers
+1288,36,augmented reality
+1289,36,tattoo
+1290,36,markers
+1291,37,Training
+1292,37,Face recognition
+1293,37,Accuracy
+1294,37,Face
+1295,37,Image recognition
+1296,37,Databases
+1297,37,Feature extraction
+1298,37,Convolutional Network
+1299,37,Facial Expressions
+1300,37,Face Recognition
+1301,37,Facial Expression Recognition
+1302,37,Facial Expression Recognition System
+1303,37,Face Images
+1304,37,Person Image
+1305,37,Computer Vision Problems
+1306,37,Accurate Method
+1307,37,Convolutional Neural Network
+1308,37,Convolutional Layers
+1309,37,Training Time
+1310,37,Average Accuracy
+1311,37,Static Images
+1312,37,Intensity Normalization
+1313,37,Normalization Procedure
+1314,37,Eyebrows
+1315,37,Synthetic Images
+1316,37,Recognition Rate
+1317,37,Spatial Normalization
+1318,37,Histogram Of Oriented Gradients
+1319,37,Happy Expressions
+1320,37,Synthetic Generation
+1321,37,Normalization Step
+1322,37,Classifier Construction
+1323,37,Cropped Images
+1324,37,Spatial Intensity
+1325,37,Length Of The Line Segment
+1326,37,Fearful Expressions
+1327,37,Eye Center
+1328,37,Facial Expression
+1329,37,Convolutional Networks
+1330,37,Computer Vision
+1331,37,Machine Learning
+1332,37,Expression Specific Features
+1333,38,Buildings
+1334,38,Global Positioning System
+1335,38,Uncertainty
+1336,38,Smart phones
+1337,38,Google
+1338,38,Computational modeling
+1339,38,Feature extraction
+1340,38,Street View
+1341,38,Error Propagation
+1342,38,Geographic Coordinates
+1343,38,Visual Search
+1344,38,GPS Coordinates
+1345,38,Panoramic View
+1346,38,Query Image
+1347,38,Image Building
+1348,38,Covariance Matrix
+1349,38,Eigenvectors
+1350,38,Partial Differential
+1351,38,Singular Value Decomposition
+1352,38,Jacobian Matrix
+1353,38,Correct Location
+1354,38,Feature Matching
+1355,38,Vertices
+1356,38,Images Of Cases
+1357,38,Web Map
+1358,38,Environment Map
+1359,38,Google Street View
+1360,38,Breadth-first Search
+1361,38,Building Location
+1362,38,Target View
+1363,38,Radius Of The Earth
+1364,38,City Block
+1365,38,Bicubic Interpolation
+1366,38,Small Eigenvalues
+1367,38,Daylight Conditions
+1368,38,Visual Features
+1369,38,street view
+1370,38,geographical coordinates
+1371,38,environment map
+1372,38,feature extraction
+1373,38,feature matching
+1374,38,error propagation
+1375,39,Feature extraction
+1376,39,Neurons
+1377,39,Remote sensing
+1378,39,Mathematical model
+1379,39,Biological neural networks
+1380,39,Visualization
+1381,39,Robustness
+1382,39,Convolutional Network
+1383,39,Spatial Features
+1384,39,Aerial Scene
+1385,39,Spatial Feature Representation
+1386,39,High-resolution
+1387,39,Neural Network
+1388,39,Machine Learning
+1389,39,Specific Characteristics
+1390,39,Deep Learning
+1391,39,Convolutional Neural Network
+1392,39,Image Classification
+1393,39,Visual Features
+1394,39,Feature Learning
+1395,39,Climate Models
+1396,39,Crop Management
+1397,39,Classification Layer
+1398,39,Image Descriptors
+1399,39,Remote Sensing Images
+1400,39,Automatic Learning
+1401,39,Image Classification Performance
+1402,39,Convolutional Layers
+1403,39,Pooling Layer
+1404,39,Well-known Datasets
+1405,39,Deep Learning Strategies
+1406,39,Synthetic Aperture Radar
+1407,39,Part Of The Image
+1408,39,Processing Unit
+1409,39,Object Detection
+1410,39,Fully-connected Layer
+1411,39,Graphics Processing Unit
+1412,39,Deep Learning
+1413,39,Remote Sensing
+1414,39,Feature Learning
+1415,39,Image Classification
+1416,39,Machine Learning
+1417,39,High-resolution Images
+1418,40,Shape
+1419,40,Accuracy
+1420,40,Feature extraction
+1421,40,Decision trees
+1422,40,Vegetation
+1423,40,Image color analysis
+1424,40,Training
+1425,40,Leaf Shape
+1426,40,Neural Network
+1427,40,Feed-forward Network
+1428,40,Plant Identification
+1429,40,Feature Selection Techniques
+1430,40,Important Ecological Role
+1431,40,Identification Methodology
+1432,40,Classification Methodology
+1433,40,Principal Component Space
+1434,40,Fourier Transform
+1435,40,Flowering
+1436,40,Support Vector Machine
+1437,40,Random Forest
+1438,40,Decision Tree
+1439,40,Dimensionality Reduction
+1440,40,Shape Features
+1441,40,Information Gain
+1442,40,Tree Model
+1443,40,Leaf Node
+1444,40,Probabilistic Neural Network
+1445,40,Fourier Domain
+1446,40,Shape Descriptors
+1447,40,Binary Tree
+1448,40,Gain Ratio
+1449,40,Bayesian Classifier
+1450,40,Linear Regression Function
+1451,40,Ensemble Learning Method
+1452,40,Co-occurrence Matrix
+1453,40,Fourier Coefficients
+1454,40,Plants classification
+1455,40,Shape features
+1456,40,Fourier transform
+1457,40,Feature selection
+1458,41,Gesture recognition
+1459,41,Skin
+1460,41,Assistive technology
+1461,41,Image recognition
+1462,41,Shape
+1463,41,Histograms
+1464,41,Neurons
+1465,41,Sign Language
+1466,41,Brazilian Sign Language
+1467,41,Neural Network
+1468,41,Digital Images
+1469,41,Practices In Contexts
+1470,41,Recognition Rate
+1471,41,Shape Descriptors
+1472,41,Gesture Recognition
+1473,41,Histogram Of Oriented Gradients
+1474,41,High Recognition Rate
+1475,41,Image Moments
+1476,41,Hidden Layer
+1477,41,Image Dataset
+1478,41,Image Object
+1479,41,Multilayer Perceptron
+1480,41,Grayscale Images
+1481,41,Present Approach
+1482,41,Different Signs
+1483,41,Distance Map
+1484,41,Hand Position
+1485,41,American Sign Language
+1486,41,Architecture For Classification
+1487,41,"Red, Green And Blue"
+1488,41,Subsequent Network
+1489,41,Dataset Creation
+1490,41,Hand Size
+1491,41,Image Processing Techniques
+1492,41,Auxiliary Tool
+1493,41,Average Hit
+1494,41,Sign Language Recognition
+1495,41,Histogram of Oriented Gradients
+1496,41,Zernike Invariant Moments
+1497,41,Neural Networks
+1498,41,Gesture Recognition
+1499,41,Libras
+1500,42,Noise
+1501,42,Noise measurement
+1502,42,Computed tomography
+1503,42,Noise reduction
+1504,42,Image reconstruction
+1505,42,Correlation
+1506,42,Standards
+1507,42,Denoising
+1508,42,Gaussian Noise
+1509,42,Image Reconstruction
+1510,42,Project Data
+1511,42,Peak Signal-to-noise Ratio
+1512,42,Image Domain
+1513,42,Shot Noise
+1514,42,Combination Of Filters
+1515,42,Ideal Image
+1516,42,Filtered Back Projection
+1517,42,Detail Preservation
+1518,42,Signal-to-noise
+1519,42,Radiation Dose
+1520,42,Additive Noise
+1521,42,Computed Tomography Images
+1522,42,Reconstruction Algorithm
+1523,42,Image Artifacts
+1524,42,Fisher Information
+1525,42,Neighboring Pixels
+1526,42,Maximum A Posteriori
+1527,42,Noisy Images
+1528,42,Wiener Filter
+1529,42,Markov Random Field
+1530,42,Seconds Of Exposure
+1531,42,Iterative Reconstruction Methods
+1532,42,Patch Shape
+1533,42,3D Filter
+1534,42,Noisy Pixels
+1535,42,Computed Tomography (CT)
+1536,42,Double Denoising
+1537,43,Estimation
+1538,43,Shape
+1539,43,Correlation
+1540,43,Image retrieval
+1541,43,Image color analysis
+1542,43,Transform coding
+1543,43,Visualization
+1544,43,Effect Estimates
+1545,43,Image Retrieval
+1546,43,Ranking Information
+1547,43,Reciprocal Rank
+1548,43,Reciprocal Information
+1549,43,Linear Correlation
+1550,43,Use Of Measures
+1551,43,Unsupervised Learning
+1552,43,Experimental Evaluation
+1553,43,Ranked List
+1554,43,Image Descriptors
+1555,43,Retrieval Results
+1556,43,Rank Aggregation
+1557,43,Pearson Correlation
+1558,43,Texture Features
+1559,43,Information Retrieval
+1560,43,Average Precision
+1561,43,Effect Of Task
+1562,43,Color Features
+1563,43,Textual Descriptions
+1564,43,Content-based Image Retrieval
+1565,43,Image Position
+1566,43,Shape Descriptors
+1567,43,Query Image
+1568,43,Retrieval System
+1569,43,Positive Axis
+1570,43,Rich Source Of Information
+1571,43,Ground Truth Measurements
+1572,43,Mean Average Precision
+1573,43,Shape Context
+1574,43,content-based image retrieval
+1575,43,unsupervised effectiveness estimation
+1576,43,query difficult prediction
+1577,44,Shape
+1578,44,Feature extraction
+1579,44,Computational modeling
+1580,44,Face
+1581,44,Estimation
+1582,44,Neck
+1583,44,Image segmentation
+1584,44,Shape Model
+1585,44,Contour Estimation
+1586,44,Learning Models
+1587,44,Average Energy
+1588,44,Geometric Features
+1589,44,Maximum Energy
+1590,44,Unsupervised Algorithm
+1591,44,Face Detection
+1592,44,Learning Dataset
+1593,44,Unsupervised Clustering Algorithm
+1594,44,Segmentation Stage
+1595,44,Left Side
+1596,44,Training Dataset
+1597,44,Test Dataset
+1598,44,Image Dataset
+1599,44,Edge Weights
+1600,44,Binary Image
+1601,44,Mixture Components
+1602,44,Line Segment
+1603,44,Point Of Curve
+1604,44,Upper Part Of The Body
+1605,44,Face Size
+1606,44,Histogram Of Oriented Gradients
+1607,44,Linear Graph
+1608,44,Related Point
+1609,44,Still Images
+1610,44,Smooth Curve
+1611,44,Markov Random Field
+1612,44,Orientation Angle
+1613,44,Automatic Segmentation
+1614,44,human head-shoulder estimation
+1615,44,omega-shaped region
+1616,44,human segmentation
+1617,45,Image segmentation
+1618,45,Transforms
+1619,45,Clustering algorithms
+1620,45,Vegetation
+1621,45,Accuracy
+1622,45,Image color analysis
+1623,45,Shape
+1624,45,Simple Linear Iterative Clustering
+1625,45,Superpixel Generation
+1626,45,Object Recognition
+1627,45,Cluster Centers
+1628,45,Suitable Function
+1629,45,Depth Estimation
+1630,45,Directional Distance
+1631,45,Cost Path
+1632,45,Nonsmooth Functions
+1633,45,Computer Vision System
+1634,45,Distancing Measures
+1635,45,Image Pixels
+1636,45,Image Segmentation
+1637,45,Optimal Path
+1638,45,Update Step
+1639,45,Simple Linear Iterative Clustering
+1640,45,Image Foresting Transform
+1641,45,Superpixel
+1642,45,unsupervised segmentation
+1643,46,Microscopy
+1644,46,Eigenvalues and eigenfunctions
+1645,46,Animals
+1646,46,Image sequences
+1647,46,Image registration
+1648,46,Visualization
+1649,46,Shape
+1650,46,Hessian Matrix
+1651,46,Intravital Microscopy
+1652,46,Eigenvalues Of The Hessian Matrix
+1653,46,Detection Of Leukocytes
+1654,46,Intravital Video Microscopy
+1655,46,Quantitative Evaluation
+1656,46,Image Registration
+1657,46,Video Frames
+1658,46,Animal Movement
+1659,46,Leukocyte Adhesion
+1660,46,Template Matching
+1661,46,Matching Technique
+1662,46,Intravital Imaging
+1663,46,Eigenvalue Analysis
+1664,46,Leukocyte Rolling
+1665,46,Bilateral Filter
+1666,46,Leukocyte-endothelial Interactions
+1667,46,Detection Methods
+1668,46,Gaussian Kernel
+1669,46,Precision And Recall
+1670,46,Contrast Variation
+1671,46,Number Of Leukocytes
+1672,46,Ground Truth Dataset
+1673,46,Affine Transformation
+1674,46,Peak Signal-to-noise Ratio
+1675,46,Peak Signal-to-noise Ratio Values
+1676,46,Blurred Images
+1677,46,Range Of Scales
+1678,46,Precise Method
+1679,46,Template Matching Method
+1680,46,detection of leukocytes
+1681,46,intravital video microscopy
+1682,46,temporal image registration

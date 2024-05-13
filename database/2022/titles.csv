@@ -1,0 +1,56 @@
+id,title,year
+0,Message from the General Chairs,2022
+1,Message from the Program Chairs,2022
+2,Non-Linear co-registration in UAVs’ images using deep learning,2022
+3,PTL-AI Furnas Dataset: A Public Dataset for Fault Detection in Power Transmission Lines Using Aerial Images,2022
+4,Neuroevolution-based Classifiers for Deforestation Detection in Tropical Forests,2022
+5,A High-Spatial Resolution Dataset and Few-shot Deep Learning Benchmark for Image Classification,2022
+6,A Study on the Impact of Data Augmentation for Training Convolutional Neural Networks in the Presence of Noisy Labels,2022
+7,Pixel-level Class-Agnostic Object Detection using Texture Quantization,2022
+8,Measuring the influence of painters through artwork facial features,2022
+9,CityHub: A Library for Urban Data Integration,2022
+10,Explaining noise effects in CNN: a practical case study on volcano signals,2022
+11,Identification of the Radical Component from Images of Chinese Characters,2022
+12,Learning to Detect Good Keypoints to Match Non-Rigid Objects in RGB Images,2022
+13,Error Accuracy Estimation of 3D Reconstruction and 3D Camera Pose from RGB-D Data,2022
+14,An Action Recognition Approach with Context and Multiscale Motion Awareness,2022
+15,Improving color homogeneity measure in superpixel segmentation assessment,2022
+16,A soybean seedlings dataset for soil condition and genotype classification,2022
+17,Feature extraction with mixture gaussian for stroke classification,2022
+18,Convolution-Vision Transformer for Automatic Lung Sound Classification,2022
+19,Analysis of the statistical significance of 3D texture features in MRI images toward the detection of Tourette’s Syndrome,2022
+20,Segmenting White Matter Hyperintensity in Alzheimer’s Disease using U-Net CNNs,2022
+21,No boundary left behind in semantic segmentation,2022
+22,Multiclass Oversampling via Optimum-Path Forest for Tree Species Classification from Street-view Perspectives,2022
+23,How to proper initialize Gaussian Mixture Models with Optimum-Path Forest,2022
+24,Quantitative descriptors for a range of visual biologic pigmentation patterns,2022
+25,Pap-smear image classification by using a fusion of texture features,2022
+26,Counting Particles: a simple and fast surface reconstruction method for particle-based fluids,2022
+27,Synthetic Object Recognition Dataset for Industries,2022
+28,DirectVoxGO++: Fast Neural Radiance Fields for Object Reconstruction,2022
+29,A texture-driven model for male baldness,2022
+30,Recursive filtering 2D Tikhonov regularization,2022
+31,Multiresolution Neural Networks for Imaging,2022
+32,Multi-Scale Patch Partitioning for Image Inpainting Based on Visual Transformers,2022
+33,Collaborative Filtering Matches Decision Templates: A Practical Approach to Estimate Predictions,2022
+34,Temperature Prediction in Blast Furnaces: A Machine Learning Comparative Study,2022
+35,Residual M-net with Frequency-Domain Loss Function for Latent Fingerprint Enhancement,2022
+36,A Benchmark on Masked Face Recognition,2022
+37,SynLibras: A Disentangled Deep Generative Model for Brazilian Sign Language Synthesis,2022
+38,Face Super-Resolution Using Stochastic Differential Equations,2022
+39,Fault Classification on Melamine Faced Panels Using Local Binary Pattern,2022
+40,Combining Attention Module and Pixel Shuffle for License Plate Super-Resolution,2022
+41,A First Look at Dataset Bias in License Plate Recognition,2022
+42,Fine-grained Cars Recognition using Deep Convolutional Neural Networks,2022
+43,Brazilian Road’s Animals (BRA): An Image Dataset of Most Commonly Run Over Animals,2022
+44,Learning from pseudo-labels: Self-training Electronic Components Detector for Waste Printed Circuit Boards,2022
+45,Classification of lymphomas images with polynomial strategy: An application with Ridge regularization,2022
+46,Assessment of the association of deep features with a polynomial algorithm for automated oral epithelial dysplasia grading,2022
+47,Automated Sperm Head Morphology Classification with Deep Convolutional Neural Networks,2022
+48,Evaluating Interpretability in Deep Learning using Breast Cancer Histopathological Images,2022
+49,A Method to Estimate COVID-19 Contamination Risk Based on Social Distancing and Face Mask Detection Using Convolutional Neural Networks,2022
+50,Domain Generalization in Medical Image Segmentation via Meta-Learners,2022
+51,Visualization for Machine Learning,2022
+52,"Visual Computing in 360°: Foundations, Challenges, and Applications",2022
+53,Fundamentals and Challenges of Generative Adversarial Networks for Image-based Applications,2022
+54,Deep Open-Set Segmentation in Visual Learning,2022

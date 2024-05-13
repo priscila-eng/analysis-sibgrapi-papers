@@ -1,0 +1,660 @@
+id,id_paper,keyword
+0,0,Image processing
+1,0,Visualization
+2,0,Ultrasonic imaging
+3,0,Image segmentation
+4,0,Biomedical imaging
+5,0,Image analysis
+6,0,Humans
+7,0,Medical treatment
+8,0,Smoothing methods
+9,0,Arteries
+10,1,Shape
+11,1,Reflectivity
+12,1,Brightness
+13,1,Equations
+14,1,Lighting
+15,1,Photometry
+16,1,Stereo vision
+17,1,Layout
+18,1,Parameter estimation
+19,1,Computer vision
+20,2,Error correction
+21,2,Image segmentation
+22,2,Phase detection
+23,2,Automatic testing
+24,2,System testing
+25,2,Data mining
+26,2,Handwriting recognition
+27,2,Image analysis
+28,2,Image databases
+29,2,Binary trees
+30,3,Facial features
+31,3,Face detection
+32,3,Discrete wavelet transforms
+33,3,Continuous wavelet transforms
+34,3,Robustness
+35,3,Video sequences
+36,3,Lighting
+37,3,Geometry
+38,3,Face recognition
+39,3,Function approximation
+40,4,Face detection
+41,4,Image edge detection
+42,4,Humans
+43,4,Face recognition
+44,4,Color
+45,4,Robustness
+46,4,Cameras
+47,4,Databases
+48,4,Filters
+49,4,Computer vision
+50,5,Layout
+51,5,Computer vision
+52,5,Color
+53,5,Navigation
+54,5,Animation
+55,5,Information analysis
+56,5,Solid modeling
+57,5,Object recognition
+58,5,Uncertainty
+59,5,Feature extraction
+60,6,Biological system modeling
+61,6,Neurons
+62,6,Equations
+63,6,Filters
+64,6,Shape
+65,6,Humans
+66,6,Neural networks
+67,6,Cybernetics
+68,6,Design for quality
+69,6,Biological neural networks
+70,7,Stereo vision
+71,7,Genetic algorithms
+72,7,Layout
+73,7,Cameras
+74,7,Computer vision
+75,7,Mathematics
+76,7,Laboratories
+77,7,Los Angeles Council
+78,7,Motion analysis
+79,7,Optical computing
+80,8,Humans
+81,8,Layout
+82,8,Visual perception
+83,8,Interference
+84,8,Physics
+85,8,Testing
+86,8,Psychology
+87,8,Retina
+88,8,Information processing
+89,9,Image segmentation
+90,9,Handwriting recognition
+91,9,Character recognition
+92,9,Robustness
+93,9,Focusing
+94,9,Image resolution
+95,10,Magnetic resonance imaging
+96,10,Image registration
+97,10,Image sensors
+98,10,Magnetic sensors
+99,10,Image analysis
+100,10,Noise robustness
+101,10,Testing
+102,10,Deformable models
+103,10,Radiology
+104,10,Computational Intelligence Society
+105,11,Image resolution
+106,11,Postal services
+107,11,Image segmentation
+108,11,Image motion analysis
+109,11,Shape
+110,11,Computer graphics
+111,11,Laboratories
+112,11,Image sampling
+113,11,Biomedical imaging
+114,11,Motion analysis
+115,12,Image reconstruction
+116,12,Endoscopes
+117,12,Shape
+118,12,Cameras
+119,12,Light sources
+120,12,Surface reconstruction
+121,12,Reflectivity
+122,12,Optical reflection
+123,12,Data visualization
+124,12,Lenses
+125,13,Law
+126,13,Legal factors
+127,13,Handwriting recognition
+128,13,Hidden Markov models
+129,13,Character recognition
+130,13,Image segmentation
+131,13,Feature extraction
+132,13,System testing
+133,13,Image databases
+134,13,Spatial databases
+135,14,Handwriting recognition
+136,14,Hidden Markov models
+137,14,Pattern recognition
+138,14,Feature extraction
+139,14,Speech recognition
+140,14,Automatic testing
+141,14,Neural networks
+142,14,Euclidean distance
+143,14,Image matching
+144,14,Text recognition
+145,15,Handwriting recognition
+146,15,Hidden Markov models
+147,15,Image segmentation
+148,15,Image recognition
+149,15,Humans
+150,15,Computer vision
+151,15,Context modeling
+152,15,Image databases
+153,15,Application software
+154,15,Production
+155,16,Humans
+156,16,Application software
+157,16,Solid modeling
+158,16,Computer graphics
+159,16,Visualization
+160,17,Spline
+161,17,Smoothing methods
+162,17,Spatial resolution
+163,17,Topology
+164,17,Refining
+165,17,Tiles
+166,17,Design methodology
+167,17,Lattices
+168,17,Scalability
+169,17,Visualization
+170,18,Robustness
+171,18,Arithmetic
+172,18,Performance analysis
+173,18,Machining
+174,18,Service robots
+175,18,Path planning
+176,18,Tolerance analysis
+177,18,Euclidean distance
+178,19,Solid modeling
+179,19,Horses
+180,19,Animals
+181,19,Biological system modeling
+182,19,Buildings
+183,19,Shape control
+184,19,Humans
+185,19,World Wide Web
+186,20,Sorting
+187,20,Mathematics
+188,20,Robustness
+189,20,Taylor series
+190,20,Differential equations
+191,20,Computational geometry
+192,20,Testing
+193,21,Estimation theory
+194,21,Interpolation
+195,21,Layout
+196,21,Tomography
+197,21,Bayesian methods
+198,21,Spline
+199,21,Pixel
+200,21,Instruments
+201,21,X-ray imaging
+202,21,Atmosphere
+203,22,Image analysis
+204,22,Wavelet analysis
+205,22,Gabor filters
+206,22,Karhunen-Loeve transforms
+207,22,Image resolution
+208,22,Dictionaries
+209,22,Tuning
+210,22,Frequency
+211,22,Image reconstruction
+212,22,Pattern analysis
+213,23,Stochastic processes
+214,23,Image retrieval
+215,23,Wavelet transforms
+216,23,Anisotropic magnetoresistance
+217,23,Sheet materials
+218,23,Textiles
+219,23,Catalogs
+220,23,Image resolution
+221,23,Quality control
+222,23,Image texture analysis
+223,24,Fractals
+224,24,Color
+225,24,Image coding
+226,24,Image reconstruction
+227,24,Block codes
+228,24,Pixel
+229,24,Decoding
+230,24,Image storage
+231,24,IEC standards
+232,24,Performance gain
+233,25,Agriculture
+234,25,Electromagnetic scattering
+235,25,Particle scattering
+236,25,Computed tomography
+237,25,Soil
+238,25,X-ray scattering
+239,25,Instruments
+240,25,Magnetic resonance imaging
+241,25,Application software
+242,25,Density measurement
+243,26,Virtual environment
+244,26,Dead reckoning
+245,26,Cloning
+246,26,Computer network management
+247,26,Environmental management
+248,26,Intelligent networks
+249,26,Laboratories
+250,26,Informatics
+251,26,Electronic mail
+252,26,Innovation management
+253,27,Control theory
+254,27,Animation
+255,27,Physics
+256,27,Kinematics
+257,27,Solid modeling
+258,27,Feedback
+259,27,Computational modeling
+260,27,Robot sensing systems
+261,27,Constraint theory
+262,27,Actuators
+263,28,Image analysis
+264,28,Image texture analysis
+265,28,Image generation
+266,28,Reflectivity
+267,28,Surface fitting
+268,28,Surface texture
+269,28,Digital images
+270,28,Bidirectional control
+271,28,Distribution functions
+272,28,Shape
+273,29,Image edge detection
+274,29,Layout
+275,29,Image segmentation
+276,29,Pixel
+277,29,Equations
+278,29,Rendering (computer graphics)
+279,29,Cameras
+280,29,Light sources
+281,29,Optical reflection
+282,29,Lighting
+283,30,Filling
+284,30,Computer graphics
+285,30,Concurrent computing
+286,30,Software standards
+287,30,Silicon
+288,30,Information systems
+289,30,Software algorithms
+290,30,Application software
+291,30,System testing
+292,30,Robustness
+293,31,Time factors
+294,31,Rendering (computer graphics)
+295,31,Image generation
+296,31,Data analysis
+297,31,Algorithm design and analysis
+298,31,Hardware
+299,31,Power generation
+300,31,Image analysis
+301,31,Assembly systems
+302,31,Approximation algorithms
+303,32,Visualization
+304,32,Solid modeling
+305,32,Topology
+306,32,Motion pictures
+307,32,Computer graphics
+308,32,Energy measurement
+309,32,Displays
+310,32,Buildings
+311,32,Springs
+312,32,Books
+313,33,World Wide Web
+314,33,Data visualization
+315,33,Animation
+316,33,Collaborative work
+317,33,Pipelines
+318,33,HTML
+319,33,Java
+320,33,Internet
+321,33,Wide area networks
+322,33,Rendering (computer graphics)
+323,34,Euclidean distance
+324,34,Pixel
+325,34,Algorithm design and analysis
+326,34,Image processing
+327,34,Image classification
+328,34,Skeleton
+329,34,Interpolation
+330,34,Tree graphs
+331,34,Discrete transforms
+332,34,Digital images
+333,35,Image decomposition
+334,35,Filtering
+335,35,Image segmentation
+336,35,Image analysis
+337,35,Information analysis
+338,35,Digital filters
+339,35,Gray-scale
+340,35,Morphology
+341,35,Digital images
+342,35,Shape
+343,36,Image segmentation
+344,36,Character recognition
+345,36,Optical character recognition software
+346,36,Morphology
+347,36,Kernel
+348,36,Graphics
+349,36,Optical filters
+350,36,Image recognition
+351,36,Process design
+352,36,Robustness
+353,37,Morphology
+354,37,Image processing
+355,37,Lattices
+356,37,Gray-scale
+357,37,Computer architecture
+358,37,Pixel
+359,37,Algorithm design and analysis
+360,37,Image reconstruction
+361,38,Color
+362,38,Object detection
+363,38,Image edge detection
+364,38,Image segmentation
+365,38,Gray-scale
+366,38,Design optimization
+367,38,Detectors
+368,38,Digital images
+369,38,Image sequences
+370,38,Filtering
+371,39,Data structures
+372,39,Boolean functions
+373,39,Binary decision diagrams
+374,39,Image processing
+375,39,Morphology
+376,39,Formal languages
+377,39,Vocabulary
+378,39,Lattices
+379,39,Focusing
+380,39,Software algorithms
+381,40,Color
+382,40,Image segmentation
+383,40,Gray-scale
+384,40,Image edge detection
+385,40,Humans
+386,40,Process design
+387,40,Image processing
+388,40,Pixel
+389,40,Lattices
+390,41,Image restoration
+391,41,Jacobian matrices
+392,41,Virtual machining
+393,41,Master-slave
+394,41,Markov random fields
+395,41,Additive noise
+396,41,Gaussian noise
+397,41,Degradation
+398,41,Minimization methods
+399,41,Image generation
+400,42,Java
+401,42,Digital images
+402,42,Electronics packaging
+403,42,Hardware
+404,42,Object oriented modeling
+405,42,Graphics
+406,42,Productivity
+407,42,Algorithm design and analysis
+408,42,Virtual machining
+409,42,Computer architecture
+410,43,Character recognition
+411,43,Intelligent networks
+412,43,Vehicles
+413,43,Neural networks
+414,43,Communication system traffic control
+415,43,Neurons
+416,43,Background noise
+417,43,Modems
+418,43,Automotive engineering
+419,43,Traffic control
+420,44,Motion pictures
+421,44,Surface morphology
+422,44,Shape
+423,44,Surface reconstruction
+424,44,Image restoration
+425,44,Image reconstruction
+426,44,History
+427,44,Image sequences
+428,44,Pixel
+429,44,Motion detection
+430,45,Image segmentation
+431,45,Polynomials
+432,45,Least squares approximation
+433,45,Image edge detection
+434,45,Pixel
+435,45,Redundancy
+436,45,Object detection
+437,45,Merging
+438,45,Humanoid robots
+439,45,Intelligent systems
+440,46,Adaptive filters
+441,46,Image processing
+442,46,Artificial neural networks
+443,46,Image edge detection
+444,46,Color
+445,46,Neural networks
+446,46,Neurons
+447,46,Gray-scale
+448,46,Usability
+449,46,Java
+450,47,Biological cells
+451,47,Morphological operations
+452,47,Genetic algorithms
+453,47,Cost function
+454,47,Image segmentation
+455,47,Algorithm design and analysis
+456,47,Histograms
+457,47,Instruction sets
+458,47,Bridges
+459,48,Handwriting recognition
+460,48,Spline
+461,48,Multi-layer neural network
+462,48,Neural networks
+463,48,Wavelet transforms
+464,48,Feature extraction
+465,48,Spatial databases
+466,48,Shape
+467,48,Character recognition
+468,48,Data mining
+469,49,Image coding
+470,49,PSNR
+471,49,Finite element methods
+472,49,Image segmentation
+473,49,Image reconstruction
+474,49,Differential equations
+475,49,Image processing
+476,49,Pixel
+477,49,Interpolation
+478,49,Bit rate
+479,50,Pattern recognition
+480,50,Image segmentation
+481,50,Energy resolution
+482,50,Image resolution
+483,50,Feature extraction
+484,50,Data mining
+485,50,Neural networks
+486,50,Layout
+487,50,Silicon compounds
+488,50,Brightness
+489,51,Wavelet transforms
+490,51,Image resolution
+491,51,Image reconstruction
+492,51,Discrete wavelet transforms
+493,51,Continuous wavelet transforms
+494,51,Imaging phantoms
+495,51,Head
+496,51,Signal resolution
+497,51,Low pass filters
+498,51,Tail
+499,52,Image segmentation
+500,52,Parallel processing
+501,52,Image analysis
+502,52,Libraries
+503,52,Testing
+504,52,Layout
+505,52,Remote sensing
+506,52,Pixel
+507,52,Message passing
+508,52,Linux
+509,53,Fingerprint recognition
+510,53,Neurons
+511,53,Signal to noise ratio
+512,53,Optical filters
+513,53,Pixel
+514,53,Algorithm design and analysis
+515,53,Optical noise
+516,53,Biomedical optical imaging
+517,53,Libraries
+518,53,Image segmentation
+519,54,Image segmentation
+520,54,Cornea
+521,54,Morphology
+522,54,Lamps
+523,54,Image analysis
+524,54,Filters
+525,54,Optical computing
+526,54,Brightness
+527,54,Computer industry
+528,54,Costs
+529,55,Algorithm design and analysis
+530,55,Continuous wavelet transforms
+531,55,Shape
+532,55,Wavelet transforms
+533,55,Image analysis
+534,55,Feature extraction
+535,55,Computer science
+536,55,Computer vision
+537,55,Man machine systems
+538,55,Deafness
+539,56,Head
+540,56,Motion analysis
+541,56,Tracking
+542,56,Image motion analysis
+543,56,Navigation
+544,56,Image processing
+545,56,Data mining
+546,56,Mobile robots
+547,56,Eyes
+548,56,Mouth
+549,57,Dynamic programming
+550,57,Iterative algorithms
+551,57,Computer vision
+552,57,Pixel
+553,57,Phase measurement
+554,57,Testing
+555,57,Smoothing methods
+556,57,Filters
+557,57,Iterative methods
+558,57,Head
+559,58,Bronchoscopy
+560,58,Casting
+561,58,Navigation
+562,58,Biopsy
+563,58,Visualization
+564,58,Computer graphics
+565,58,Tree graphs
+566,58,Anesthesia
+567,58,Endoscopes
+568,58,Computed tomography
+569,59,Microscopy
+570,59,Electronics packaging
+571,59,Digital images
+572,59,Brightness
+573,59,Nervous system
+574,59,Filters
+575,59,Noise figure
+576,59,Biology computing
+577,59,Laser noise
+578,59,Three dimensional displays
+579,60,Multimedia databases
+580,60,Image databases
+581,60,Management information systems
+582,60,Database systems
+583,60,Object oriented modeling
+584,60,Object oriented databases
+585,60,Relational databases
+586,60,Data security
+587,60,Information security
+588,60,Cryptography
+589,61,Computed tomography
+590,61,Image coding
+591,61,PSNR
+592,61,Fractals
+593,61,Image quality
+594,61,Image analysis
+595,61,Biomedical imaging
+596,61,Wavelet transforms
+597,61,Graphics
+598,61,Wavelet analysis
+599,62,Education
+600,62,Embryo
+601,62,MPEG 4 Standard
+602,62,Microscopy
+603,62,Visualization
+604,62,Virtual environment
+605,62,Biomedical imaging
+606,62,Books
+607,62,Computer science
+608,62,Birds
+609,63,Image reconstruction
+610,63,Surface reconstruction
+611,63,Surges
+612,63,Topology
+613,63,Deformable models
+614,63,Mesh generation
+615,63,Robustness
+616,63,Watches
+617,63,Vectors
+618,63,Strips
+619,64,Instruments
+620,64,Communication system control
+621,64,Local area networks
+622,64,Control systems
+623,64,Internet
+624,64,Educational technology
+625,64,Augmented virtuality
+626,64,Area measurement
+627,64,Software measurement
+628,64,Software maintenance
+629,65,Weather forecasting
+630,65,Data visualization
+631,65,Meteorology
+632,65,Predictive models
+633,65,Writing
+634,65,Page description languages
+635,65,Numerical models
+636,65,Data acquisition
+637,65,Information analysis
+638,65,TV
+639,66,Data visualization
+640,66,Biomedical imaging
+641,66,Object oriented modeling
+642,66,Medical diagnostic imaging
+643,66,Medical diagnosis
+644,66,Magnetic resonance imaging
+645,66,Positron emission tomography
+646,66,Displays
+647,66,Medical services
+648,66,Biomedical equipment
+649,67,Animation
+650,67,Artificial intelligence
+651,67,Petri nets
+652,67,Low earth orbit satellites
+653,67,Computer architecture
+654,67,Concrete
+655,67,Mathematical model
+656,67,Testing
+657,67,Feedback
+658,67,Layout

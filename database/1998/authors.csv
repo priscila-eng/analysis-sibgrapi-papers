@@ -1,0 +1,171 @@
+id,id_paper,name
+0,0,J. Faubert
+1,1,P. Maragos
+2,1,M. Akmal Butt
+3,1,L.F.C. Pessoa
+4,2,L. Pini Magalhaes
+5,3,E.R. Dougherty
+6,4,F. Meyer
+7,5,R. Bajcsy
+8,5,G. Kamberova
+9,5,R. Enciso
+10,5,L. Nocera
+11,5,H. Fuchs
+12,5,G. Welch
+13,5,R. Sara
+14,6,E.R. Minatel
+15,6,P.E. Cruvinel
+16,7,A.M.G. Tommaselli
+17,8,R. Marques da Silva
+18,8,Wu Shin-Ting
+19,9,L.F. Granato
+20,9,P.E. Cruvinel
+21,9,F. Cassaro
+22,9,S. Crestana
+23,10,A. Sarti
+24,10,C. Ortiz
+25,10,S. Lockett
+26,10,R. Malladi
+27,11,A. Antunes Montenegro
+28,11,M. Gattass
+29,11,P. Cezar Pinto Carvalho
+30,12,L.C.G. Coelho
+31,12,M. Gattass
+32,12,L.H. De Figueiredo
+33,13,A.E. Fabris
+34,13,L. Silva
+35,13,A.R. Forrest
+36,14,E. Lamounier
+37,15,A. Matos
+38,15,J. Gomes
+39,15,L. Velho
+40,16,L.A. Lima
+41,16,R. Bastos
+42,17,M.C. Ferreira de Oliveira
+43,17,R. Minghim
+44,17,S.M. Tutida
+45,17,V.C. Lucas Salvador
+46,18,E.G. da Fonseca
+47,18,P.L. de Gues
+48,18,C.F.X. de Mendonca N
+49,18,J.J. Lunazzi
+50,18,E. Bertini
+51,19,K. Basso
+52,19,C.M. Dal Sasso Freitas
+53,20,V.C.L. Salvador
+54,20,R. Minghim
+55,20,M.L. Pacheco
+56,21,T.G. de Senna Carneiro
+57,21,J.N. Cotrim Arabe
+58,22,L. Rila
+59,23,G. Franssens
+60,23,M. de Maziere
+61,23,D. Fonteyn
+62,23,D. Fussen
+63,24,N.V. Boulgouris
+64,24,M.G. Strintzis
+65,25,J. Gomes
+66,25,L. Darsa
+67,25,B. Costa
+68,25,L. Velho
+69,26,J.D.R. Wey
+70,26,J.A. Zuffo
+71,27,I. Diamantis
+72,27,A. Ntalakas
+73,27,M.G. Strintzis
+74,28,G.S. Lee
+75,29,W. Celes
+76,30,S. Exel
+77,30,L. Pessoa
+78,31,M.W. Kurzynski
+79,31,J. Sas
+80,32,A. Guarda
+81,32,C. Le Gal
+82,32,A. Lux
+83,33,E.O. De Jesus
+84,33,R. De Alencar Lotufo
+85,34,R. Chaine
+86,34,S. Bouakaz
+87,34,D. Vandorpe
+88,35,A. Koerich
+89,35,Lee Luan Ling
+90,36,R. Santos
+91,36,T. Ohashi
+92,36,T. Yoshida
+93,36,T. Ejima
+94,37,L.S. de Coelho
+95,37,M.F.M. Campos
+96,37,V. Kumar
+97,38,A.P.D. Poz
+98,38,A.M.G. Tommaselli
+99,39,F.N.S. Medeiros
+100,39,N.D.A. Mascarenhas
+101,39,L. da Costa
+102,40,M.L. De Bustamante Simas
+103,40,N.A. Dos Santos
+104,41,A.M.C. Machado
+105,41,J.C. Gee
+106,41,M.F.M. Campos
+107,42,D.C. Fernandez
+108,42,R. De Peralta Menendez
+109,42,S.L.G. Andino
+110,42,E.O. Farras
+111,43,E.O. Farras
+112,43,R.G. De Peralta Menendez
+113,43,S.L. Gonzalez Andino
+114,43,D.C. Fernandez
+115,43,E.A. Vazquez
+116,44,E. Ribeiro
+117,44,E.R. Hancock
+118,45,R. Zonenschein
+119,45,J. Gomes
+120,45,L. Velho
+121,45,L.H. De Figueiredo
+122,45,M. Tigges
+123,45,B. Wyvill
+124,46,A.N. Marana
+125,46,L.F. Costa
+126,46,R.A. Lotufo
+127,46,S.A. Velastin
+128,47,O.M. Bruno
+129,47,R.M. Cesar
+130,47,L.A. Consularo
+131,47,L. Da Fontoura Costa
+132,48,E. Mathias
+133,48,A. Conci
+134,49,N. Sebe
+135,49,M. Lew
+136,49,D.P. Huijsmans
+137,50,P.C.P. Carvalho
+138,50,F. Szenberg
+139,50,M. Gattass
+140,51,Yung-Chieh Lin
+141,51,Chiou-Shann Fuh
+142,52,R.M.L.O. Mendonca
+143,52,M.F.M. Campos
+144,53,I. Thomo
+145,53,S. Malasiotis
+146,53,M.G. Strintzis
+147,54,L.M.G. Goncalves
+148,54,R.A. Grupen
+149,54,A.A.F. Oliveira
+150,55,L.M.G. Goncalves
+151,55,A.A.F. De Oliveira
+152,56,M.C. D'Ornellas
+153,56,R. Van den Boomgaard
+154,56,J.-M. Geusebroek
+155,57,R.F. Hashimoto
+156,58,J. Barrera
+157,58,M. Brun
+158,59,M.E. Morita
+159,59,F. Bortolozzi
+160,59,J. Facon
+161,59,R. Sabourin
+162,60,W.N. Matta
+163,60,A. De Albuquerque Araujo
+164,61,R. De Alengar Lotufo
+165,61,W.D.F. Da Silva
+166,61,A.X. Falcao
+167,61,A.C.F. Pessoa
+168,62,P. Ghosh
+169,62,B. Chanda

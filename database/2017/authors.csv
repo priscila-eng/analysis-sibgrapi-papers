@@ -1,0 +1,213 @@
+id,id_paper,name
+0,2,Fabio Irigon Pereira
+1,2,Gustavo Ilha
+2,2,Joel Luft
+3,2,Marcelo Negreiros
+4,2,Altamiro Susin
+5,3,Marcos Ademir Tejada Condori
+6,3,Fabio Augusto Menocci Cappabianco
+7,3,Alexandre Xavier Falcao
+8,3,Paulo Andre Vechiatto De Miranda
+9,4,Frank H. Borsato
+10,4,Carlos H. Morimoto
+11,5,André Medalha
+12,5,Lucas Pagliosa
+13,5,Afonso Paiva
+14,5,Paulo Pagliosa
+15,6,Wallas H. S. dos Santos
+16,6,Paulo Ivson
+17,6,Alberto Barbosa Raposo
+18,7,Tony Liedyn Choque Ramos
+19,7,Alex Jesus Cuadros Vargas
+20,8,Carlos Caetano
+21,8,Victor H. C. de Melo
+22,8,Jefersson A. dos Santos
+23,8,William Robson Schwartz
+24,9,Sérgio Montazzolli
+25,9,Claudio Jung
+26,10,Leandro Aparecido Passos
+27,10,Joao Paulo Papa
+28,11,Edmar R.S. de Rezende
+29,11,Guilherme C.S. Ruppert
+30,11,Tiago Carvalho
+31,12,Leissi Margarita Castañeda Leon
+32,12,Paulo André Vechiatto De Miranda
+33,13,Thomas Jose Mazon De Oliveira
+34,13,Marco Aurelio Wehrmeister
+35,13,Bogdan Tomoyuki Nassu
+36,14,Beatriz Tomazela Teodoro
+37,14,Joao Bernardes
+38,14,Luciano Antonio Digiampietri
+39,15,Antonio José M. Leite
+40,15,Emanuele Santos
+41,15,Creto A. Vidal
+42,15,Jose A.F. De Macêdo
+43,16,George A.M. Gomes
+44,16,Emanuele Santos
+45,16,Creto A. Vidal
+46,17,Markus Diego Dias
+47,17,Moussa Reda Mansour
+48,17,Fabio Dias
+49,17,Fabiano Petronetto
+50,17,Cláudio Teixeira Silva
+51,17,Luis Gustavo Nonato
+52,18,Douglas Rodrigues
+53,18,André Nunes Souza
+54,18,João Paulo Papa
+55,19,Leonardo Bombonato
+56,19,Guillermo Camara-Chavez
+57,19,Pedro Silva
+58,20,Jhosimar Arias Figueroa
+59,20,Adín Ramírez Rivera
+60,21,Raquel Almeida
+61,21,Zenilton Kleber Gonçalves Do Patrocínio
+62,21,Silvio Jamil F. Guimarães
+63,22,Daniel Felipe Silva Santos
+64,22,Gustavo Botelho De Souza
+65,22,Aparecido Nilceu Marana
+66,23,Luis Claudio Sugi Afonso
+67,23,Clayton Reginaldo Pereira
+68,23,Silke Anna Theresa Weber
+69,23,Christian Hook
+70,23,João Paulo Papa
+71,24,Larissa Ferreira Rodrigues
+72,24,Murilo Coelho Naldi
+73,24,João Fernando Mari
+74,25,Schubert R. Carvalho
+75,25,Iraquitan Cordeiro Filho
+76,25,Damares Oliveira De Resende
+77,25,Ana Carolina Siravenha
+78,25,Cleidson R.B. De Souza
+79,25,Henrique Debarba
+80,25,Bruno D. Gomes
+81,25,Ronan Boulic
+82,26,Fabio Theoto Rocha
+83,26,Laercio Ribeiro Da Silva
+84,26,Fabio Henrique Goncalves Cesar
+85,26,Gilson Antonio Giraldi
+86,26,Carlos Eduardo Thomaz
+87,27,Francisco Gerardo Medeiros Neto
+88,27,Ítalo Rodrigues Braga
+89,27,Matthew Henry Harber
+90,27,Iális Cavalcante De Paula
+91,28,Samuel Botter Martins
+92,28,Giovani Chiachia
+93,28,Alexandre Xavier Falcão
+94,29,Rafael Henrique Vareto
+95,29,Samira Santos Da Silva
+96,29,Filipe De Oliveira Costa
+97,29,William Robson Schwartz
+98,30,Renan Vilas Novas
+99,30,Fábio Luiz Usberti
+100,31,Rodolfo Migon Favaretto
+101,31,Leandro Dihl
+102,31,Soraia Raupp Musse
+103,31,Felipe Vilanova
+104,31,Angelo Brandelli Costa
+105,32,Mislene Da Silva Nunes
+106,32,Gastão Florêncio Miranda
+107,32,Beatriz Trinchão Andrade
+108,33,Márcio Cerqueira De Farias Macedo
+109,33,Antônio Lopes Apolinário
+110,34,Dennis Giovani Balreira
+111,34,Marcelo Walter
+112,35,Douglas Tybusch
+113,35,Gilseone Rosa De Moraes
+114,35,Osmar M. dos Santos
+115,35,Andrei Piccinini Legg
+116,35,Simone Regina Ceolin
+117,36,Rafael Baeta
+118,36,Keiller Nogueira
+119,36,David Menotti
+120,36,Jefersson A. dos Santos
+121,37,Luan Casagrande
+122,37,Gustavo Mello Machado
+123,37,Sathishkumar Samiappan
+124,37,Gray Turnage
+125,37,Lee Hathcock
+126,37,Robert Moorhead
+127,38,Julio César Mello Román
+128,38,Horacio Legal-Ayala
+129,38,José Luis Vázquez Noguera
+130,39,Renan Botan
+131,39,Klaus Fabian Coco
+132,39,Karin Satie Komati
+133,40,Andrea Britto Mattos
+134,40,Rodrigo S. Ferreira
+135,40,Reinaldo M. Da Gama e Silva
+136,40,Mateus Riva
+137,40,Emilio Vital Brazil
+138,41,Oeslle Lucena
+139,41,Ítalo De P. Oliveira
+140,41,Luciana Veloso
+141,41,Eanes Pereira
+142,42,Luis Antonio De Souza
+143,42,Luis Cláudio Sugi Afonso
+144,42,Christoph Palm
+145,42,João Paulo Papa
+146,43,Mario Santos Camillo
+147,43,Wu Shin-Ting
+148,44,Felipe de Souza
+149,44,Helio Pedrini
+150,45,Pedro Garcia Freitas
+151,45,Mylène Christine Queiroz De Farias
+152,46,Pedro Senna
+153,46,Isabela Neves Drummond
+154,46,Guilherme Sousa Bastos
+155,47,Rommel Anatoli Quintanilla Cruz
+156,47,Diego Carriço Cacau
+157,47,Renato Moraes dos Santos
+158,47,Evandro Jose Ribeiro Pereira
+159,47,Fabiana Rodrigues Leta
+160,47,Esteban Gonzalez Clua
+161,48,Wilson Estécio Marcílio
+162,48,Danilo Medeiros Eler
+163,48,Rogério Eduardo Garcia
+164,49,Rafael De Assuncao Sampaio
+165,49,Marcel Parolin Jackowski
+166,50,Luis H.S. Vogado
+167,50,Rodrigo De M.S. Veras
+168,50,Alan R. Andrade
+169,50,Flavio H.D. de Araujo
+170,50,Romuere R.V. Silva
+171,50,Kelson R.T. Aires
+172,51,Thiago Lopes Trugillo Da Silveira
+173,51,Cláudio Rosito Jung
+174,52,Jose David Bermudez Castro
+175,52,Raul Queiroz Feitoza
+176,52,Laura Cue La Rosa
+177,52,Pedro Marco Achanccaray Diaz
+178,52,Ieda Del Arco Sanches
+179,53,Rafael Gonçalves Pires
+180,53,Daniel Felipe Silva Santos
+181,53,Luís Augusto Martins Pereira
+182,53,Gustavo Botelho De Souza
+183,53,Alexandre Luís Magalhães Levada
+184,53,João Paulo Papa
+185,54,Daniel Luis Cosmo
+186,54,Fernando Kentaro Inaba
+187,54,Evandro Ottoni Teatini Salles
+188,55,Marcus Vinicius Zavarez
+189,55,Rodrigo F. Berriel
+190,55,Thiago Oliveira-Santos
+191,56,Igor Leonardo Oliveira Bastos
+192,56,William Robson Schwartz
+193,57,Victor H. A. Quirita
+194,57,Patrick N. Happ
+195,57,Gilson A.O.P. Costa
+196,57,Raul Q. Feitosa
+197,58,Bernardo Bentes Gatto
+198,58,Eulanda Miranda dos Santos
+199,58,Waldir Sabino Da Silva
+200,59,Lucas Teixeira Goncalves
+201,59,Joel De Oliveira Gaya
+202,59,Paulo Drews
+203,59,Silvia Silva Da Costa Botelho
+204,60,Lıvia Rodrigues
+205,60,Roberto Medeiros De Souza
+206,60,Letícia Rittner
+207,60,Richard Frayne
+208,60,Roberto De Alencar Lotufo
+209,61,Frank D. Julca-Aguilar
+210,61,Ana L.L.M. Maia
+211,61,Nina S.T. Hirata

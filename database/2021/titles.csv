@@ -1,0 +1,59 @@
+id,title,year
+0,Message from Program Chairs,2021
+1,Organizing Committee,2021
+2,Program Committee,2021
+3,Acknowledgements,2021
+4,Machine Learning Bias in Computer Vision: Why do I have to care?,2021
+5,Training Deep Networks from Zero to Hero: avoiding pitfalls and going beyond,2021
+6,Neural Networks for Implicit Representations of 3D Scenes,2021
+7,A New Focus+Context Visualization Technique for Inspecting Black Oil Reservoir Models,2021
+8,Optimized 2D Ball Trees,2021
+9,Gravity Alignment for Single Panorama Depth Inference,2021
+10,Gaze estimation via self-attention augmented convolutions,2021
+11,An Investigation of 2D Keypoints Detection on Challenging Scenarios Using Depthwise Separable Convolutions: A Hand Pose Estimation Case Study,2021
+12,Fast Spatial-Temporal Transformer Network,2021
+13,Analyzing the Effects of Dimensionality Reduction for Unsupervised Domain Adaptation,2021
+14,BORDE: Boundary and Sub-Region Denormalization for Semantic Brain Image Synthesis,2021
+15,Learning to Segment Medical Images from Few-Shot Sparse Labels,2021
+16,A New Grammar for Creating Convolutional Neural Networks Applied to Medical Image Classification,2021
+17,Improving Similarity Metric of Multi-modal MR Brain Image Registration Via a Deep Ensemble,2021
+18,An approach based on image processing techniques to segment lung region in chest X-ray images,2021
+19,Automatic Segmentation of Posterior Fossa Structures in Pediatric Brain MRIs,2021
+20,The Gated Recurrent Conditional Generative Adversarial Network (GRC-GAN): application to denoising of low-dose CT images,2021
+21,DRIFT: A visual analytic tool for scientific literature exploration based on textual and image content,2021
+22,Interactive Visualizations to Support Randomized Clinical Trial Monitoring,2021
+23,Non-local medians filter for joint Gaussian and impulsive image denoising,2021
+24,Learning-based End-to-End Video Compression Using Predictive Coding,2021
+25,Improving Transferability of Domain Adaptation Networks Through Domain Alignment Layers,2021
+26,A System for Visual Analysis of Objects Behavior in Surveillance Videos,2021
+27,Musical Hyperlapse: A Multimodal Approach to Accelerate First-Person Videos,2021
+28,Iterative Pseudo-Labeling with Deep Feature Annotation and Confidence-Based Sampling,2021
+29,Reducing the need for bounding box annotations in Object Detection using Image Classification data,2021
+30,Data Augmentation Guidelines for Cross-Dataset Transfer Learning and Pseudo Labeling,2021
+31,STN PLAD: A Dataset for Multi-Size Power Line Assets Detection in High-Resolution UAV Images,2021
+32,Semi-supervised siamese network using self-supervision under scarce annotation improves class separability and robustness to attack,2021
+33,BRCars: a Dataset for Fine-Grained Classification of Car Images,2021
+34,A Generative Approach for Face Mask Removal Using Audio and Appearance,2021
+35,Bias and Fairness in Face Detection,2021
+36,SGAT: Semantic Graph Attention for 3D human pose estimation,2021
+37,TVAnet: a spatial and feature-based attention model for self-driving car,2021
+38,A Vision-based Solution for Track Misalignment Detection,2021
+39,ChessMix: Spatial Context Data Augmentation for Remote Sensing Semantic Segmentation,2021
+40,Simplifying Horizon Picking Using Single-Class Semantic Segmentation Networks,2021
+41,An egg image noise model for digital visual counting processing,2021
+42,Combination of Optical Character Recognition Engines for Documents Containing Sparse Text and Alphanumeric Codes,2021
+43,Entropic Laplacian eigenmaps for unsupervised metric learning,2021
+44,Performance analysis of chess players comparing traditional and novel cognitive perception ranking measures,2021
+45,An Offline Writer-Independent Signature Verification Method with Robustness Against Scalings and Rotations,2021
+46,A Form Understanding Approach to Printed and Structured Engineering Documentation,2021
+47,Descriptive Image Gradient from Edge-Weighted Image Graph and Random Forests,2021
+48,Towards a Simple and Efficient Object-based Superpixel Delineation Framework,2021
+49,New hierarchy-based segmentation layer: towards automatic marker proposal,2021
+50,Domain Adaptation for Holistic Skin Detection,2021
+51,A Deep Learning-based Approach for Tree Trunk Segmentation,2021
+52,Enhancing Shallow Neural Networks Through Fourier-based Information Fusion for Stroke Classification,2021
+53,ConformalLayers: A non-linear sequential neural network with associative layers,2021
+54,A Convolutional Neural Network-based Mobile Application to Bedside Neonatal Pain Assessment,2021
+55,One-Class Classifiers for Novelties Detection in Electrical Submersible Pumps,2021
+56,GCOOD: A Generic Coupled Out-of-Distribution Detector for Robust Classification,2021
+57,Representation Learning for Image Retrieval through 3D CNN and Manifold Ranking,2021

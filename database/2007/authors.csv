@@ -1,0 +1,132 @@
+id,id_paper,name
+0,2,Edilson de Aguiar
+1,2,Rhaleb Zayer
+2,2,Christian Theobalt
+3,2,Hans-Peter Seidel
+4,2,Marcus Magnor
+5,3,Laurindo S. Britto Neto
+6,3,Bruno M. Carvalho
+7,4,Harlen Costa Batagelo
+8,4,Wu Shin Ting
+9,5,Fernando V. Paulovich
+10,5,Maria Cristina F. Oliveira
+11,5,Rosane Minghim
+12,6,Marcos Cordeiro d'Ornellas
+13,6,Jose Antonio Trindade Borges da Costa
+14,7,Leticia Rittner
+15,7,Franklin Flores
+16,7,Roberto Lotufo
+17,8,Carlos S. Santos
+18,8,Nina S.T. Hirata
+19,8,Roberto Hirata Junior
+20,9,Romaric Audigier
+21,9,Roberto Lotufo
+22,10,Dimas Martinez Morera
+23,10,Paulo Cezar Carvalho
+24,10,Luiz Velho
+25,11,Rodrigo de Toledo
+26,11,Bin Wang
+27,11,Bruno Levy
+28,12,Marcelo C. Couto
+29,12,Cid C. de Souza
+30,12,Pedro J. deR ezende
+31,13,Joao Paulo Gois
+32,13,Valdecir Polizelli-Junior
+33,13,Tiago Etiene
+34,13,Eduardo Tejada
+35,13,Antonio Castelo
+36,13,Thomas Ertl
+37,13,Luis Gustavo Nonato
+38,14,Hae Yong Kim
+39,14,Joceli Mayer
+40,15,Ricardo L. de Queiroz
+41,16,Javier A. Montoya-Zegarra
+42,16,Neucimar J. Leite
+43,16,Ricardo da S. Torres
+44,17,Zenilton Kleber G. do Patrocinio
+45,17,Silvio Jamil F. Guimaraes
+46,17,Hugo Bastos de Paula
+47,18,Vitor Barata R.B. Barroso
+48,18,Waldemar Celes
+49,19,Saulo Ribeiro
+50,19,Andre Maximo
+51,19,Cristiana Bentes
+52,19,Antonio Oliveira
+53,19,Ricardo Farias
+54,20,J.E. Bendz
+55,20,H.G. Fernandes
+56,20,M.K. Zuffo
+57,21,Erik W. Anderson
+58,21,Steven P. Callahan
+59,21,Carlos E. Scheidegger
+60,21,John M. Schreiner
+61,21,Claudio T. Silva
+62,22,Wesley Nunes Goncalves
+63,22,Joao Bosco Oliveira Monteiro
+64,22,Jonathan de Andrade Silva
+65,22,Bruno Brandoli Machado
+66,22,Hemerson Pistori
+67,22,Valguima Odakura
+68,23,Ana B.V. Graciano
+69,23,Roberto M. Cesar-Jr.
+70,23,Isabelle Bloch
+71,24,Bruno de Brito Leite
+72,24,Eanes Torres Pereira
+73,24,Herman Martins Gomes
+74,24,Luciana Ribeiro Veloso
+75,24,Cicero Einstein do Nascimento Santos
+76,24,Joao Marques de Carvalho
+77,25,Jose Gilvan Rodrigues Maia
+78,25,Fernando de Carvalho Gomes
+79,25,Osvaldo de Souza
+80,26,Matthew J. Leotta
+81,26,Austin Vandergon
+82,26,Gabriel Taubin
+83,27,Wagner Barros
+84,27,Rodrigo Carceroni
+85,27,Lara Coelho
+86,27,Jose Queiroz-Neto
+87,28,Helena Cristina G. Leitao
+88,28,Rafael Felipe V. Saracchini
+89,28,Jorge Stolfi
+90,29,Luciano Silva da Silva
+91,29,Jacob Scharcanski
+92,30,Fabricio A. Breve
+93,30,Moacir P. Ponti-Junior
+94,30,Nelson D.A. Mascarenhas
+95,31,Lucio Andre de Castro Jorge
+96,31,Henrique de Souza Ruiz
+97,31,Ednaldo Jose Ferreira
+98,31,Adilson Gonzaga
+99,32,Davi P. Santos
+100,32,Joao Batista Neto
+101,33,Maria Elena Buemi
+102,33,Marta Mejail
+103,33,Julio Jacobo
+104,33,Juliana Gambini
+105,34,Moacir P. Ponti-Junior
+106,34,Nelson D.A. Mascarenhas
+107,34,Claudio A.T. Suazo
+108,35,Michael Hofer
+109,35,Aparecido Nilceu Marana
+110,36,Flavio Luiz Seixas
+111,36,Andrea Silveira de Souza
+112,36,Alair Augusto Sarmet M.D. dos Santos
+113,36,Debora C. Muchaluat Saade
+114,37,Leyza Baldo Dorini
+115,37,Rodrigo Minetto
+116,37,Neucimar Jeronimo Leite
+117,38,Ulas Bagci
+118,38,Li Bai
+119,39,Sylvia Rueda
+120,39,Jayaram K. Udupa
+121,39,Li Bai
+122,40,Adriane Parraga
+123,40,Altamiro Susin
+124,40,Johanna Pettersson
+125,40,Benoit Macq
+126,40,Mathieu De Craene
+127,41,Juliano J. Duque
+128,41,Marcio J. Sturzbecher
+129,41,Draulio B. Araujo
+130,41,Joaquim C. Felipe

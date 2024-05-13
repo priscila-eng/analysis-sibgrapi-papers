@@ -1,0 +1,182 @@
+id,id_paper,name
+0,3,Daniel Carlos Guimaraes Pedronette
+1,3,Ricardo da S. Torres
+2,4,Marilena Maule
+3,4,Anderson Maciel
+4,4,Luciana Nedel
+5,5,Juliano L. Moreira
+6,5,Adriana Braun
+7,5,Soraia R. Musse
+8,6,Rossana Queiroz
+9,6,Marcelo Cohen
+10,6,Juliano L. Moreira
+11,6,Adriana Braun
+12,6,Julio C. Jacques Junior
+13,6,Soraia Raupp Musse
+14,7,Bruno Brandoli
+15,7,Danilo Eler
+16,7,Fernando Paulovich
+17,7,Rosane Minghim
+18,7,Joao Batista
+19,8,Joan Climent
+20,8,Juan Diego Blanco
+21,8,Roberto A. Hexsel
+22,9,Amilcar R. Osorio
+23,9,Roberto A. Isoardi
+24,9,German Mato
+25,10,Moacir P. Ponti Jr.
+26,10,Nelson D. A. Mascarenhas
+27,11,Alessandra A. Paulino
+28,11,Anil K. Jain
+29,11,Jianjiang Feng
+30,12,Alessandro Parolin
+31,12,Eduardo Herzer
+32,12,Claudio R. Jung
+33,13,Daniel Siqueira
+34,13,Joaquim Bento Cavalcante-Neto
+35,13,Creto A. Vidal
+36,13,Romildo J. da Silva
+37,14,Fernando B. Pires
+38,14,Carlos A. Dietrich
+39,14,Joao L. D. Comba
+40,14,Luis Gustavo Nonato
+41,15,Mario A.S. Lizier
+42,15,Marcelo F. Siqueira
+43,15,Joel Daniels II
+44,15,Claudio T. Silva
+45,15,Luis G. Nonato
+46,16,Renata Nascimento
+47,16,João Paixão
+48,16,Helio Lopes
+49,16,Thomas Lewiner
+50,17,Thomas Lewiner
+51,17,Thales Vieira
+52,17,Alex Bordignon
+53,17,Allyson Cabral
+54,17,Clarissa Marques
+55,17,João Paixão
+56,17,Lis Custódio
+57,17,Marcos Lage
+58,17,Maria Andrade
+59,17,Renata Nascimento
+60,17,Scarlett de Botton
+61,17,Sinesio Pesco
+62,17,Helio Lopes
+63,17,Vinicius Mello
+64,17,Adelailson Peixoto
+65,17,Dimas Martinez
+66,18,Eric Jardim
+67,18,Luiz Henrique de Figueiredo
+68,19,Guilherme N. Oliveira
+69,19,Rafael P. Torchelsen
+70,19,Joao L. D. Comba
+71,19,Marcelo Walter
+72,19,Rui Bastos
+73,20,Francisco de Moura Pinto
+74,20,Carla M. D. S. Freitas
+75,21,Renan Teston Inácio
+76,21,Tiago H. C. Nobrega
+77,21,Diego D. B. Carvalho
+78,21,Aldo von Wangenheim
+79,22,Waldemar Celes
+80,22,Frederico Abraham
+81,23,Franklin Cesar Flores
+82,23,Roberto de Alencar Lotufo
+83,24,Thiago Vallin Spina
+84,24,Alexandre Xavier Falcao
+85,25,Vilar Fiuza da Camara Neto
+86,25,Mario Fernando Montenegro Campos
+87,26,Waldemar Villamayor-Venialbo
+88,26,Horacio Legal-Ayala
+89,26,Edson Justino
+90,26,Jacques Facon
+91,27,Alexandre Noma
+92,27,Roberto M. Cesar Jr.
+93,28,Anderson Rocha
+94,28,Joao Paulo Papa
+95,28,Luis A. A. Meira
+96,29,Eanes Torres Pereira
+97,29,Herman Martins Gomes
+98,29,Joao Marques de Carvalho
+99,30,André V Saúde
+100,30,Fortunato S. de Menezes
+101,30,Patricia L. S. Freitas
+102,30,Giovanni F. Rabelo
+103,30,Roberto A. Braga Jr.
+104,31,Vilar Fiuza da Camara Neto
+105,31,Daniel Balbino de Mesquita
+106,31,Renato Florentino Garcia
+107,31,Mario Fernando Montenegro Campos
+108,32,Fillipe D. M. de Souza
+109,32,Guillermo C. Chávez
+110,32,Eduardo A. do Valle Jr.
+111,32,Arnaldo de A. Araujo
+112,33,F. Brayner
+113,33,M. Walter
+114,34,Denison L. M. Tavares
+115,34,Joao L. D. Comba
+116,35,Antonio W. Vieira
+117,35,Armando A. Neto
+118,35,Douglas G. Macharet
+119,35,Mario F. M. Campos
+120,36,Bruno Barcellos Coutinho
+121,36,Antonio A. F. Oliveira
+122,36,Yalmar Ponce Atencio
+123,36,Gilson Antonio Giraldi
+124,37,Carlucio Santos Cordeiro
+125,37,Luiz Chaimowicz
+126,38,Andrea Britto Mattos
+127,38,Jesus P. Mena-Chalco
+128,38,Roberto M. Cesar Jr.
+129,38,Luiz Velho
+130,39,Gisele M. Simas
+131,39,Guilherme P. Fickel
+132,39,Lucas Novelo
+133,39,Rodrigo A. de Bem
+134,39,Silvia S. C. Botelho
+135,40,Danillo Roberto Pereira
+136,40,Jorge Stolfi
+137,40,Anamaria Gomide
+138,41,Airton Marco Polidorio
+139,41,Franklin Cesar Flores
+140,41,Clelia Franco
+141,41,Nilton Nobuhiro Imai
+142,41,Antonio M. G. Tommaselli
+143,42,Martha I. Cardenas Esguerra
+144,42,Creto A. Vidal
+145,42,Joaquim Bento Cavalcante-Neto
+146,42,Roberto C. Cavalcante Vieira
+147,43,Paulo A. V. Miranda
+148,43,Alexandre X. Falcão
+149,43,Guilherme C. S. Ruppert
+150,44,Marco Antonio Garcia de Carvalho
+151,44,Andre Luis da Costa
+152,44,Anselmo Castelo Branco Ferreira
+153,44,Roberto Marcondes Cesar Junior
+154,45,Anderson Mariano
+155,45,Gabriela Castellano
+156,45,Cristiano M. B. Cordeiro
+157,46,Francisco de Assis Zampirolli
+158,46,Beatriz Stransky
+159,46,Ana Carolina Lorena
+160,46,Fabio Luis de Melo Paulon
+161,47,Mateus de Souza
+162,47,Diego Dias Bispo Carvalho
+163,47,Peter Barth
+164,47,Jeferson Vieira Ramos
+165,47,Eros Comunello
+166,47,Aldo von Wangenheim
+167,48,Kelson Romulo Teixeira Aires
+168,48,Adelardo Adelino Dantas de Medeiros
+169,49,Willian Paraguassu Amorim
+170,49,Hemerson Pistori
+171,49,Mauro Conti Pereira
+172,49,Manuel Antonio Chagas Jacinto
+173,50,Wonder Alexandre Luz Alves
+174,50,Ronaldo Fumio Hashimoto
+175,51,Mauricio Edgar Stivanello
+176,51,Eduardo Schwinden Leal
+177,51,Nicolas Palluat
+178,51,Marcelo Ricardo Stemmer
+179,52,Alessandro Bof de Oliveira
+180,52,Jacob Scharcanski
