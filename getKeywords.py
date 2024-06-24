@@ -28,32 +28,35 @@ def makeFile(file_name, content):
         writer = csv.writer(file)
         writer.writerows(content)
 
-def getTitle(paper_urls, dir_name, file_name):
-    lines = [['id', 'title', 'year']]
+def getKeywords(paper_urls, dir_name, file_name):
+    lines = [['id', 'id_paper', 'keyword']]
+    id_keyword = 0
     for id_paper, paper_url in enumerate(paper_urls):
-        driver.get(paper_url)
+        keywords_url = paper_url.rstrip('\n') + "keywords#keywords"
+        driver.get(keywords_url)
         time.sleep(5)
-        print("paper", id_paper)
-        tags_h1 = driver.find_elements(By.TAG_NAME, "h1")
-        for a_element in tags_h1:
-            class_name = a_element.get_attribute("class")
-            if "document-title" in class_name:
+        tags_a = driver.find_elements(By.TAG_NAME, "a")
+        print(keywords_url)
+        for a_element in tags_a:
+            if a_element.get_attribute("href") and "newsearch=true" in a_element.get_attribute("href"):
                 if not os.path.exists(dir_name):
                     makeDir(dir_name)
                 if a_element.text:
-                    lines.append([id_paper, a_element.text, counter])
+                    lines.append([id_keyword, id_paper, a_element.text])
+                    id_keyword += 1
         time.sleep(5)
+    
     makeFile(file_name, lines)
 
 while True:
     filename_paper = f"{counter}_papers.txt"
     dir_name = f"database/{counter}"
-    filename_titles = f"{dir_name}/titles.csv"
-    if not os.path.isfile(f'{dir_name}/{filename_titles}'):
+    filename_keywords = f"{dir_name}/keywords.csv"
+    if not os.path.isfile(f'{dir_name}/{filename_keywords}'):
         try:
             with open(f'papers/{filename_paper}', 'r') as f:
                 file_content = f.readlines()
-                getTitle(file_content, dir_name, filename_titles)
+                getKeywords(file_content, dir_name, filename_keywords)
         except IOError:
             print("Quebrou no ano:", counter)
             break
