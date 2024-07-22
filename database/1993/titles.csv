@@ -1,0 +1,69 @@
+id,title,year
+0,Aceleração de Ray Tracing via heterogeneidade ,1993
+1,Affine arithmetic and its applications to computer graphics ,1993
+2,Cálculo da iluminação através de ray-tracing estocástico ,1993
+3,Modelo de objetos para um Sistema de Pintura Digital ,1993
+4,Fractais randômicos na simulação de realismo de paisagens ,1993
+5,Um esquema de compressão de sequências de imagens baseado na DCT ,1993
+6,Segmentação e descrição de contornos por B-splines e sua aplicação no casamento de contornos ,1993
+7,PhotoPix: uma plataforma para sistemas de processamento digital de imagens orientada para objetos ,1993
+8,Quantização Vetorial Binária de Imagens Codificadas por BTC ,1993
+9,Probabilistic and dictionary-based relaxation techniques applied to a statistical method of edge detection ,1993
+10,A methodology for selecting visual representations in scientific and simulation applications ,1993
+11,Visualization of oscillations data via spirals ,1993
+12,ANIMADO: um protótipo de um sistema de animação modelada por dinâmica ,1993
+13,Animação comportamental baseada em lógica ,1993
+14,Scripting and artistic control in computer animation ,1993
+15,Um sistema sistólico para interpolação de imagens ,1993
+16,Restauração de imagens NOAA por morfologia matemática ,1993
+17,Seleção de bandas para classificação de imagens ,1993
+18,Caracterização do “SPECKLE” em imagens de amplitude de radar de abertura sintética (SAR) ,1993
+19,Non-adaptive robust filters for speckle noise reduction ,1993
+20,"A linguagem para especificação de figuras FIG: definição, implementação e utilização ",1993
+21,Regularidade e generalização em interfaces gráficas ,1993
+22,Fashion Desk: um Sistema CAD 3D em ambiente cooperativo para auxílio ao estilismo e modelismo nas confecções têxteis ,1993
+23,Uma estratégia de portabilidade para aplicações gráficas interativas ,1993
+24,Exploiting interactive video and animation in distributed environments for the design of hypermedia and graphical user interfaces ,1993
+25,Distance-discriminator neural networks for classification and pattern recognition ,1993
+26,Segmentação e aquisição de partes genéricas para reconhecimento ,1993
+27,Obtaining surface curvature and depth information with a disparity-based photometric stereo ,1993
+28,"Pré-processamento, extração de atributos e primeiro nível de classificação para um sistema de reconhecimento ótico de símbolos musicais ",1993
+29,"Circular pattern detection by Hough transform in a transputer based system, for medical application ",1993
+30,An adaptive triangulation refinement scheme and construction ,1993
+31,Transformação de Curvas Poligonais: um algoritmo linear a partir de uma triangulação ,1993
+32,Representação de objetos heterogêneos através de decomposição do espaço ,1993
+33,Combinação das técnicas de quadtree e Delaunay para geração automática de malhas de elementos finitos ,1993
+34,Modelo para simulação de superfícies deformáveis baseada na análise dinâmica ,1993
+35,Visualização 3D em planejamento de radioterapia usando rendering de volumes por ray casting ,1993
+36,RTV- Um pacote para visualização tridimensional em medicina ,1993
+37,Shape-based interpolation methods applied to medical imaging ,1993
+38,Uma metodologia para diagnóstico automático da filariose utilizando imagens microscópicas digitalizadas ,1993
+39,S.A.I.C: segmentação automática de imagens do cérebro ,1993
+40,Um sistema de processamento de imagens dirigido a microcomputador compatível com PC ,1993
+41,Registro de secções seriadas usando a transformada generalizada de houh ,1993
+42,Realce de mamografias através de processamento de imagens ,1993
+43,Visualização científica em simulações de sistemas de tempo real: fundamentos e apresentação de uma ferramenta ,1993
+44,MSD – Modelador de Sólidos Didático ,1993
+45,Avaliação de 3 algoritmos de modelagem poligonal de contornos bidimensionais ,1993
+46,Edição interativa de movimentos num espaço tri-dimensional ,1993
+47,Sintetizador paralelo de imagens de Alta qualidade para ANIMAKER ,1993
+48,Segmentação de imagens multiespectrais pelo algoritmo ICM: integração ao ambiente SPRING ,1993
+49,Caracterização digital da estrutura dos glomérulos renais Método de Saltykov ,1993
+50,REGRAF: um sistema para o reconhecimento de documentos gráficos ,1993
+51,Canvas 3D: um novo componente de interface no X View ,1993
+52,Um sistema de aquisição topográfica de uso geral aplicado à avaliação de condições de propagação em sistemas de telecomunicações ,1993
+53,Anti-aliasing rápido para algoritmo de SCANLINE ,1993
+54,Uma estratégia para tratamento de áreas obscurecidas em sistemas de janelas ,1993
+55,Mapeamento topográfico por interferometria utilizando imagens SAR do ERS-1 ,1993
+56,Um método de classificação não supervisionada por regiões ,1993
+57,Modelagem do movimento rígido de sistemas articulados ,1993
+58,Desenvolvimento de algumas extensões à Biblioteca VOGL para aplicação em gráficos moleculares ,1993
+59,Towards a versatile computer vision system ,1993
+60,Analysis of facial profiles ,1993
+61,Suavização especial no ambiente khoros ,1993
+62,Análise de imagens obtidas por radiografia com nêutrons ,1993
+63,Avaliação do uso de imagens SAR polarimétricas para levantamento de recursos terrestres na Amazônia: reserva florestal de Tapajós ,1993
+64,Animação de um modelo estocástico de crescimento por agregação sob confinamento ,1993
+65,Visualização 3D de reservatórios utilizando PHIGS e GL ,1993
+66,Visualização interativa aplicada ao estudo de campos eletromagnéticos ,1993
+67,Desenvolvimento de um sistema gráfico interativo para modelagem e animação facial ,1993
