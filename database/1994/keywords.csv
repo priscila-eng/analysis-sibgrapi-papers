@@ -1,0 +1,209 @@
+id,id_paper,keyword
+0,0,processamento de imagens
+1,0,imagens heterogêneas
+2,1,analysis binary of images
+3,1,processing of images
+4,2,processamento digital
+5,2,processamento de imagens
+6,2,imagens neutrongráficas
+7,3,irrelevância visual
+8,3,codificação de imagens
+9,3,pré-processamento de imagens
+10,3,codificadores de imagens
+11,3,imagens por sub-bandas
+12,4,modelos computacionais
+13,4,processamento digital
+14,4,processamento de imagens
+15,4,arquitetura paralelas
+16,5,registro de seções seriadas
+17,5,seções seriadas
+18,5,método de Merickel
+19,5,reconstrução tridimensional
+20,6,segmentação de imagens
+21,6,rede neuronal
+22,6,ambiente paralelo
+23,6,processamento de imagens
+24,7,image sequences
+25,7,estimation architecture
+26,7,estimation of object trajectories
+27,8,Disparity-Based Photometric Stereo
+28,8,computer vision
+29,8,photometric images
+30,9,visão artificial
+31,9,sistema de visão artificial
+32,9,representação de objetos
+33,9,reconhecimento de objetos
+34,9,objetos bidimensionais
+35,10,function neural
+36,10,function neural
+37,10,image understanding
+38,11,objetos poliédricos
+39,11,reconhecimento tridimensional
+40,11,reconhecimento de objetos
+41,11,identificação de objetos
+42,11,localização de objetos
+43,12,multiple scales
+44,12,implicit function model
+45,12,B-spline
+46,12,ray tracing
+47,12,volume visualization
+48,12,multiscale decomposition models
+49,13,L-systems
+50,13,trees modeling
+51,13,plants modeling
+52,13,recursive interpretation algorithm
+53,14,L-systems
+54,14,computer graphics
+55,14,L-systems in 2 space
+56,14,L-systems in 3 space
+57,14,Interactive construction
+58,14,geometric modeling
+59,15,animation control
+60,15,control of figures
+61,15,modeling and animation
+62,16,Truncation Slant Haar Transform
+63,16,Slant Haar Transform
+64,16,Fast Slant Haar Transform
+65,16,digital images
+66,16,faster methods for computing
+67,16,imaging
+68,17,filtragem morfológica
+69,17,processamento de imagens
+70,17,morfologia matemática
+71,17,operações morfológicas
+72,17,processador de vizinhança
+73,18,synthetic aperture radar
+74,18,speckle
+75,18,filtering
+76,18,edge detection
+77,18,point spread function
+78,18,resolution loss
+79,19,taxonomia
+80,19,manipulação interativa
+81,19,visualização de objetos
+82,19,objetos 3D
+83,20,manipulação de objetos
+84,20,modeladores de sólidos
+85,20,modelagem de sólidos
+86,20,modelagem de produto
+87,20,dados de produto
+88,20,representação do conhecimento
+89,20,arquiteturas de objetos
+90,20,manipulação inteligente
+91,20,objetos com lógica
+92,20,integração de objetos
+93,20,problema de design
+94,21,manipulação direta
+95,21,layout abstrato
+96,21,interface com o usuário
+97,21,interfaces portáteis
+98,21,editor gráfico
+99,22,realidade virtual
+100,22,interações lúdicas
+101,22,interatividade
+102,23,linguagens de programação
+103,23,linguagens visuais
+104,23,L-Systems
+105,23,estruturas sintáticas
+106,23,percepção visual
+107,24,grafos de programa
+108,24,visualização
+109,24,reposicionamento
+110,24,engenharia de software
+111,25,arquitetura de VISTA
+112,25,ambiente visual
+113,25,ambiente exploratório
+114,25,análise exploratória
+115,25,ferramentas
+116,26,Geographical information systems
+117,26,spatial data bases
+118,26,spatial data manipulation language
+119,27,sistemas radiológicos
+120,27,simulação computacional
+121,27,ponto focal
+122,27,variação do tamanho do ponto focal
+123,28,visual processing
+124,28,microcanonical optimization algorithm
+125,28,Barnard’s microcanonical
+126,29,reconhecimento de caracteres numéricos
+127,29,Karhunen-Loève
+128,29,processamento de imagens
+129,29,processamento visual
+130,29,descrição de imagens
+131,29,classificação de imagens
+132,30,simulação de imagens
+133,30,imagens de radar
+134,30,modelamento matemático
+135,30,imagens de aeronaves
+136,30,modelo Markoviano
+137,30,radar de vigilância embarcado
+138,31,direct volume rendering
+139,31,high performance visualization
+140,32,Parameterized ray tracing
+141,32,geometric parameters
+142,32,surface normal vectors
+143,32,light source positions
+144,33,radiosity
+145,33,reconstruction techniques
+146,33,realistic imagery
+147,33,reconstruction in radiosity
+148,34,surface interpolation
+149,34,geometric modeling
+150,35,operadores booleanos
+151,35,classe de NM-conjuntos
+152,35,modelagem de sólidos
+153,36,objetos heterogêneos
+154,36,espaço tridimensional
+155,37,subdivisões de espaço
+156,37,subdivisões planares hierárquicas
+157,37,gerenciamento de subdivisões
+158,38,ecocardiografia 2D
+159,38,sistema de análise de espessura da parede cardíaca
+160,39,ray casting
+161,39,visualização de tomografias
+162,39,otimização do algoritmo de ray casting
+163,40,visualização 3D
+164,40,transformações geométricas
+165,40,parâmetros de visualização
+166,41,modelador de sólidos multirepresentacional
+167,41,núcleo B-Rep
+168,41,técnicas de descrição por varredura
+169,42,informações geológicas
+170,42,estrutura de dados
+171,42,dados espaciais
+172,42,armazenamento de dados espaciais
+173,42,exibição de dados espaciais
+174,42,análise de dados espaciais
+175,43,algoritmo scan-line
+176,43,rendering de sólidos
+177,43,técnicas de remoção de superfícies ocultas
+178,43,módulo de visualização
+179,44,morphing
+180,44,triangulação de Delaunay
+181,45,Programa RTp
+182,45,Ray Tracing parametrizado
+183,46,compressão de imagens digitais
+184,46,sistema modular
+185,46,tratamento multiformato
+186,47,herramienta para la animación de algoritmos
+187,48,sistema de inspeção automática
+188,48,placas de circuito impresso
+189,49,sistema de visualização
+190,49,imagens médicas
+191,49,visualização de imagens médicas
+192,50,sistema híbrido
+193,50,reconhecimento off-line de assinaturas
+194,51,segmentação de dados
+195,51,dados tridimensionais
+196,52,algoritmos de suavização especial
+197,52,técnicas de realce
+198,52,filtro de suavização espacial
+199,52,ambiente Kroros
+200,53,plataforma móvel
+201,53,realimentação visual
+202,53,controlador de plataforma móvel
+203,54,análise dinâmica não-linear
+204,54,movimentos realísticos
+205,54,simulação de movimentos realísticos
+206,54,Dynamics
+207,54,TrueMotion

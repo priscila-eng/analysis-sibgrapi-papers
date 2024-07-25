@@ -1,0 +1,91 @@
+id,id_paper,keyword
+0,0,INTERPOL3D
+1,0,Superfícies Bézier
+2,0,Sistema de animação tridimensional
+3,0,interpolação de formas
+4,1,Animação por Computador
+5,1,Modelação Geométrica 3D
+6,1,Edição Gráfica 2D
+7,1,Aproximação e Interpolação Spline
+8,1,CGI-INESC
+9,1,VISTA GRAPHICS
+10,2,Irrigraphos
+11,2,Ferramenta CAD
+12,2,sistemas de irrigação
+13,2,editor gráfico
+14,2,desenhos topográficos
+15,2,arquitetura hidráulica
+16,3,sistema de segmentação
+17,3,sistema de classificação
+18,3,imagens de satélite
+19,3,INPE
+20,3,análise de imagem
+21,4,SPRING
+22,4,geoprocessamento
+23,4,sistema orientado a objetos
+24,5,MicroMAGICS 2.0
+25,5,pacote gráfico
+26,5,imagens de satélites meteorológicos
+27,5,sobreposição de imagens
+28,6,processamento de imagem
+29,6,análise da proliferação de imagens
+30,6,Imagens microscópicas
+31,7,reconstructing the image
+32,7,tomographic reconstruction
+33,8,análise de imagens
+34,8,aplicações em medicina legal
+35,8,extração de medidas
+36,8,imagens de ossos do esqueleto humano
+37,9,ambiente gráfico
+38,9,imagens tomográficas
+39,9,visualização de imagens de RM
+40,9,interface do usuário
+41,10,modelo 3D
+42,10,Modelo Digital do Terreno
+43,10,MDT
+44,10,estrutura Octree
+45,11,subdivisões planares
+46,11,espaço euclidiano
+47,11,criação
+48,11,manutenção
+49,12,modelagem de objetos
+50,12,superfícies paramétricas
+51,13,métodos simpliciais
+52,13,variedades definidas implicitamente
+53,13,subdivisão espacial e critériosde poda do espaço
+54,14,editor gráfico
+55,14,editor inteligente
+56,14,Intelligent Graphical Editor
+57,14,EGI
+58,15,processamento de imagem
+59,15,processadores de sinais digitais
+60,15,máquina estruturada
+61,15,Flynn MIMD
+62,15,processadores DSPs
+63,16,transputer
+64,16,processamento de imagem
+65,16,Benchmark Cruz Abingdon
+66,16,Edge Sobel Detecção de Hough
+67,17,bit masks
+68,17,prefiltering image
+69,18,processamento de imagens
+70,18,imagens de radar
+71,18,Aero-transportado
+72,18,modelo de doppler
+73,19,método diferencial paramétrico
+74,19,método de radiosidade
+75,19,geração de imagens
+76,20,projeto
+77,20,computador e arte
+78,20,expressão artística
+79,20,arte
+80,21,BEZIER4D
+81,21,ambiente para modelagem
+82,21,visualização tridimensional
+83,21,animação tridimensional
+84,22,método de radiosidade
+85,22,síntese de imagens
+86,22,foto-realísticas
+87,22,PROSIM
+88,23,pyramid-based dithering
+89,23,image pyramid

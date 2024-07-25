@@ -1,0 +1,248 @@
+id,id_paper,keyword
+0,0,SPTGI
+1,0,Sistema Programacional para Terminais Gráficos Inteligentes
+2,0,sistema programacional
+3,0,terminais gráficos
+4,1,PN25
+5,1,processamento de imagem
+6,1,processador de alto desempenho
+7,1,processador numérico
+8,2,EG-880X
+9,2,LSI
+10,2,família de estações gráficas
+11,2,computação gráfica
+12,2,processamento gráfico
+13,3,módulo de aquisição
+14,3,imagens coloridas
+15,3,sistema de aquisição de imagens
+16,3,processamento digital
+17,3,processamento digital de imagens
+18,4,DATANAV
+19,4,console radar
+20,4,terminal gráfico
+21,4,projeto
+22,4,DATANAV Engenharia
+23,4,Projeto SITAN
+24,4,Marinha Brasileira
+25,4,projeto
+26,5,desenvolvimento de softwares
+27,5,sistemas digitalizadores
+28,5,sistema digitalizador de imagem
+29,6,sistema de aquisição
+30,6,sistema de processamento
+31,6,sistema de visualização
+32,6,imagens
+33,6,gráficos
+34,6,projeto
+35,7,SIMD System
+36,7,image processing
+37,7,INPE
+38,7,GAPP
+39,8,estações de trabalho
+40,8,Sistema PP
+41,8,PP
+42,8,TELEBRÁS
+43,9,processadores gráficos
+44,9,TMS34010
+45,9,processador gráfico TMS34010
+46,9,imagem em tomografia
+47,9,RMN
+48,9,interpretação de imagens
+49,10,controlador de vídeo
+50,10,softwares de apoio
+51,10,softwares
+52,11,EG-880X
+53,11,Estações Gráficas
+54,11,Processamento Paralelo
+55,11,transputadores
+56,11,OCCAM
+57,12,metodologia
+58,12,densificação
+59,12,grade regular retangular
+60,13,representação de arcos
+61,13,curvas de bezier
+62,14,superfícies bicúbicas
+63,14,determinação de curvas de nível
+64,14,topografia
+65,14,algoritmo
+66,15,computer animation
+67,15,simulation
+68,15,actor systems
+69,15,interactive systems
+70,16,reconstrução de imagens
+71,16,método direto de Fourier
+72,16,método Array Processor
+73,16,array processors
+74,17,contour detection
+75,17,automatic coronary artery
+76,17,image processing technique
+77,18,avaliação da tomografia
+78,18,tomografia miocárdica
+79,18,fóton único
+80,19,reconstrução de imagens
+81,19,entropia
+82,20,sistema de informações geográficas
+83,20,imagens de satélites
+84,20,mapas cartográficos
+85,21,sistema para o processamento de lineamentos
+86,21,sistema para análise de lineamentos
+87,21,feições lineares geológicas
+88,21,fraturas
+89,21,lineamentos
+90,22,programação lógica
+91,22,modelagem de sólidos
+92,22,PROLOG
+93,22,linguagem de programação
+94,23,LINUS
+95,23,Sistema AMPLO
+96,23,AMPLO
+97,23,ferramentas para especificação
+98,23,ferramentas para controle
+99,23,interface com o usuário
+100,23,interfaces gráficas
+101,24,banco de dados interativo
+102,24,Sistema CAD
+103,25,optimização do trajecto de corte em mapas
+104,25,corte em mapas de formas irregulares
+105,26,ARMA
+106,26,análise de texturas
+107,26,imagens de radar
+108,26,modelos ARMA
+109,27,padrões gráficos
+110,27,GKS
+111,27,Graphics Kernel System
+112,27,Core
+113,27,GKS-VM
+114,27,Graphics  Kernel System – Virtual Workstations
+115,27,estações virtuais
+116,27,conceitos
+117,27,interface padronizada
+118,27,pacote gráfico
+119,27,extensões
+120,28,computação gráfica
+121,28,compugrafia
+122,28,compugráfica
+123,28,terminologia em ciência da computação
+124,28,ciência da computação
+125,28,definições
+126,28,aplicações gráficas
+127,28,terminologia
+128,28,vocabulário
+129,28,informática
+130,29,padrão gráfico GKS
+131,29,GKS-INPE
+132,30,interface gráfica
+133,30,CGI
+134,30,núcleo gráfico
+135,30,aplicativo gráfico
+136,30,estação de trabalho
+137,30,computação gráfica
+138,31,image analysis
+139,31,image description
+140,31,sequence of images
+141,32,metalografia quantitativa
+142,32,fração volumétrica
+143,32,análise de imagens
+144,32,descrição de microestruturas
+145,32,análise de microestruturas
+146,32,quantificação de microestruturas
+147,32,tratamento digital
+148,32,sistema de tratamento digital de imagens
+149,32,PUC-RJ
+150,33,niveles de intensidad
+151,33,imagenes
+152,33,intesid continua
+153,33,algoritmo para imagenes
+154,34,métodos de interpolação
+155,34,splines cúbicas
+156,34,imagens digitalizadas
+157,34,reconstrução de sinais digitais
+158,34,método direto
+159,34,redes polifásicas
+160,34,malhas polifásicas
+161,35,sistema de geração de imagens
+162,35,imagens micro-ópticas
+163,35,imagens tridimensionais
+164,36,FFTEX
+165,36,Fourier
+166,36,processamento digital
+167,36,processamento digital de sinais
+168,36,processamento digital de imagens
+169,37,sistema de processamento de imagens
+170,37,processamento de imagens
+171,37,tomografia computadorizada
+172,37,RNM
+173,38,realismo
+174,38,ray-tracing
+175,39,RETRISE
+176,39,reconstrução tridimensional
+177,39,cortes seriais
+178,39,3D
+179,39,técnicas de modelagem
+180,39,reconstrução de formas 3D
+181,40,imagens realísticas
+182,40,método ray-tracing
+183,40,síntese de imagens
+184,41,modelamento
+185,41,síntese
+186,41,iluminação
+187,41,scan-line
+188,41,ray-tracing
+189,41,textura
+190,41,aliasing
+191,42,S.C.A.
+192,42,Sistema de Cartografia Automatizada
+193,42,Sistema de Cartografia
+194,42,construção de mapas
+195,43,POS2D
+196,43,programa gráfico
+197,43,análise de estruturas bi-dimensionais
+198,43,estruturas bi-dimensionais
+199,43,estruturas axissimétricas
+200,43,análise de estruturas axissimétricas
+201,43,análise de estruturas
+202,44,MICROMAGICS
+203,44,MICRO-MAGICS
+204,44,meteorological charts
+205,44,software
+206,45,CADIN
+207,45,CAD
+208,45,Sistema de Desenho Assistido por Computador
+209,45,sistema de desenho
+210,45,indústria de confecções
+211,45,indústrias têxteis
+212,46,SED
+213,46,Sistema de Edição de Diagramas
+214,46,sinóticos
+215,46,fluxogramas
+216,46,símbolos pictóricos
+217,46,projeto CADMAC
+218,47,projeto lógico
+219,47,sistema de pintura pintor
+220,47,interface iconográfica
+221,48,criação de diagramadores
+222,48,software básico
+223,48,produção de diagramas
+224,49,CMP
+225,49,construção de poliedros
+226,49,construção manipulação
+227,49,Construção e Manipulação de Poliedros
+228,50,EGIDE
+229,50,Editor Gráfico Interativo de redes
+230,50,tratamento de redes
+231,51,resolução espacial
+232,51,satélite brasileiro
+233,51,filtro
+234,51,simulação
+235,52,discriminação de texturas
+236,52,análise de textura
+237,52,representação simbólica
+238,52,dados visuais
+239,53,processamento de imagens
+240,53,análise dinâmica de estruturas
+241,53,ADIV-FR
+242,54,objetos com simetria axial
+243,54,sistema para reconhecimento de formas
+244,55,contornos de objetos
+245,55,programa de simulação
+246,55,dados de projeção

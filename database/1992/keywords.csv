@@ -1,0 +1,227 @@
+id,id_paper,keyword
+0,0,electronic printing
+1,0,digital halftoning
+2,0,dithering algorithms
+3,0,space filling curves
+4,0,adaptive clustering
+5,1,algoritmo hibrido
+6,1,método Ray tracing
+7,1,radiosidade
+8,1,Sistema RadioRay
+9,1,imagens realísticas
+10,2,digital image
+11,2,morphing
+12,2,image warping
+13,2,color transformation
+14,3,computação gráfica
+15,3,imagem realista
+16,3,modelos de cor
+17,3,Espectral
+18,3,RGB
+19,4,codificação de imagens
+20,4,sub-bandas
+21,4,quantização vetorial
+22,4,inter-bandas
+23,4,processamento de imagem
+24,5,processamento de imagem
+25,5,Radar de Abertura Sintética
+26,5,função espalhamento pontual
+27,6,processamento de imagens
+28,6,imagens tomográficas
+29,6,métodos de reconstrução de imagens
+30,7,hiperbolização quadrática
+31,7,histograma
+32,7,realce de imagens
+33,7,da hiperbolização histograma
+34,7,processamento de imagem
+35,8,segmentação binária
+36,8,Radar de Abertura Sintética
+37,8,algoritmo ICM
+38,8,Modas Condicionais Interativas
+39,9,implicit objects
+40,9,sampling
+41,9,modeling
+42,10,modeling
+43,10,Bockstein constraint
+44,10,method to fit algebraic curves
+45,10,method to fit algebraic surfaces
+46,11,modeladores sólidos
+47,11,Genesys
+48,11,cognição
+49,11,percepção 3D
+50,11,modelagem
+51,12,subdivisões espaciais
+52,12,modelagem
+53,12,modelagem sólida nonmanifold
+54,13,modelagem geométrica
+55,13,superfícies isopotencial
+56,13,Octree
+57,13,Sistema PARTIC
+58,14,dados biomédicos
+59,14,voxel tecniques
+60,14,ferramentas de visualização
+61,14,Sistema Kroros
+62,14,visualização
+63,15,hologramas
+64,15,visualização tridimensional
+65,15,Computação Gráfica
+66,15,imagens realistas
+67,16,superfícies tridimensionais
+68,16,visualização de imagens
+69,16,MicroMAGICS
+70,16,dados meteorológicos
+71,16,INPE
+72,17,reconstrução 3D
+73,17,avaliação da precisão
+74,17,interfaces gráficas
+75,18,sistemas interativos
+76,18,dispositivos interativos
+77,18,classificação independente de aplicação
+78,18,interfaces gráficas
+79,18,realidade virtual
+80,19,ferramentas de software
+81,19,interface com o usuário
+82,19,interfaces gráficas
+83,19,captura de dados
+84,19,desenhos de engenharia
+85,20,user interface
+86,20,programming model
+87,20,software development techniques
+88,20,programming process
+89,20,Object Oriented Model
+90,21,Guaiá
+91,21,mouse
+92,21,desenvolvimento de dispositivos
+93,22,método Bayesiano
+94,22,classificação de imagens
+95,22,sensoriamento remoto
+96,23,mapas de Isovalores
+97,23,digitalização de mapas
+98,23,mapeamento
+99,24,modelagem de terrenos
+100,24,triangulação de Delaunay
+101,25,geração de contornos
+102,25,pontos no plano
+103,25,mapeamento
+104,26,SPRING
+105,26,processamento de imagens
+106,26,dados georeferenciados
+107,27,KIKO
+108,27,representação do movimento humano
+109,27,sistemas de animação
+110,27,tecnologia de software
+111,28,PREVIEW
+112,28,animação de computador
+113,28,ferramenta para animação
+114,28,sistema de animação
+115,28,integração de sistemas
+116,28,descrição de cenas
+117,28,imagens realistas
+118,29,ANIMAKER
+119,29,Sistema de Animação Modelada
+120,29,tecnologia de software
+121,30,TOOKIMA
+122,30,animação cinemática
+123,30,ferramentas de animação
+124,31,interface gráfica
+125,31,interface com o usuário
+126,31,sistema de processamento de imagem
+127,31,imagem digital
+128,31,PixelWare
+129,32,algoritmo paralelo de afinamento
+130,32,descrição estrutural
+131,33,reconhecimento ótico
+132,33,características topológicas
+133,33,aprendizado de máquina
+134,34,reconhecimento de caracteres
+135,34,caracteres com variações de escala
+136,34,caracteres com variações de rotação
+137,34,caracteres com variações de translação
+138,35,visão computacional
+139,35,Subsumption Architectures
+140,35,modelo de controle
+141,36,caracterização digital
+142,36,Método Saltykov
+143,37,reconhecimento de objetos
+144,37,objetos bidimensionais
+145,37,modelos poligonais
+146,37,imagens digitais
+147,38,finite element method
+148,38,computer graphics
+149,38,image synthesis
+150,38,realism
+151,38,natural scenes and environments
+152,38,surface modeling
+153,39,computer graphics
+154,39,texture techniques
+155,39,LIBTEX
+156,40,escalas em gráficos
+157,40,determinação automática
+158,40,gráficos
+159,41,image analysis techniques
+160,41,production of cork stoppers
+161,42,ACHILLES
+162,42,sistema de visualização
+163,42,modo de caminhar de deficientes físicos
+164,42,sistema de animação
+165,43,sistema protótipo
+166,43,imagens angiográficas
+167,43,sistema de digitalização
+168,43,sistema de processamento
+169,43,sistema de visualização
+170,44,impressões digitais
+171,44,CAGID
+172,44,classificação automática de impressões digitais
+173,45,Análise de Fourier
+174,45,extração de atributos texturais
+175,45,Ambiente de Processamento de Sinais e Imagens
+176,45,classificações texturais
+177,45,método de distância Euclidiana
+178,46,registro espacial de imagens
+179,46,imagens sobrepostas
+180,46,registro local
+181,46,registro global
+182,47,imagem código
+183,47,algoritmo para localização
+184,47,modelo binário de correspondência
+185,48,imagens médicas
+186,48,imagens monocromáticas
+187,48,técnica de codificação
+188,49,processo de vetorização de mapas
+189,49,X Window
+190,49,interface gráfica
+191,49,Minas Gerais
+192,49,sistema integrado de supervisão
+193,49,redes de telecomunicações
+194,50,documentos históricos
+195,50,banco de dados de imagens
+196,50,processo de conservação
+197,50,processo de restauração
+198,51,Scanline
+199,51,imagens realistas
+200,51,método Z-buffer
+201,52,processamento de imagem
+202,52,arquiteturas de matriz
+203,52,Processador Array
+204,53,animação por computador
+205,53,modelagem física
+206,53,simulação do movimento
+207,53,Dynamics
+208,54,sistemas de informações geográficas
+209,54,tratamento de dados em escalas
+210,54,computação gráfica
+211,55,ANIMAL
+212,55,animações tridimensionais
+213,55,linguagens de modelagem
+214,55,utilitários para visualização
+215,55,definição de cena
+216,56,animação
+217,56,análise dinâmica
+218,56,computação gráfica
+219,56,corpos rígidos
+220,56,controle de movimento
+221,57,Núcleo para Ambiente Gráfico
+222,57,manipulação de imagens
+223,57,ressonância magnética
+224,57,processador gráfico
+225,57,interface com o usuário

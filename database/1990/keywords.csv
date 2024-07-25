@@ -1,0 +1,184 @@
+id,id_paper,keyword
+0,0,Iconus
+1,0,Sistema Gerenciador de Interfaces Gráficas
+2,0,sistemas gerenciadores
+3,0,interfaces gráficas
+4,1,interpretação gráfica
+5,1,Sistema Gaeli
+6,1,representações gráficas
+7,2,GAMAT2
+8,2,gerador automático de malhas programa
+9,2,geração automática
+10,3,sistemas de auxílio
+11,3,peças forjadas
+12,3,projeto
+13,4,estações gráficas
+14,4,estação pessoal gráfica
+15,4,Laboratório de Sistemas Integráveis
+16,5,calibração de parâmetros
+17,5,sistema de reconhecimento
+18,5,Lógica Nebulosa
+19,6,programação lógica
+20,6,diagramas unifilares
+21,6,linguagem lógica
+22,6,PROLOG
+23,6,computação gráfica
+24,6,rotinas gráficas
+25,7,simulador de baixo custo
+26,7,controladores de tráfego aéreo
+27,7,simulação movimentos em microcomputadores
+28,7,simulador de voo
+29,8,Linguagem Pascal
+30,8,MOL3D
+31,8,software gráfico
+32,8,estruturas moleculares
+33,9,sistema de tratamento de imagens
+34,9,sistema de classificação de imagens
+35,9,imagens de satélite
+36,9,interface com o usuário
+37,9,sensoriamento remoto
+38,10,coordenadas logpolares
+39,10,visión por computadora
+40,11,IMAGO
+41,11,processamento digital de imagens
+42,12,desenvolvimento de softwares
+43,12,computação gráfica
+44,12,PUC-Rio
+45,12,TecGraf
+46,12,CAD
+47,12,software gráfico
+48,13,modelagem de sólidos
+49,13,Boundary Representation
+50,14,estação de trabalho
+51,14,EG-8801
+52,14,animação
+53,14,window systems
+54,15,sistema multitransputador
+55,15,aplicações gráficas
+56,15,placa gráfica
+57,16,AMPLO
+58,16,base de dados
+59,16,mecanismos gráficos
+60,16,sistemas digitais
+61,16,interface com o usuário
+62,17,convolucionador de imagens
+63,17,processamento de imagens
+64,18,orientação de superfícies
+65,18,iluminação natural
+66,18,superfícies planas
+67,19,imagens tomográficas
+68,19,sistema gráfico
+69,19,reconstrução de imagens
+70,19,interpretação de imagens
+71,19,tomografia
+72,20,GRAFIM
+73,20,Programa para análise de imagens
+74,20,imagens tomográficas
+75,21,espaço tri-dimensional
+76,21,triangularização automática
+77,21,método para triangularização
+78,22,estruturas quadtree
+79,22,armazenamento de mapas
+80,22,modelo vetorial
+81,22,Computação Gráfica
+82,22,cartografia automatizada
+83,22,mapas poligonais
+84,23,curvas splines
+85,23,superfícies splines
+86,23,técnicas de filtragem
+87,23,suavização de curvas
+88,23,suavização de superfícies
+89,24,interpolação de curvas
+90,24,interpolação de superfícies
+91,24,splines
+92,24,grau arbitrário
+93,24,spline cúbico
+94,24,B-spline
+95,25,redes artificiais
+96,25,neurônios lineares
+97,25,caracteres de rotação
+98,25,ADALINE
+99,25,Widrow-Hoff
+100,25,convergência
+101,26,máscaras binárias
+102,26,reconhecimento de caracteres
+103,26,reconhecimento ótico
+104,26,OCR
+105,26,Reconhecimento Óptico de Caracteres
+106,27,reconhecimento de caracteres
+107,27,reconhecimento óptico
+108,27,sistemas automáticos
+109,27,caracteres
+110,28,caracteres
+111,28,caracteres impressos
+112,28,reconhecimento automático
+113,28,textos impressos
+114,28,ASCII
+115,28,conversão automática
+116,29,radiosidade
+117,29,síntese de imagens
+118,29,superfícies curvas
+119,30,algoritmo
+120,30,linhas ocultas
+121,30,modelos tridimensionais
+122,31,imagens coloridas
+123,31,algoritmos
+124,31,síntese de imagens
+125,31,exibição de imagens coloridas
+126,32,ray tracing
+127,32,OCTREES
+128,32,CSG
+129,32,otimização
+130,32,Bresenham
+131,33,impressão de imagens
+132,33,imagens coloridas
+133,33,dispositivo monocromático
+134,34,computer model
+135,34,pinscreen simulation
+136,35,processador gráfico
+137,35,PGC
+138,35,sistemas gráficos
+139,35,transputers
+140,35,PHIGS
+141,35,imagens tridimensionais
+142,36,imagens digitais
+143,36,linhas de imagem
+144,36,blocos unidimensionais lineares
+145,36,compressão
+146,36,técnica
+147,36,método
+148,36,tratamento de imagens
+149,37,fluxo ótico
+150,37,imagens
+151,37,sequências de imagens
+152,37,método de segmentação
+153,37,segmentação
+154,37,classificação automática
+155,37,objetos em movimento
+156,38,processamento digital
+157,38,pseudocor
+158,38,melhoramento
+159,38,imagens digitais
+160,38,uso da cor
+161,38,algoritmos de coloração
+162,39,image processing
+163,39,edge detection
+164,39,mathematical morphology
+165,39,linear features
+166,40,Convolução Cúbica
+167,40,dizimação
+168,40,interpolação
+169,40,codificação de pirâmides
+170,41,tecnologia CMOS
+171,41,operador de Roberts
+172,41,processamento digital de imagens
+173,42,parâmetros influentes
+174,42,calibração de uma câmera CCD
+175,43,visão computacional
+176,43,circuitos processadores especializados
+177,43,processamento
+178,43,esforço computacional
+179,43,minimização
+180,44,sistema de visão binária
+181,44,sistema de visão artificial
+182,44,robôs industriais

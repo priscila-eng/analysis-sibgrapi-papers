@@ -1,0 +1,260 @@
+id,id_paper,keyword
+0,0,ray tracing
+1,0,técnicas de aceleração
+2,1,computer graphics
+3,1,construction of octrees
+4,1,implicit surfaces
+5,1,arithmetic
+6,2,método de ray-tracing
+7,2,ray-tracing estocástico
+8,2,cálculo da iluminação
+9,3,modelo de objetos
+10,3,sistema de pintura digital
+11,3,pintura eletrônica
+12,4,fractais randômicos
+13,4,simulação de realismo
+14,4,paisagens
+15,5,sequências de imagens
+16,5,compressão de imagens
+17,5,processamento de imagens
+18,6,segmentação e descrição
+19,6,B-splines
+20,6,algoritmo de segmentação
+21,6,algoritmo de representação
+22,6,processamento de imagens
+23,7,PhotoPix
+24,7,processamento digital
+25,7,técnicas de programação
+26,8,quantificação vetorial
+27,8,técnica de compressão de imagem
+28,8,técnica de compressão BTC
+29,8,processamento de imagens
+30,9,relaxation techniques probabilistic
+31,9,statistical method of edge detection
+32,9,Image Processing
+33,10,visual representations
+34,10,animation and scientific visualization
+35,11,scientific visualization
+36,11,asteroseismology
+37,11,spectrum analysis
+38,12,simulação dinâmica
+39,12,ANIMADO
+40,12,sistema de animação modelada
+41,12,animação modelada por dinâmica
+42,13,animação
+43,13,animação comportamental
+44,13,modelo conceitual
+45,14,computer animation
+46,14,computer animation techniques
+47,15,sistema sistólico
+48,15,interpolação de imagens
+49,15,método de Newton
+50,15,resoluçaõ de imagens
+51,15,sistemas de pressão sistólica
+52,16,mathematical morphology
+53,16,remote sensing
+54,16,adaptive filtering
+55,16,NOAA image
+56,16,stripe
+57,16,image processing
+58,16,morfologia matemática
+59,16,sensoriamento remoto
+60,16,filtragem adaptativa
+61,16,imagem NOAA
+62,16,ruido
+63,16,processamento de imagens
+64,17,seleção de bandas
+65,17,classificação de imagens
+66,18,SPECKLE
+67,18,SAR
+68,18,Radar de Abertura Sintética
+69,18,imagens de amplitude
+70,18,processamenti de imagens
+71,19,estimation
+72,19,filtering
+73,19,maximum likelihood
+74,19,multiplicative models
+75,19,order statistics
+76,19,robustness
+77,19,speckle
+78,19,statistics
+79,19,synthetic aperture radar
+80,20,FIG
+81,20,linguagem de programação
+82,20,descrição de figuras
+83,20,processamento de imagens
+84,21,human-computer interaction
+85,21,interface design
+86,21,graphic interfaces
+87,21,direct manipulation
+88,21,computer semiotics
+89,22,sistema CAD 3D
+90,22,confecções têxteis
+91,22,FASHION-DESK
+92,22,ambiente cooperativo
+93,22,interfaces
+94,23,estratégia de portabilidade
+95,23,aplicações gráficas interativas
+96,23,interface com o usuário
+97,24,user interfaces
+98,24,graphical user interfaces
+99,25,discriminator neural
+100,25,Distance-discriminator neurons
+101,25,Distance-discriminator Neural Networks
+102,25,interfaces
+103,26,segmentação de partes genéricas
+104,26,aquisição de partes genéricas
+105,26,peças genéricas
+106,26,objetos 3D
+107,27,Disparity-Based Photometric Stereo
+108,27,computer vision
+109,27,photometric images
+110,28,pré-processamento
+111,28,extração de atributos
+112,28,primeiro nível de classificação
+113,28,sistema de reconhecimento ótico
+114,28,símbolos musicais
+115,29,dimensional vascular reconstruction
+116,29,detection of artery by Hough
+117,29,Circular pattern detection by Hough
+118,30,refinements adaptive
+119,30,3D triangulation
+120,31,algoritmo linear
+121,31,curvas poligonais
+122,31,algoritmo de transformação
+123,31,modelagem
+124,32,objetos heterogêneos
+125,32,decomposição do espaço
+126,32,representação de objetos
+127,33,quadtree
+128,33,Delaunay
+129,33,geração de malhas
+130,33,elementos finitos
+131,34,simulação de superfícies
+132,34,análise dinâmica
+133,34,espaço flexível
+134,34,objetos 3D
+135,34,modelagem
+136,35,visualização 3D
+137,35,planejamento de radioterapia
+138,35,rendering
+139,35,imagens médicas
+140,35,ray casting
+141,36,visualização tridimensional
+142,36,imagens médicas
+143,37,interpolation methods
+144,37,shape-based
+145,37,medical images
+146,38,morfologia matemática
+147,38,reconhecimento de padrões
+148,38,análise de imagens
+149,38,imagens médicas
+150,38,diagnóstico automático da filariose
+151,39,segmentação automática
+152,39,imagens do cérebro
+153,39,tomografia computadorizada
+154,39,imagens médicas
+155,40,processamento de imagens
+156,40,visão computacional
+157,41,método automático de registro
+158,41,reconstrução 3D
+159,41,visualização de imagens
+160,42,processamento de imagens
+161,42,digitaização
+162,42,raio-x
+163,42,mamografia
+164,43,visualização científica
+165,43,simulações de sistemas de tempo real
+166,43,ferramenta de software
+167,43,representação de objetos gráficos
+168,43,manipulação de objetos gráficos
+169,44,modeladores
+170,44,sólidos didático
+171,44,modelagem
+172,44,modelagem sólida
+173,45,algoritmos de modelagem
+174,45,modelagem polygonal
+175,45,contornos bidimensionais
+176,46,espaço tri-dimensional
+177,46,animação modelada
+178,46,interatividade
+179,46,sistema de animação
+180,46,ANIMAKER
+181,47,ANIMAKER
+182,47,visualização de animação
+183,47,síntese paralela de imagens
+184,47,ray-tracing
+185,48,segmentação de imagens
+186,48,imagens multiespectrais
+187,48,algoritmo ICM
+188,48,ambiente SPRING
+189,48,Iterated Conditional Modes
+190,49,método de Saltykov
+191,49,caracterização digital
+192,49,analisador de imagens
+193,50,REGRAF
+194,50,documentos gráficos
+195,50,sistema de reconhecimento
+196,50,documentos digitalizados
+197,51,interação
+198,51,visualização
+199,51,Canvas
+200,51,componente de interface
+201,52,sistema de aquisição topográfica
+202,52,sistemas de telecomunicações
+203,52,fenômenos de propagação
+204,53,anti-aliasing
+205,53,SCANLINE
+206,53,aliasing
+207,53,imagens sintáticas
+208,54,sistema de janelas
+209,54,interfaces com o usuário
+210,54,canvas
+211,54,áreas obscurecidas
+212,55,mapeamento topográfico
+213,55,interferometria
+214,55,imagens SAR do ERS-1imagens de radar
+215,56,classification
+216,56,clustering
+217,56,segmentation
+218,56,statistics
+219,57,modelagem
+220,57,sistemas articulados
+221,57,corpos articulados
+222,57,animação computadorizada
+223,57,geração de movimentos
+224,58,Biblioteca VOGL
+225,58,gráficos moleculares
+226,58,computação gráfica
+227,59,computer vision
+228,59,image acquisition
+229,60,method of segmentation
+230,60,method of description
+231,60,method of classification
+232,60,facial profiles
+233,61,suavização especial
+234,61,Ambiente Kroros
+235,62,análise de imagens
+236,62,radiografia
+237,62,nêutrons
+238,62,processamento digital
+239,63,Amazônia
+240,63,sensoriamento remote
+241,63,imagens de radar
+242,63,speckle
+243,63,SAR
+244,64,modelo estocástico
+245,64,segmentação de imagens
+246,64,restauração de imagens
+247,64,animação
+248,64,processo estocástico
+249,65,visualização 3D
+250,65,PHIGS
+251,65,GL
+252,65,sistemas gráficos
+253,66,visualização interativa
+254,66,campos eletromagnéticos
+255,66,ferramentas de visualização
+256,67,sistema gráfico interativo
+257,67,modelagem
+258,67,animação facial

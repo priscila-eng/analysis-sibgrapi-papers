@@ -1,0 +1,189 @@
+id,id_paper,keyword
+0,0,simulation study
+1,0,machine vision
+2,0,graph representation
+3,1,creativity and communication
+4,1,digital Technologies
+5,1,music
+6,1,art
+7,1,technological resources
+8,1,simulations of environments
+9,1,self-expression
+10,2,computed tomography
+11,2,magnetic resonance
+12,2,image quality assessment
+13,3,Morphological filtering
+14,3,Mathematical Morphology
+15,3,image processing
+16,4,mathematical morphology
+17,4,parallel algorithm
+18,4,photomosaicking
+19,5,binary images
+20,5,Mathematical Morphology
+21,5,contours of binary image
+22,5,morphological classification
+23,6,Mathematical Morphology
+24,6,Image Analysis 3-D
+25,6,Image Analysis of Porous Media
+26,7,image compression
+27,7,signature verification
+28,7,image processing
+29,8,compressão de imagens
+30,8,quantização vetorial
+31,8,predição de médias
+32,9,movimentos complexos
+33,9,algoritmo para estimação
+34,9,codificação de imagens
+35,9,estimação de movimentos complexos
+36,10,fuzzy sets
+37,10,modeling tool non-classical
+38,11,direction fields
+39,11,triangulation
+40,11,polygon
+41,12,triangulação de Delaunay
+42,12,subdivisões espaciais
+43,12,Computação Gráfica
+44,12,tetraedração de Delaunay
+45,13,polygonization
+46,13,polygonization simplified
+47,13,implicit surfaces
+48,14,image segmentation
+49,14,multispectral image segmentation
+50,14,chromaticity classification
+51,15,Fractal dimension
+52,15,texture classification
+53,15,shape analysis
+54,15,segmentation
+55,16,análise de textura
+56,16,Morfologia Matemática
+57,16,Transformada de Hough
+58,17,análise de textura em imagens
+59,17,imagens microscópicas
+60,17,Método Auto-Regressivo
+61,17,Método Clássico de Estimação Espectral
+62,18,computer animation
+63,18,modeling
+64,19,behavioral animation
+65,19,virtual environment
+66,19,cognitive architecture
+67,20,facial animation
+68,20,modeling of facial behavior
+69,20,virtual actors
+70,20,facial emotional behavior
+71,20,virtual human appearance
+72,20,facial expressions
+73,20,systems based on emotion
+74,21,deformação de superfícies
+75,21,superfícies não-rígidas
+76,21,princípios físicos
+77,21,sistemas de animação
+78,22,fractal dimension
+79,22,analysis of natural objects
+80,22,characterization of natural objects
+81,23,boundary detection algorithm
+82,23,parallel architecture
+83,23,VLSI
+84,24,redes neurais artificiais
+85,24,reconhecimento de imagens
+86,24,imagens bidimensionais
+87,25,virtual representation
+88,25,orientation digital
+89,25,estimation of curvature
+90,26,optical Flow
+91,26,photometric stereo
+92,27,range image
+93,27,range image segmentation
+94,27,reconstruction
+95,27,clustering
+96,27,edge detection
+97,27,plane fitting
+98,28,visual programming
+99,28,user interface
+100,28,abstract data views
+101,28,active objects
+102,28,visual objects
+103,29,Software test and validation
+104,29,Geometric modeler
+105,29,Graphical interface
+106,29,Direct manipulation
+107,30,interfaces gráficas
+108,30,interfaces gráficas interativas
+109,30,ferramenta para interface gráfica
+110,31,visualization systems
+111,31,environmental applications
+112,31,distributed graphical architectures
+113,32,image processing
+114,32,medical imaging
+115,33,fuzzy techniques
+116,33,techniques nonfuzzy
+117,33,image segmentation
+118,34,technique for detecting calcification mammographic
+119,34,technique for classifying mammographic calcifications
+120,35,computer graphics
+121,35,volume visualization
+122,35,volume rendering
+123,36,compressão de imagens
+124,36,codificação por transformada combinado
+125,37,operadores morfológicos
+126,37,processamento morfológico
+127,38,estimation methods
+128,38,tomographic reconstruction
+129,39,restauração de imagens
+130,39,restauração de imagens funcionais
+131,39,avaliação do desempenho do biossusceptômetro
+132,40,System Kroros
+133,40,processameno digital
+134,40,interactive image
+135,41,jaggie effect
+136,41,reconstruction error
+137,41,reconstructors
+138,41,zero order reconstructor
+139,42,volume visualization
+140,42,scan-line
+141,42,bresenham line drawing algorithm
+142,42,volume ray-tracing
+143,43,modeling
+144,43,octrees
+145,43,visualization
+146,44,flow visualization
+147,44,computer graphics
+148,44,streamlines
+149,44,path line
+150,44,particle path
+151,45,textura de superfícies
+152,45,sistemas de partículas
+153,45,textura bidimensional
+154,45,controle de mapeamento
+155,46,virtual models
+156,46,site models
+157,46,acquiring terrain data
+158,46,meshing
+159,46,positioning construction
+160,46,rendering
+161,47,computer graphics
+162,47,graphical editor
+163,47,programming language
+164,48,sistema de construções geométricas com vínculos
+165,48,construções Euclidianas
+166,48,modelagem geométrica
+167,48,sistemas para desenho
+168,48,descrição da cena
+169,49,triangulação dependente dos dados
+170,49,reconstrução de terrenos
+171,50,geometria computacional
+172,50,Projeto GeoPrO
+173,50,geometria projetiva orientada
+174,50,tratamento de degenerações
+175,51,animação de algoritmos
+176,51,visualização gráfica dinâmica
+177,51,animação gráfica de algoritmos
+178,51,estruturas de dados
+179,52,Animação dinâmica
+180,52,corpos elásticos
+181,53,dados meteorológicos
+182,53,sistema para visualização de dados meteorológicos
+183,53,sistema para exploração de dados meteorológicos
+184,54,radiosity
+185,54,Hopfield neural networks
+186,54,Reverse lighting design
+187,54,lighting 3D environments

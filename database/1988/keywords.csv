@@ -1,0 +1,202 @@
+id,id_paper,keyword
+0,0,construção de riscadas
+1,0,riscadas
+2,0,abordagem heurística
+3,1,estampagem
+4,1,estilismo
+5,1,editores gráficos
+6,1,CAD
+7,1,indústria da moda
+8,2,gerador de padrões
+9,2,indústria têxtil
+10,2,bases de dados
+11,3,editor de caracteres
+12,3,sistemas gráficos padronizados
+13,3,exibição tridimensional de textos
+14,4,ferramentas gráficas
+15,4,sistema AMPLO
+16,5,ferramentas gráficas
+17,5,projeto SEE
+18,5,Sistema Especialista Euclidiano
+19,5,CAD tridimensional
+20,5,processo interativo
+21,5,formas visuais
+22,5,Universidade de Brasília
+23,6,desenvolvimento de softwares
+24,6,SITIM
+25,6,síntese de imagens
+26,6,facetas curvilíneas
+27,7,AMPLO
+28,7,sistema AMPLO
+29,7,família de editores AMPLO
+30,7,sistemas digitais
+31,7,relatório de projeto
+32,8,processamento de imagens
+33,8,sensoriamento remoto
+34,8,modelos digitais
+35,8,imagens de satélite
+36,8,áreas de reflorestamento
+37,8,relatório de projeto
+38,9,interpolação de funções matemáticas
+39,9,interpolação por funções ponderadas
+40,9,computação gráfica
+41,9,interpolação polinomiais
+42,9,2D
+43,9,3D
+44,10,traçado vetorial de cônicas
+45,10,mapas de curvas de nível
+46,10,método de traçado
+47,11,modelo de dados geo-relacional
+48,11,sistema geográfico de informações
+49,11,informações cartográficas
+50,11,banco de dados relacional
+51,11,INPE
+52,12,regularização
+53,12,interpolação
+54,12,encadeamento
+55,12,suavização
+56,12,curvas de nível
+57,12,isopletas
+58,12,curvas de controle
+59,13,conversão de dados
+60,13,formato varredura
+61,13,formato vetorial
+62,13,Sistema de Informações Geográficas
+63,13,INPE
+64,14,sistema interativo
+65,14,mapeamento de Isolinhas
+66,14,SIMTRI
+67,14,funções de interpolação
+68,15,programa gerador de mapas
+69,15,PMG
+70,15,mapeamento geológico automatizado
+71,15,PETROBRÁS
+72,15,interface com o usuário
+73,15,operações com variáveis
+74,15,leitura com variáveis
+75,15,construção de malhas
+76,15,apresentação gráfica
+77,16,modelos geológicos
+78,16,sistema gráfico de apoio
+79,16,interpretação geológica
+80,16,edição gráfica interativa
+81,16,arquitetura geral
+82,16,Geomap
+83,16,PETROBRÁS
+84,17,morphological interpolation
+85,17,morphological filtering
+86,17,stripping correction of SPOT images
+87,18,interpolação de imagens
+88,18,interpolação
+89,18,splines cúbicas
+90,18,redução de imagem
+91,18,reconstrução de sinais digitais
+92,18,redes polifásicas
+93,19,estudo de caso
+94,19,solo urbano
+95,19,mapeamento
+96,19,mapeamento de uso
+97,19,transformações IHS
+98,19,fotointerpretação de imagens
+99,19,técnicas de processamento de imagens
+100,20,preprocesador de imágenes de alta eficiencia
+101,20,procesamiento de imágenes
+102,21,restauração de radio-imagens
+103,21,técnicas de regularização
+104,21,imagens solares
+105,21,Observatório Radioastronômico
+106,21,Itapetinga
+107,21,INPE
+108,22,FILTRIX
+109,22,Software para Filtragem Espacial de Imagens
+110,22,pacote de software modular
+111,22,software modular
+112,22,algoritmos de filtragem espacial
+113,22,análise de imagens
+114,22,SITIM-110
+115,22,imagens médicas
+116,22,imagens multiespectrais
+117,23,SEGMETRIX
+118,23,software para Segmentação de Imagens
+119,23,software modular
+120,23,técnicas de segmentação
+121,23,sistema de tratamento de imagens
+122,23,SITIM-110
+123,23,imagens multiespectrais
+124,23,imagens sintéticas
+125,24,Modelos Autorregressivos
+126,24,Média Móvel Multivariados
+127,24,Imagens
+128,24,Modelos Arma Vetoriais
+129,24,Segmentação de Imagens
+130,24,Sensoriamento Remoto
+131,25,SARVI
+132,25,sistema de armazenamento
+133,25,sistema de recuperação
+134,25,sistema de visualização
+135,25,imagens
+136,25,imagens de automação de escritório
+137,25,banco de imagens
+138,25,programas de armazenamento de imagens
+139,25,programas para recuperação de imagens
+140,26,arquitetura de computador
+141,26,tratamento de imagens
+142,26,tomografia por RMN
+143,26,Laboratório de Instrumentação Eletrônica
+144,26,LIE
+145,26,IFQSC
+146,26,reconstrução de imagens
+147,26,tratamento de imagens
+148,26,interpretação de imagens
+149,27,desenvolvimento de sistemas
+150,27,processamento de imagem
+151,27,relatório de projeto
+152,27,processamento digital
+153,28,método ray-tracing
+154,28,algoritmos para a síntese de cenas
+155,29,animação por computador
+156,29,objetos sintetizados
+157,29,adquiridos objetos
+158,29,objetos tridimensionais
+159,29,editores gráficos
+160,29,editor gráfico 3D
+161,29,sistema de aquisição
+162,29,processamento de imagem
+163,29,ANIMED
+164,29,ANIMATION EDITOR
+165,30,sistema extensível
+166,30,animação modelada
+167,30,sistema de animação modelada
+168,30,animação por computador
+169,30,SPA
+170,31,: rastreador de raios
+171,31,ray tracer
+172,31,microcomputadores
+173,31,imagens realistas
+174,31,objetos tridimensionais
+175,31,técnicas de produção de imagens
+176,32,digital picture (image)
+177,32,processing
+178,32,recognition
+179,32,picture information analysis
+180,33,estudo de caso
+181,33,visão por computador
+182,33,indústria de cortiça
+183,33,classificação automatizada
+184,34,visão por computador
+185,34,robótica
+186,34,projetos
+187,34,LNETI
+188,34,Laboratório Nacional de Engenharia e Tecnologia Industrial
+189,34,Portugal
+190,35,modelos fractais
+191,35,superfícies naturais
+192,35,cortiça
+193,35,análise de textura de mosaicos
+194,36,Sistema Reconhecedor de Imagens de Diagramas Elétricos e Eletrônicos
+195,36,SRIDE
+196,36,reconhecedor de desenhos de engenharia
+197,37,padrões bi-dimensionais
+198,37,métodos de reconhecimento
+199,37,processamento gráfico
+200,37,sistema gráfico de reconhecimento sintático

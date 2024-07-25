@@ -1,0 +1,163 @@
+id,id_paper,keyword
+0,0,ray tracing
+1,0,progressive refinement
+2,0,preview technique
+3,1,direct volume rendering
+4,1,gouraud shading
+5,1,volumetric illumination
+6,2,volume visualization
+7,2,parallel volume rendering
+8,2,distributed environment
+9,3,holoprojection
+10,3,difraction grade
+11,3,holoprojection screen
+12,3,visualization
+13,4,cluster analysis
+14,4,piecewise linear discriminant functions
+15,4,pattern recognition
+16,5,image
+17,5,agricultural sprinklers
+18,5,correlation
+19,6,color segmentation
+20,6,neural networks
+21,6,self-organizing maps
+22,6,classification
+23,6,k-means segmentation
+24,6,nearest-neighbor classification
+25,10,data exploration and visualization
+26,10,cluster analysis
+27,10,multi-dimensionality
+28,10,colouring
+29,10,mapping of communicating agents
+30,11,simulation environments
+31,11,visual interactive simulation
+32,11,visual interactive modeling
+33,11,visual interactive simulation and modeling
+34,13,shape from shading
+35,13,photometry
+36,13,photogrammetry reconstruction
+37,13,occluding boundary
+38,13,self-shadow boundary
+39,15,scientific visualization
+40,15,image processing
+41,15,meteorology
+42,15,cloud system
+43,16,adaptive polygonization
+44,16,parametric surfaces
+45,16,polygonal approximation
+46,16,path-based adaptation algorithm
+47,17,morphing
+48,17,shape interpolation
+49,17,boundary representation
+50,17,triangulation
+51,17,tetrahedralization
+52,18,arc-length parametrization
+53,18,approximation
+54,18,curve design
+55,18,bezier parametric curves
+56,21,ageing parameters
+57,21,warping application
+58,21,frontal facial ageing
+59,23,thin plate splines
+60,23,image registration
+61,23,serial cross sections alignment
+62,24,medical imaging
+63,24,craniofacial identification
+64,26,isosurfaces
+65,26,marching-cubes
+66,26,tetrahedral cells
+67,26,scalar fields
+68,27,volume visualization
+69,27,iso-surface
+70,27,iso-volume
+71,27,unstructured mesh
+72,27,finite element
+73,28,multiresolution
+74,28,topological data structures
+75,28,geographical databases
+76,28,access methods
+77,29,computer graphics
+78,29,image processing
+79,29,digital terrain modeling
+80,31,image processing
+81,31,mathematical morphology
+82,31,remote sensing
+83,31,radar
+84,31,drainage extraction
+85,35,computer graphics
+86,35,modeled animation
+87,35,behavioral animation
+88,36,behavioral animation
+89,36,real-time animation
+90,36,reactive agents
+91,36,parallel programming
+92,40,image effects
+93,40,contraction mappings
+94,40,fractal image compression
+95,42,animation
+96,42,simulation
+97,42,collision
+98,42,gravity
+99,43,animation
+100,43,simulation
+101,43,Human Body Model
+102,43,Hand Model
+103,44,computer animation
+104,44,motion capture
+105,44,natural human movement
+106,44,keyframing
+107,45,geração de malhas
+108,45,engenharia computacional
+109,45,engenharia matemática
+110,45,malhas bi-dimensionais
+111,46,CFK Adaptive Triangulation
+112,46,Bézier triangular patches
+113,46,triangle subdivision
+114,46,lest square
+115,47,DTM (Digital Terrain Model)
+116,47,roadways
+117,48,terrain models
+118,48,game visualization
+119,48,GIS
+120,49,composição de imagens
+121,49,cenário virtual
+122,49,combinação e imagens
+123,50,rendering
+124,50,GUI
+125,50,graphics hardware
+126,50,computer graphics applications
+127,51,visão por computador
+128,51,modelos 3D
+129,51,Sistemas CAD
+130,52,indexação por histogramas
+131,52,inspeção visual automática por cor
+132,53,análise de rugosidade
+133,53,dimensão fractal
+134,54,multiscale
+135,54,fractal dimension
+136,55,Melting algorithm
+137,55,automation of image segmentation
+138,55,watersheds
+139,56,image classification
+140,56,mathematical morphology
+141,56,characterization of morphological operators
+142,57,interpolação de imagens
+143,57,imagens tomográficas
+144,57,Matching
+145,57,Triangulação de Delaunay
+146,58,corneal topography
+147,58,image processing
+148,58,interpolation
+149,59,reconhecimento de caracteres alfanuméricos
+150,59,identificação de placas de veículos
+151,60,reconstrução de objetos fragmentados
+152,60,reconhecimento de objetos
+153,61,shape recognition
+154,61,polygonal modeling
+155,61,VSLI
+156,62,image display dedicated architecture
+157,62,image display subsystem
+158,62,decoupling resolution
+159,63,image reconstructor ASIC
+160,63,image reconstruction in real time
+161,63,image reconstructor
