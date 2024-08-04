@@ -1,35 +1,59 @@
 id,id_paper,name
-0,"Oliveira Manuel Menezes de Neto,",1991
-1,"São Carlos Gerardo de Paulo,",1991
-1,"José Miguel Salles Dias,",1991
-1,"Jorge Vitória,",1991
-1,"Manuel Gamito,",1991
-1,"Pedro Faria Lopes,",1991
-2,"Vicente de Paulo Albuquerque Araújo,",1991
-3,"Guaraci José Erthal,",1991
-3,"Leila Maria Garcia Fonseca,",1991
-3,"Leonardo Sant’Anna Bins,",1991
-3,"Flávio Roberto Dias Velasco,",1991
-4,"Ricardo Cartaxo Modesto de Souza,",1991
-5,"Nandamudi Lankalapalli Vijaykumar,",1991
-5,"Carlos Ho Shih Ning,",1991
-5,"André Luiz Battaiola,",1991
-5,"Missae Yamamoto,",1991
-5,"Câmara Gilberto Neto,",1991
-7,"Sérgio Shiguemi Furuie,",1991
-8,"Santos Auteliano Antunes dos Junior,",1991
-9,"Agma Juci Machado Traina,",1991
-9,"Jan Frans Willem Slaets,",1991
-10,"Luis Paulo Vieira Braga,",1991
-10,"Suzane Trindade de Araújo,",1991
-11,"Paulo Roma Cavalcanti,",1991
-11,"Paulo Cezar Pinto Carvalho,",1991
-12,"Rosane Minghim,",1991
-13,"Marcelo Salim,",1991
-13,"Luis Paulo Bueno,",1991
-14,"Roberto de Beauclair Seixas,",1991
-15,"Ferasoli Humberto Filho,",1991
-15,"Renê Pegoraro,",1991
-15,"Marcelo Nicoletti Franchin,",1991
-21,"Oliveira Manuel Menezes de Neto,",1991
-22,"Mário de Seixas Queiroz,",1991
+0,0,Manuel Menezes de Oliveira Neto
+1,0,Anatólio Laschuk
+2,1,Carlos Gerardo de São Paulo
+3,1,José Miguel Salles Dias
+4,1,Jorge Vitória
+5,1,Manuel Gamito
+6,1,Pedro Faria Lopes
+7,1,Mário Rui Gomes
+8,2,Vicente de Paulo Albuquerque Araújo
+9,2,Augusto Antônio Meneses de Almeida
+10,3,Guaraci José Erthal
+11,3,Leila Maria Garcia Fonseca
+12,3,Leonardo Sant’Anna Bins
+13,3,Flávio Roberto Dias Velasco
+14,3,Antônio Miguel Vieira Monteiro
+15,4,Ricardo Cartaxo Modesto de Souza
+16,4,Gilberto Câmara Neto
+17,5,Nandamudi Lankalapalli Vijaykumar
+18,5,Carlos Ho Shih Ning
+19,5,André Luiz Battaiola
+20,5,Missae Yamamoto
+21,5,Gilberto Câmara Neto
+22,5,Jens Daabeck
+23,6,Junior Barrera
+24,7,Sérgio Shiguemi Furuie
+25,7,Nelson Delfino d'Ávila Mascarenhas
+26,8,Auteliano Antunes dos Santos Junior
+27,8,Roberto de Alencar Lotufo
+28,9,Agma Juci Machado Traina
+29,9,Jan Frans Willem Slaets
+30,9,Lírio Onofre Baptista Almeida
+31,10,Luis Paulo Vieira Braga
+32,10,Suzane Trindade de Araújo
+33,10,João Carlos Morgado de Souza
+34,11,Paulo Roma Cavalcanti
+35,11,Paulo Cezar Pinto Carvalho
+36,11,Luiz Fernando Martha
+37,12,Rosane Minghim
+38,12,Clésio Luis Tozzi
+39,13,Marcelo Salim
+40,13,Luis Paulo Bueno
+41,13,Ronaldo César Marinho Persiano
+42,14,Roberto de Beauclair Seixas
+43,14,Lilia de Assunção Hess
+44,15,Humberto Ferasoli Filho
+45,15,Renê Pegoraro
+46,15,Marcelo Nicoletti Franchin
+47,15,José Hiroki Saito
+48,16,Roberto de Alencar Lotufo
+49,17,José Mario de Martino
+50,18,José Claúdio Mura
+51,19,Gladimir Valerio Guimarães Baranoski
+52,20,Silvia Delgado Olabarriaga
+53,21,Manuel Menezes de Oliveira Neto
+54,21,Rui Manuel Ribeiro de Bastos
+55,22,Mário de Seixas Queiroz
+56,22,Léo Pini Magalhães
+57,23,Luiz Carlos Pacheco Rodrigues Velho

@@ -1,77 +1,132 @@
 id,id_paper,name
-1,"Corrêa da Flávio Soares Silva,",1994
-2,"Ailton Fernando Dias,",1994
-2,"Arnaldo de Albuquerque Araújo,",1994
-3,"Marcelo Mollica Jourdan,",1994
-5,"Ulisses de Mendonça Braga-Neto,",1994
-6,"Marcos Carneiro de Andrade,",1994
-6,"Fabiano Cruz Peixoto,",1994
-8,"José Ricardo A. Torreão,",1994
-9,"Paulo R. Madruga,",1994
-10,"Díbio Leandro Borges,",1994
-10,"Mark J. Orr,",1994
-12,"Luiz Carlos Pacheco Rodrigues Velho,",1994
-12,"Demetri Terzopoulos,",1994
-13,"Oliveira Manuel Menezes de Neto,",1994
-14,"Christoph Streit,",1994
-15,"Soraia Raupp Musse,",1994
-16,"Maurence M. Anguh,",1994
-17,"Ilka Marinho Barros,",1994
-17,"Roberto de Alencar Lotufo,",1994
-18,"Sidnei J. S. Sant´Anna,",1994
-19,"Beatriz Castier,",1994
-19,"Luiz Fernando Martha,",1994
-20,"Bruno Feijó,",1994
-20,"Nick Lehtola,",1994
-20,"João Bento,",1994
-21,"Raquel de Oliveira Prates,",1994
-21,"Luiz Henrique de Figueiredo,",1994
-22,"Luciano Sclovsky,",1994
-23,"Clarisse Sieckenius de Souza,",1994
-24,"Plínio Roberto Souza Vilela,",1994
-24,"José Carlos Maldonado,",1994
-24,"Mario Jino,",1994
-25,"Carla Maria Dal Sasso Freitas,",1994
-26,"Gilberto Câmara,",1994
-26,"Ubirajara Moura de Freitas,",1994
-27,"Márcio Alexandre Marques,",1994
-27,"Annie France Frère,",1994
-27,"Henrique Jesus Quintino de Oliveira,",1994
-27,"Homero Schiabel,",1994
-27,"Paulo M. Azevedo Marques,",1994
-28,"José Ricardo A. Torreão,",1994
-29,"João Fernando Marar,",1994
-30,"David Fernandes,",1994
-31,"Marcelo Knörich Zuffo,",1994
-33,"Rui Manuel Ribeiro de Bastos,",1994
-34,"Luciano Pereira dos Reis,",1994
-35,"Silveira Luiz Gonzaga da Júnior,",1994
-36,"Paulo Roma Cavalcanti,",1994
-37,"Celes Waldemar Filho,",1994
-37,"Marcelo Gattass,",1994
-39,"Roberto de Beuclair Seixas,",1994
-39,"Marcelo Gattass,",1994
-39,"Luiz Henrique de Figueiredo,",1994
-40,"Luiz Fernando Martha,",1994
-41,"Ana Liddy Cenni de Castro Magalhães,",1994
-41,"Castelo Antonio Filho,",1994
-41,"Carlos Neves Lenz Cesar,",1994
-41,"Marcelo Ferreira Siqueira,",1994
-42,"Luiz Eduardo Seabra Varella,",1994
-42,"Eugênio José Fonseca Pimenta,",1994
-43,"Carlos Neves Lenz César,",1994
-44,"Sara do Nascimento,",1994
-44,"Sonja Avarese Leite Meerbaum,",1994
-45,"Fernando Ferreira Dias Martins,",1994
-46,"Carlos Fernando Assis Paniago,",1994
-47,"Hernando Bustos,",1994
-47,"Teddy Delgado,",1994
-48,"João Francisco Borba,",1994
-49,"Alexandre Rodrigues Costa,",1994
-49,"Paulo Henrique Coelho Costa,",1994
-50,"Henrique Martins Gomes,",1994
-52,"Eduardo Roberto Areco,",1994
-52,"Arnaldo de Albuquerque Araújo,",1994
-53,"Walter Fetter Lages,",1994
-54,"Eduardo A. Perondi,",1994
-54,"Roberto G. Teixeira,",1994
+0,0,Jacques Facon
+1,1,Flávio Soares Corrêa da Silva
+2,1,Junior Barrera
+3,2,Ailton Fernando Dias
+4,2,Arnaldo de Albuquerque Araújo
+5,2,Virgínia Reis Crispim
+6,3,Marcelo Mollica Jourdan
+7,3,Abraham Alcaim
+8,4,Neucimar Jerônimo Leite
+9,5,Ulisses de Mendonça Braga-Neto
+10,5,Roberto de Alencar Lotufo
+11,6,Marcos Carneiro de Andrade
+12,6,Fabiano Cruz Peixoto
+13,6,Arnaldo de Albuquerque Araújo
+14,7,Lírida Alves de Barros
+15,8,José Ricardo A. Torreão
+16,8,Bruno Motta de Carvalho
+17,9,Paulo R. Madruga
+18,9,José Ricardo A. Torreão
+19,10,Díbio Leandro Borges
+20,10,Mark J. Orr
+21,10,Robert B. Fisher
+22,11,Anna Helena Reali Costa Rillo
+23,12,Luiz Carlos Pacheco Rodrigues Velho
+24,12,Demetri Terzopoulos
+25,12,Jonas de Miranda Gomes
+26,13,Manuel Menezes de Oliveira Neto
+27,13,Vítor César Benvenuti
+28,14,Christoph Streit
+29,14,Hanspeter Bieri
+30,15,Soraia Raupp Musse
+31,15,Anatólio Laschuk
+32,16,Maurence M. Anguh
+33,16,Ralph R. Martin
+34,17,Ilka Marinho Barros
+35,17,Roberto de Alencar Lotufo
+36,17,Neucimar Jerônimo Leite
+37,18,Sidnei J. S. Sant´Anna
+38,18,Nelson Delfino d'Ávila Mascarenhas
+39,19,Beatriz Castier
+40,19,Luiz Fernando Martha
+41,19,Marcelo Gattass
+42,20,Bruno Feijó
+43,20,Nick Lehtola
+44,20,João Bento
+45,20,Sebastião A. L. de Andrade
+46,21,Raquel de Oliveira Prates
+47,21,Luiz Henrique de Figueiredo
+48,21,Marcelo Gattass
+49,22,Luciano Sclovsky
+50,22,Anatólio Laschuk
+51,23,Clarisse Sieckenius de Souza
+52,23,Deller James Ferreira
+53,24,Plínio Roberto Souza Vilela
+54,24,José Carlos Maldonado
+55,24,Mario Jino
+56,24,Marcos L. Chaim
+57,25,Carla Maria Dal Sasso Freitas
+58,25,Flávio Rech Wagner
+59,26,Gilberto Câmara
+60,26,Ubirajara Moura de Freitas
+61,26,João Pedro Cerveira Cordeiro
+62,27,Márcio Alexandre Marques
+63,27,Annie France Frère
+64,27,Henrique Jesus Quintino de Oliveira
+65,27,Homero Schiabel
+66,27,Paulo M. Azevedo Marques
+67,27,Ricardo José Ferrari
+68,28,José Ricardo A. Torreão
+69,28,Edward Roe
+70,29,João Fernando Marar
+71,29,Edson Costa de Barros Carvalho Filho
+72,30,David Fernandes
+73,30,Miriam Teresa Menegassi Menchik
+74,31,Marcelo Knörich Zuffo
+75,31,Roseli de Deus Lopes
+76,32,Eduardo Toledo Santos
+77,33,Rui Manuel Ribeiro de Bastos
+78,33,Manuel Menezes de Oliveira Neto
+79,34,Luciano Pereira dos Reis
+80,34,Alyn Rockwood
+81,35,Luiz Gonzaga da Silveira Júnior
+82,35,Shin-Ting Wu
+83,36,Paulo Roma Cavalcanti
+84,36,Paulo Cezar Pinto Carvalho
+85,37,Waldemar Celes Filho
+86,37,Marcelo Gattass
+87,37,Paulo Cezar Pinto Carvalho
+88,38,Simone Garçon dos Santos
+89,39,Roberto de Beuclair Seixas
+90,39,Marcelo Gattass
+91,39,Luiz Henrique de Figueiredo
+92,39,Luiz Fernando Martha
+93,40,Luiz Fernando Martha
+94,40,Marcelo Gattass
+95,41,Ana Liddy Cenni de Castro Magalhães
+96,41,Antonio Castelo Filho
+97,41,Carlos Neves Lenz Cesar
+98,41,Marcelo Ferreira Siqueira
+99,41,Maria Cristina Ferreira de Oliveira
+100,42,Luiz Eduardo Seabra Varella
+101,42,Eugênio José Fonseca Pimenta
+102,42,João Carlos Morgado
+103,43,Carlos Neves Lenz César
+104,43,Maria Cristina Ferreira de Oliveira
+105,44,Sara do Nascimento
+106,44,Sonja Avarese Leite Meerbaum
+107,44,José Augusto Pereira Britto
+108,45,Fernando Ferreira Dias Martins
+109,45,Eduardo Toledo Santos
+110,46,Carlos Fernando Assis Paniago
+111,46,Agma Juci Machado Traina
+112,47,Hernando Bustos
+113,47,Teddy Delgado
+114,47,Marco Villalobos
+115,48,João Francisco Borba
+116,48,Jacques Facon
+117,49,Alexandre Rodrigues Costa
+118,49,Paulo Henrique Coelho Costa
+119,49,Antônio Castelo Filho
+120,50,Henrique Martins Gomes
+121,50,Edson Costa de Barros Carvalho Filho
+122,51,Denise Guliato
+123,52,Eduardo Roberto Areco
+124,52,Arnaldo de Albuquerque Araújo
+125,52,Mário Fernando Montenegro Campos
+126,53,Walter Fetter Lages
+127,53,Jacques Waldmann
+128,54,Eduardo A. Perondi
+129,54,Roberto G. Teixeira
+130,54,Luciano A. Mendes

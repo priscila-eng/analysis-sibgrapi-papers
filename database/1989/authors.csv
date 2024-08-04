@@ -1,79 +1,135 @@
 id,id_paper,name
-0,"Luiz Sérgio Young Moreira,",1989
-1,"José Claúdio Mura,",1989
-3,"Paulo Augusto Brienza Pereira,",1989
-7,"Celso Luiz Mendes,",1989
-7,"Cecília de Azevedo Castro César,",1989
-7,"Francisco Antonio Junior,",1989
-8,"José Raimundo de Oliveira,",1989
-8,"Carlos Augusto de Mesquita Braga,",1989
-9,"Jan Frans Willem Slaets,",1989
-9,"Maria Stela Veludo de Paiva,",1989
-10,"Celso Hiroshi Yamaguchi,",1989
-10,"Maria Ruth P. L. Reganati,",1989
-10,"Hélio Azevedo,",1989
-11,"Marcelo Knörich Zuffo,",1989
-11,"Mylene Melly,",1989
-12,"Carlos Alberto Felgueiras,",1989
-12,"Guaraci José Erthal,",1989
-16,"S. S. Furuie,",1989
-17,"L. Moura,",1989
-18,"M. F. S. Rebelo,",1989
-18,"C. C. Robilotta,",1989
-19,"Nilson Costa Roberty,",1989
-19,"Maria Luiza Reis,",1989
-20,"Wagner Santos de Almeida,",1989
-21,"Hernani A. F. Chaves,",1989
-21,"Mary Effie Lewis,",1989
-22,"Lamounier Edgard Afonso Júnior,",1989
-22,"Lília de Assunção Hess,",1989
-23,"Carla Maria Dal Sasso Freitas,",1989
-23,"Bernardo Copstein,",1989
-24,"Andres Fernando Paredes Horna,",1989
-26,"Luciano Vieira Dutra,",1989
-27,"Fernando Elyas Nóbrega Nasser,",1989
-27,"Yanara d’Arcanchy Nóbrega Nasser,",1989
-29,"João Ricardo de Freitas Oliveira,",1989
-30,"Ana Teruko Yokomizo,",1989
-30,"Celia Regina Canhassi,",1989
-30,"Eduardo Kazuo Tanaka,",1989
-32,"P. Cralevitch,",1989
-32,"Garcia do M. O',",1989
-32,"E. G. Galúcio,",1989
-32,"S. Paciornik,",1989
-32,"R. A. Nunes,",1989
-33,"Bruno Cernuschi Frías,",1989
-34,"Maria Luceneide Mota Revoredo,",1989
-34,"João Marques de Carvalho,",1989
-35,"Lucas Máximo Alves,",1989
-35,"Michel André Aegerter,",1989
-36,"Mauro Cavalcante Pequeno,",1989
-36,"João Marques de Carvalho,",1989
-37,"Jan Frans Willem Slaets,",1989
-38,"Rudnei Dias Cunha,",1989
-39,"Silvia Olabarriaga,",1989
-41,"Cláudio von Zuben Bannwart,",1989
-41,"Jorge Alberto Diz,",1989
-41,"Helga Hartelt,",1989
-41,"Heraldo Madeira,",1989
-42,"Bernardo Copstein,",1989
-42,"Cláudia Abrahão Pereira,",1989
-43,"Julio Ricardo Barreto Cruz,",1989
-44,"Câmara Gilberto Neto,",1989
-44,"Elisa Nishimura,",1989
-44,"André Battaiola,",1989
-44,"Carlos Ho Shih Ning,",1989
-44,"Nandamudi L. Vijaykumar,",1989
-44,"Luis Massa,",1989
-45,"José M. Salles Dias,",1989
-46,"Márcio Vinholes Ferreira,",1989
-46,"Nelson Hamasaki,",1989
-48,"João Sérgio dos Santos Assis,",1989
-51,"Leila Maria Garcia Fonseca,",1989
-52,"Antonio Miguel Vieira Monteiro,",1989
-53,"Eduardo M. R. Fairbairn,",1989
-53,"Ney Roitman,",1989
-54,"Amarilis Megale,",1989
-54,"Ingrid G. R. de Camargo,",1989
-55,"Maria Luiza Reis,",1989
-55,"Nilson Costa Roberty,",1989
+0,0,Luiz Sérgio Young Moreira
+1,0,Flávio Gomes Torres
+2,1,José Claúdio Mura
+3,1,Sueli Pissarra Castellari
+4,2,Márcio Lobo Netto
+5,3,Paulo Augusto Brienza Pereira
+6,3,Michelângelo Vassallo
+7,4,Maria Teresa Beolchi Rios
+8,5,Marcelo Antônio Alvarez
+9,6,Juan Carlos Pinto de Garrido
+10,7,Celso Luiz Mendes
+11,7,Cecília de Azevedo Castro César
+12,7,Antonio Francisco Junior
+13,7,Flávio Roberto Dias Velasco
+14,8,José Raimundo de Oliveira
+15,8,Carlos Augusto de Mesquita Braga
+16,8,José Henrique Zilberberg
+17,9,Jan Frans Willem Slaets
+18,9,Maria Stela Veludo de Paiva
+19,9,Lírio O. B. de Almeida
+20,10,Celso Hiroshi Yamaguchi
+21,10,Maria Ruth P. L. Reganati
+22,10,Hélio Azevedo
+23,10,Clésio Luiz Tozzi
+24,11,Marcelo Knörich Zuffo
+25,11,Mylene Melly
+26,11,Roseli de Deus Lopes
+27,12,Carlos Alberto Felgueiras
+28,12,Guaraci José Erthal
+29,12,Luiz Alberto Vieira Dias
+30,13,Jonas de Miranda Gomes
+31,14,Milton Teruaki Suetsugu Sakude
+32,15,Luiz Velho
+33,16,S. S. Furuie
+34,16,T. Tomitani
+35,17,L. Moura
+36,17,R. Kitney
+37,18,M. F. S. Rebelo
+38,18,C. C. Robilotta
+39,18,R. Abe
+40,19,Nilson Costa Roberty
+41,19,Maria Luiza Reis
+42,19,Virgínia Reis Crispim
+43,20,Wagner Santos de Almeida
+44,20,Carlos Alberto Felgueiras
+45,21,Hernani A. F. Chaves
+46,21,Mary Effie Lewis
+47,21,Maurício Nardone
+48,22,Edgard Afonso Lamounier Júnior
+49,22,Lília de Assunção Hess
+50,22,Sérgio de Mello Schnider
+51,23,Carla Maria Dal Sasso Freitas
+52,23,Bernardo Copstein
+53,23,Silvia D. Olabarriga
+54,24,Andres Fernando Paredes Horna
+55,24,Otavio Cupertino Durão
+56,25,José Távora
+57,26,Luciano Vieira Dutra
+58,26,Nelson Delfino d'Ávila Mascarenhas
+59,27,Fernando Elyas Nóbrega Nasser
+60,27,Yanara d’Arcanchy Nóbrega Nasser
+61,27,Rubens Nascimento Melo
+62,28,Harold P. Santo
+63,29,João Ricardo de Freitas Oliveira
+64,29,Fernando Yutaka Yamaguchi
+65,30,Ana Teruko Yokomizo
+66,30,Celia Regina Canhassi
+67,30,Eduardo Kazuo Tanaka
+68,30,Jorge Alexandre Teixeira de Carvalho
+69,31,H. Niemann
+70,32,P. Cralevitch
+71,32,M. Garcia do O'
+72,32,E. G. Galúcio
+73,32,S. Paciornik
+74,32,R. A. Nunes
+75,32,Fernando C. Rizzo Assunção
+76,33,Bruno Cernuschi Frías
+77,33,Alejandro Blumenkrans
+78,34,Maria Luceneide Mota Revoredo
+79,34,João Marques de Carvalho
+80,34,Leunam Rocha Revoredo
+81,35,Lucas Máximo Alves
+82,35,Michel André Aegerter
+83,35,Kenji Hata
+84,36,Mauro Cavalcante Pequeno
+85,36,João Marques de Carvalho
+86,36,Mário Toyotaro Hattori
+87,37,Jan Frans Willem Slaets
+88,37,Agma Juci Machado Traina
+89,38,Rudnei Dias Cunha
+90,38,Carla Maria Dal Sasso Freitas
+91,39,Silvia Olabarriaga
+92,39,Albert Brasil
+93,40,Ari de Moura Villaça
+94,41,Cláudio von Zuben Bannwart
+95,41,Jorge Alberto Diz
+96,41,Helga Hartelt
+97,41,Heraldo Madeira
+98,41,Léo Pini Magalhães
+99,42,Bernardo Copstein
+100,42,Cláudia Abrahão Pereira
+101,42,Simone Nunes Ferreira
+102,43,Julio Ricardo Barreto Cruz
+103,43,Ulisses Pereira de Araújo
+104,44,Gilberto Câmara Neto
+105,44,Elisa Nishimura
+106,44,André Battaiola
+107,44,Carlos Ho Shih Ning
+108,44,Nandamudi L. Vijaykumar
+109,44,Luis Massa
+110,44,Jens Daabeck
+111,45,José M. Salles Dias
+112,45,José Manuel Rebordão
+113,46,Márcio Vinholes Ferreira
+114,46,Nelson Hamasaki
+115,46,Walcir Fontanini
+116,47,Cláudia Alvarenga
+117,48,João Sérgio dos Santos Assis
+118,48,José Antonio dos Santos Borges
+119,49,Homero Luiz Piccolo
+120,50,Guilherme Pereira da Silva e Pádua
+121,51,Leila Maria Garcia Fonseca
+122,51,Gerald Jean Francis Banon
+123,52,Antonio Miguel Vieira Monteiro
+124,52,Flávio Roberto Dias Velasco
+125,53,Eduardo M. R. Fairbairn
+126,53,Ney Roitman
+127,53,André L. C. Moreira
+128,54,Amarilis Megale
+129,54,Ingrid G. R. de Camargo
+130,54,Flavius P. R. Martins
+131,55,Maria Luiza Reis
+132,55,Nilson Costa Roberty
+133,55,Virgínia Reis Crispim

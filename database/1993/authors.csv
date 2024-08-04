@@ -1,82 +1,150 @@
 id,id_paper,name
-0,"Wagner Toledo Corrêa,",1993
-0,"Maurício Antônio de Castro Lima,",1993
-0,"Meira Wagner Junior,",1993
-1,"João Luiz Dihl Comba,",1993
-2,"Sérgio Gonzalo Besuievsky,",1993
-5,"Carlos Antonio Reinaldo Costa,",1993
-6,"Cesar Roberto Marcondes Junior,",1993
-7,"Alisson Augusto Souza Sol,",1993
-8,"Abraham Alcaim,",1993
-9,"André Hiroshi Hayashi Alves,",1993
-10,"Carla Maria Dal Sasso Freitas,",1993
-12,"Maria Andréia Formico Rodrigues,",1993
-13,"Bruno Feijó,",1993
-14,"Alan Watt,",1993
-16,"Gerald Jean Francis Banon,",1993
-18,"David Fernandes,",1993
-18,"Fernando Toshinori Sakane,",1993
-19,"Alejandro César Frery,",1993
-20,"Aparecido Nilceu Marana,",1993
-22,"José Miguel de Oliveira Monteiro Salles Dias,",1993
-22,"José Manuel Rebordão,",1993
-22,"Antonio Carlos C. M. Almeida,",1993
-22,"Alexandre Ribeiro,",1993
-22,"Ana Paula Sanz,",1993
-23,"Luiz Henrique de Figueiredo,",1993
-23,"Marcelo Gattass,",1993
-24,"Cesar Augusto Camillo Teixeira,",1993
-25,"Luciano da Fontoura Costa,",1993
-25,"Javier Montenegro Joo,",1993
-26,"Díbio L. Borges,",1993
-27,"José Ricardo de Almeida Torreão,",1993
-27,"Cecílio José Lins Pimentel,",1993
-28,"Francesco Artur Perrotti,",1993
-29,"Maria Stela Veludo de Paiva,",1993
-30,"Ronaldo Marinho Persiano,",1993
-30,"João Luiz Dihl Comba,",1993
-31,"Antônio Alberto Fernades de Oliveira,",1993
-32,"Paulo Roma Cavalcanti,",1993
-32,"Paulo Cezar Pinto Carvalho,",1993
-33,"Joaquim Bento Cavalcante-Neto,",1993
-33,"Marcelo Tilio Monteiro de Carvalho,",1993
-34,"Luciana Porcher Nedel,",1993
-34,"Carla Maria Dal Sasso Freitas,",1993
-36,"Marcelo Knörich Zuffo,",1993
-36,"Andrew Grant,",1993
-37,"Roberto de Alencar Lotufo,",1993
-38,"Lúcio Flávio Cavalcanti Pessoa,",1993
-39,"François Langevin,",1993
-40,"Adilson Gonzaga,",1993
-41,"José Eduardo Cogo Castanho,",1993
-41,"Renato Luppi,",1993
-42,"Rita Helena Schiavone Crestana,",1993
-42,"Guillardi Thomaz Neto,",1993
-43,"Alan Salvany Felinto,",1993
-45,"Paulo César Cortez,",1993
-47,"Dinamérico Schwingel,",1993
-47,"Rodrigo de Losina Silva,",1993
-48,"Guaraci José Erthal,",1993
-49,"Marcos Carneiro de Andrade,",1993
-49,"Arnaldo de Albuquerque Araújo,",1993
-49,"Ana Maria Matildes dos Santos,",1993
-49,"Fernando Soares Lameiras,",1993
-50,"Luiz Eduardo Seabra Varella,",1993
-51,"Perla Velasquez Alegre,",1993
-52,"Marco A. G. Mattoso Maia,",1993
-52,"Átila L. F. Xavier,",1993
-53,"Marcelo da Cunha Ramos,",1993
-54,"Celes Waldemar Filho,",1993
-54,"Enio Emanuel Ramos Russo,",1993
-56,"Leonardo Sant’Ana Bins,",1993
-56,"Guaraci José Erthal,",1993
-57,"Soraia Raupp Musse,",1993
-61,"Arnaldo de Albuquerque Araújo,",1993
-62,"Ailton Fernando Dias,",1993
-63,"Luciano Vieira Dutra,",1993
-63,"Alejandro César Frery,",1993
-63,"Herandes Pedro Filho,",1993
-63,"Sidnei J. S. Sant’Anna,",1993
-64,"Mario E. Molina,",1993
-66,"Ana Elisa Ferreira Schmidt,",1993
-66,"Carla Maria Dal Sasso Freitas,",1993
+0,0,Wagner Toledo Corrêa
+1,0,Maurício Antônio de Castro Lima
+2,0,Wagner Meira Junior
+3,0,Márcio Luiz Bunte de Carvalho
+4,1,João Luiz Dihl Comba
+5,1,Jorge Stolfi
+6,2,Sérgio Gonzalo Besuievsky
+7,2,Léo Pini Magalhães
+8,3,Maria Célia Paiva de Freitas
+9,4,José Maria R. Neves
+10,5,Carlos Antonio Reinaldo Costa
+11,5,Paulo Lício de Geus
+12,6,Roberto Marcondes Cesar Junior
+13,6,Roberto de Alencar Lotufo
+14,7,Alisson Augusto Souza Sol
+15,7,Arnaldo de Albuquerque Araújo
+16,8,Abraham Alcaim
+17,8,Luciano Vereda Oliveira
+18,9,André Hiroshi Hayashi Alves
+19,9,Nelson Delfino d'Ávila Mascarenhas
+20,10,Carla Maria Dal Sasso Freitas
+21,10,Flavio Rech Wagner
+22,11,Sílvia Delgado Olabarriaga
+23,12,Maria Andréia Formico Rodrigues
+24,12,Léo Pini Magalhães
+25,13,Bruno Feijó
+26,13,Mônica Maria Ferreira da Costa
+27,14,Alan Watt
+28,14,Mark Watt
+29,15,Eduardo Toledo Santos
+30,16,Gerald Jean Francis Banon
+31,16,Ana Lúcia Bezerra Candeias
+32,17,Antonio José Ferreira Machado e Silva
+33,18,David Fernandes
+34,18,Fernando Toshinori Sakane
+35,18,Nelson Delfino d'Ávila Mascarenhas
+36,19,Alejandro César Frery
+37,19,Sidnei J. S. Sant’Anna
+38,20,Aparecido Nilceu Marana
+39,20,Tomasz Kowaltowski
+40,21,Clarisse Sieckenius Souza
+41,22,José Miguel de Oliveira Monteiro Salles Dias
+42,22,José Manuel Rebordão
+43,22,Antonio Carlos C. M. Almeida
+44,22,Alexandre Ribeiro
+45,22,Ana Paula Sanz
+46,22,Joaquim Lourenço Esmerado
+47,23,Luiz Henrique de Figueiredo
+48,23,Marcelo Gattass
+49,23,Carlos Henrique Levy
+50,24,Cesar Augusto Camillo Teixeira
+51,24,Peter F. Linington
+52,25,Luciano da Fontoura Costa
+53,25,Javier Montenegro Joo
+54,25,Roland Köberle
+55,26,Díbio L. Borges
+56,26,Robert B. Fisher
+57,27,José Ricardo de Almeida Torreão
+58,27,Cecílio José Lins Pimentel
+59,27,Edward Roe
+60,28,Francesco Artur Perrotti
+61,28,Roberto de Alencar Lotufo
+62,29,Maria Stela Veludo de Paiva
+63,29,Mark Nixon
+64,30,Ronaldo Marinho Persiano
+65,30,João Luiz Dihl Comba
+66,30,Valéria Barbalho
+67,31,Antônio Alberto Fernades de Oliveira
+68,31,Adailton José Alves da Cruz
+69,32,Paulo Roma Cavalcanti
+70,32,Paulo Cezar Pinto Carvalho
+71,32,Luiz Fernando Martha
+72,33,Joaquim Bento Cavalcante-Neto
+73,33,Marcelo Tilio Monteiro de Carvalho
+74,33,Luiz Fernando Martha
+75,34,Luciana Porcher Nedel
+76,34,Carla Maria Dal Sasso Freitas
+77,34,Flávio Rech Wagner
+78,35,Klaus de Geus
+79,36,Marcelo Knörich Zuffo
+80,36,Andrew Grant
+81,36,Roseli de Deus Lopes
+82,37,Roberto de Alencar Lotufo
+83,37,Alexandre Xavier Falcão
+84,38,Lúcio Flávio Cavalcanti Pessoa
+85,38,Ascendino Flávio Dias e Silva
+86,39,François Langevin
+87,39,Jacques Facon
+88,40,Adilson Gonzaga
+89,40,Celso Aparecido de França
+90,41,José Eduardo Cogo Castanho
+91,41,Renato Luppi
+92,41,Olga Regina P. Bellon
+93,42,Rita Helena Schiavone Crestana
+94,42,Thomaz Guillardi Neto
+95,42,Lúcio André de Castro Jorge
+96,43,Alan Salvany Felinto
+97,43,Tereza Gonçalves Kirner
+98,44,Marcos de S. G. Tsuzuki
+99,45,Paulo César Cortez
+100,45,João Marques de Carvalho
+101,46,Rodrigo de Losina Silva
+102,47,Dinamérico Schwingel
+103,47,Rodrigo de Losina Silva
+104,47,Dante Augusto Couto Barone
+105,48,Guaraci José Erthal
+106,48,Alejandro César Frery
+107,49,Marcos Carneiro de Andrade
+108,49,Arnaldo de Albuquerque Araújo
+109,49,Ana Maria Matildes dos Santos
+110,49,Fernando Soares Lameiras
+111,49,Eduardo Alves Bambirra
+112,50,Luiz Eduardo Seabra Varella
+113,50,Luis Paulo Vieira Braga
+114,51,Perla Velasquez Alegre
+115,51,Shin-Ting Wu
+116,52,Marco A. G. Mattoso Maia
+117,52,Átila L. F. Xavier
+118,52,Enio R. Garbin Garbin
+119,53,Marcelo da Cunha Ramos
+120,53,José Antonio dos Santos Borges
+121,54,Waldemar Celes Filho
+122,54,Enio Emanuel Ramos Russo
+123,54,Marcelo Gattass
+124,55,José Claudio Mura
+125,56,Leonardo Sant’Ana Bins
+126,56,Guaraci José Erthal
+127,56,Leila Maria Garcia Fonseca
+128,57,Soraia Raupp Musse
+129,57,Anatólio Laschuk
+130,58,Pedro Antonio Muniz Vazquez
+131,59,Luciano da Fontoura Costa
+132,60,João Carlos Campos
+133,61,Arnaldo de Albuquerque Araújo
+134,61,Eduardo Roberto Areco
+135,62,Ailton Fernando Dias
+136,62,Arnaldo de Albuquerque Araújo
+137,63,Luciano Vieira Dutra
+138,63,Alejandro César Frery
+139,63,Pedro Herandes Filho
+140,63,Sidnei J. S. Sant’Anna
+141,63,Corina da Costa Freitas Yanasse
+142,64,Mario E. Molina
+143,64,Alejandro César Frery
+144,65,Mário Costa Sousa
+145,66,Ana Elisa Ferreira Schmidt
+146,66,Carla Maria Dal Sasso Freitas
+147,66,Adroaldo Raizer
+148,67,Sandro José Rigo

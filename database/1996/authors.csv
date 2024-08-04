@@ -1,104 +1,168 @@
 id,id_paper,name
-0,"Renato Gonçalves de Araujo,",1996
-0,"Marcelo Gattass,",1996
-1,"Ricardo B. V. Leitào,",1996
-1,"Reynaldo P. Fagundes,",1996
-1,"Fábio José Ayres,",1996
-1,"Eduardo Toledo Santos,",1996
-2,"Roberto de Beauclair Seixas,",1996
-3,"Eloísa Bertini,",1996
-3,"Mendonça C. F. X. de N.,",1996
-3,"J. J. Lunazzi,",1996
-4,"José Ricardo Porto Silva,",1996
-5,"Paulo Estevão Cruvinel,",1996
-5,"Edson Roberto Minatel,",1996
-5,"Marcos Luiz Mucheroni,",1996
-5,"Sidney Rosa Vieira,",1996
-6,"Jander Moreira,",1996
-7,"Gilson Braviano,",1996
-8,"Isabel Harb Manssour,",1996
-8,"Carla Maria Dal Sasso Freitas,",1996
-9,"Pedro J. de Rezende,",1996
-11,"Paulo Rech Wagner,",1996
-11,"Carla Maria Dal Sasso Freitas,",1996
-13,"Júlio Kiyoshi Hasegawa,",1996
-15,"Selan Rodrigues dos Santos,",1996
-15,"Cati Elisa de Avila Valadão,",1996
-16,"Luiz Carlos Pacheco Rodrigues Velho,",1996
-17,"Marcelo Eugênio Kallmann,",1996
-18,"Marcelo Walter,",1996
-19,"Lenimar Nunes de Andrade,",1996
-20,"Shin Ting Wu,",1996
-21,"Fabiana R. Leta,",1996
-21,"Aura Conci,",1996
-21,"Djenane Pamplona,",1996
-23,"José Eduardo C. Castanho,",1996
-24,"Luiz Cláudio Parzianello,",1996
-24,"Mamede Augusto Machado da Silveira,",1996
-24,"Sergio Shiguemi Furuie,",1996
-25,"Nelson Delfino d'Ávila Mascarenhas,",1996
-25,"Saulo Savio Leite Santos,",1996
-26,"Bernardo Piquet Carneiro,",1996
-26,"Cláudio T. Silva,",1996
-27,"Luiz Fernando Martha,",1996
-27,"Marcelo Tílio Monteiro de Carvalho,",1996
-28,"Maurício Riguette Mediano,",1996
-28,"Marcelo Gattass,",1996
-29,"Júlio Guido Oliveira Militão,",1996
-30,"Alcione Jandir Candeas,",1996
-30,"Braga Ulisses de Mendonça Neto,",1996
-32,"Carlos Roberto Cunha Fernandes,",1996
-33,"Eduardo Trettel,",1996
-34,"Rogério L. W. Liesenfeld,",1996
-35,"Marcelo Cohen,",1996
-35,"Carla Maria Dal Sasso Freitas,",1996
-36,"Mônica Costa,",1996
-37,"Fábio Rodrigues Costa,",1996
-37,"Débora Christina Muchaluat,",1996
-37,"Luiz Fernando Gomes Soares,",1996
-39,"João Fernando Marar,",1996
-39,"Carvalho Edson Costa de Barros Filho,",1996
-40,"Jonas Gomes,",1996
-40,"Cicero Mota,",1996
-40,"Romildo José da Silva,",1996
-41,"Lucia Darsa,",1996
-42,"Homero Luiz Piccolo,",1996
-42,"Luiz Aristides Rios,",1996
-43,"Homero Luiz Piccolo,",1996
-43,"Luis Antônio B. Kowada,",1996
-44,"Fernando Wagner Serpa Vieira da Silva,",1996
-45,"Luiz Henrique de Figueiredo,",1996
-46,"Luiz Marcos Garcia Gonçalves,",1996
-47,"Reynaldo Cosati Medeiros,",1996
-48,"Paula Frederick,",1996
-48,"Luiz Carlos Guedes,",1996
-48,"Marcelo Gattass,",1996
-49,"Bruno Costa,",1996
-49,"Lucia Darsa,",1996
-49,"Jonas Gomes,",1996
-49,"Paulo Roma,",1996
-49,"Luiz Velho,",1996
-50,"Claudio Esperança,",1996
-51,"Edilson Pontarolo,",1996
-52,"Rodrigo Newton Ravedutti Santos,",1996
-53,"Marcos Luiz Mucheroni,",1996
-54,"Regina Célia Coelho,",1996
-54,"Cesar Roberto M. Junior,",1996
-55,"Marcos Carneiro de Andrade,",1996
-55,"Gilles Bertrand,",1996
-55,"Jean Christophe Everat,",1996
-57,"Afonso Henrique Miranda de Almeida Prado,",1996
-58,"Ernany Paranaguá da Silva,",1996
-58,"Luis Alberto V. de Carvalho,",1996
-58,"Tonissi Silvio Antonio Junior,",1996
-58,"Luis Eduardo dos Santos,",1996
-58,"Antonio Carlos Romão,",1996
-58,"Antonio César de Oliveira,",1996
-59,"Airton Marco Polidório,",1996
-60,"Helena Cristina da Gama Leitão,",1996
-61,"Elmar Melcher,",1996
-61,"João Marques de Carvalho,",1996
-61,"Paulo César Cortez,",1996
-61,"Lírida Naviner,",1996
-62,"Carlos Augusto Paiva da Silva Martins,",1996
-63,"Carlos Augusto Paiva da Silva Martins,",1996
+0,0,Renato Gonçalves de Araujo
+1,0,Marcelo Gattass
+2,0,Marcelo Dreux
+3,1,Ricardo B. V. Leitào
+4,1,Reynaldo P. Fagundes
+5,1,Fábio José Ayres
+6,1,Eduardo Toledo Santos
+7,1,Marcelo Knorich Zuffo
+8,2,Roberto de Beauclair Seixas
+9,2,Marcelo Gattass
+10,3,Eloísa Bertini
+11,3,Mendonça C. F. X. de N.
+12,3,J. J. Lunazzi
+13,3,P. L. de Geus
+14,4,José Ricardo Porto Silva
+15,4,Clésio Luis Tozzi
+16,5,Paulo Estevão Cruvinel
+17,5,Edson Roberto Minatel
+18,5,Marcos Luiz Mucheroni
+19,5,Sidney Rosa Vieira
+20,5,Silvio Crestana
+21,6,Jander Moreira
+22,6,Luciano da Fontoura Costa
+23,7,Gilson Braviano
+24,7,Annick Montanvert
+25,8,Isabel Harb Manssour
+26,8,Carla Maria Dal Sasso Freitas
+27,8,Dalc'idio Moraes Claúdio
+28,9,Pedro J. de Rezende
+29,9,César Nivaldo Gon
+30,10,JohanHagman
+31,11,Paulo Rech Wagner
+32,11,Carla Maria Dal Sasso Freitas
+33,11,Flávio Rech Wagner
+34,12,José R. A.Torreão
+35,13,Júlio Kiyoshi Hasegawa
+36,13,Clésio Luis Tozzi
+37,14,Díbio LeandroBorges
+38,15,Selan Rodrigues dos Santos
+39,15,Cati Elisa de Avila Valadão
+40,15,Marcelo Dreux
+41,16,Luiz Carlos Pacheco Rodrigues Velho
+42,16,Luiz Henrique de Figueiredo
+43,17,Marcelo Eugênio Kallmann
+44,17,Antonio Alberto Fernandes de Oliveira
+45,18,Marcelo Walter
+46,18,Alain Fournier
+47,19,Lenimar Nunes de Andrade
+48,19,Shin Ting Wu
+49,20,Shin Ting Wu
+50,20,Silveira Luiz Gonzaga da Júnior
+51,21,Fabiana R. Leta
+52,21,Aura Conci
+53,21,Djenane Pamplona
+54,21,Ivo Pitanguy
+55,22,Thomas de AraújoBuck
+56,23,José Eduardo C. Castanho
+57,23,Clésio Luis Tozzi
+58,24,Luiz Cláudio Parzianello
+59,24,Mamede Augusto Machado da Silveira
+60,24,Sergio Shiguemi Furuie
+61,24,Fortunato Antônio Badan Palhares
+62,25,Nelson Delfino d'Ávila Mascarenhas
+63,25,Saulo Savio Leite Santos
+64,25,Paulo Estevão Cruvinel
+65,26,Bernardo Piquet Carneiro
+66,26,Cláudio T. Silva
+67,26,Arie E. Kaufman
+68,27,Luiz Fernando Martha
+69,27,Marcelo Tílio Monteiro de Carvalho
+70,27,Roberto de Beauclair Seixas
+71,28,Maurício Riguette Mediano
+72,28,Marcelo Gattass
+73,28,Marco Antônio Casanova
+74,29,Júlio Guido Oliveira Militão
+75,29,Paulo Cezar Pinto Carvalho
+76,30,Alcione Jandir Candeas
+77,30,Braga Ulisses de Mendonça Neto
+78,30,Carvalho Edson Costa de Barros Filho
+79,31,Ana Lúcia BezerraCandeias
+80,32,Carlos Roberto Cunha Fernandes
+81,32,Neucimar Jerônimo Leite
+82,33,Eduardo Trettel
+83,33,Roberto de Alencar Lotufo
+84,34,Rogério L. W. Liesenfeld
+85,34,Jorge Stolfi
+86,35,Marcelo Cohen
+87,35,Carla Maria Dal Sasso Freitas
+88,35,Flávio Rech Wagner
+89,36,Mônica Costa
+90,36,Bruno Feijó
+91,37,Fábio Rodrigues Costa
+92,37,Débora Christina Muchaluat
+93,37,Luiz Fernando Gomes Soares
+94,37,Souza Guido Lemos de Filho
+95,38,MarceloBarros
+96,39,João Fernando Marar
+97,39,Carvalho Edson Costa de Barros Filho
+98,39,Germano Crispim Vasconcelos
+99,40,Jonas Gomes
+100,40,Cicero Mota
+101,40,Romildo José da Silva
+102,40,Luiz Carlos Pacheco Rodrigues Velho
+103,41,Lucia Darsa
+104,41,Bruno Costa
+105,42,Homero Luiz Piccolo
+106,42,Luiz Aristides Rios
+107,42,Ricardo Bittencourt de Souza
+108,43,Homero Luiz Piccolo
+109,43,Luis Antônio B. Kowada
+110,43,Daniel Bloomfield Ramagem
+111,44,Fernando Wagner Serpa Vieira da Silva
+112,44,Paulo Roma Cavalcanti
+113,45,Luiz Henrique de Figueiredo
+114,45,Marcelo Tilio Monteiro de Carvalho
+115,46,Luiz Marcos Garcia Gonçalves
+116,46,Antônio Alberto Fernandes de Oliveira
+117,47,Reynaldo Cosati Medeiros
+118,47,Paulo Cezar Pinto Carvalho
+119,48,Paula Frederick
+120,48,Luiz Carlos Guedes
+121,48,Marcelo Gattass
+122,48,Paulo Cezar Pinto Carvalho
+123,49,Bruno Costa
+124,49,Lucia Darsa
+125,49,Jonas Gomes
+126,49,Paulo Roma
+127,49,Luiz Velho
+128,49,Ruben Zonenschein
+129,50,Claudio Esperança
+130,50,Fernando Wagner Serpa Vieira da Silva
+131,51,Edilson Pontarolo
+132,51,Díbio Leandro Borges
+133,52,Rodrigo Newton Ravedutti Santos
+134,52,Díbio Leandro Borges
+135,53,Marcos Luiz Mucheroni
+136,53,Valério da Rocha Matias
+137,54,Regina Célia Coelho
+138,54,Cesar Roberto M. Junior
+139,54,Luciano da Fontoura Costa
+140,55,Marcos Carneiro de Andrade
+141,55,Gilles Bertrand
+142,55,Jean Christophe Everat
+143,55,Arnaldo de Albuquerque Araújo
+144,56,Ronei Marcos deMoraes
+145,57,Afonso Henrique Miranda de Almeida Prado
+146,57,Agma Juci Machado Traina
+147,58,Ernany Paranaguá da Silva
+148,58,Luis Alberto V. de Carvalho
+149,58,Tonissi Silvio Antonio Junior
+150,58,Luis Eduardo dos Santos
+151,58,Antonio Carlos Romão
+152,58,Antonio César de Oliveira
+153,58,Jarbas Caiado de Castro
+154,59,Airton Marco Polidório
+155,59,Díbio Leandro Borges
+156,60,Helena Cristina da Gama Leitão
+157,60,Jorge Stolfi
+158,61,Elmar Melcher
+159,61,João Marques de Carvalho
+160,61,Paulo César Cortez
+161,61,Lírida Naviner
+162,61,Jean François Naviner
+163,62,Carlos Augusto Paiva da Silva Martins
+164,62,João Antônio Zuffo
+165,63,Carlos Augusto Paiva da Silva Martins
+166,63,João Antônio Zuffo

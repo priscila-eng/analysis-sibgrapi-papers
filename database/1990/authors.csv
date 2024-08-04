@@ -1,52 +1,97 @@
 id,id_paper,name
-0,"Adriana Figueiredo,",1990
-0,"Gilson Leal Gusmão,",1990
-0,"Jaime Tsuruta,",1990
-0,"João Batista Gomes de Freitas,",1990
-0,"Camargo João Neto,",1990
-0,"Marcelo Pinto da Luz,",1990
-0,"Argollo Miguel Junior,",1990
-1,"Ademar Gilberto Groehs,",1990
-2,"Antonio Carlos Salgado Guimarães,",1990
-3,"Maria Teresa Souza Ripoll,",1990
-4,"Assumpção Jecel Mattos de Júnior,",1990
-5,"Thomas de Araújo Buck,",1990
-6,"Alexandre Cardoso,",1990
-6,"Julio Cesar Portela Silveira,",1990
-7,"Francisco de Assis Correa,",1990
-8,"Evandro de Barros Costa,",1990
-9,"Davis Clodoveu Augusto Junior,",1990
-10,"Bruno Cernuschi Frías,",1990
-10,"Alejandro Blumenkrans,",1990
-11,"Eduardo Gonçalves Galúcio,",1990
-11,"Raul Almeida Nunes,",1990
-12,"Marcelo Gattass,",1990
-13,"André Luiz Pires Guedes,",1990
-13,"Milton Ramos Ramirez,",1990
-15,"Roseli de Deus Lopes,",1990
-16,"Paulo Roberto Gomes Luzzardi,",1990
-16,"Carla Maria Dal Sasso Freitas,",1990
-18,"Evandro Eduardo Seron Ruiz,",1990
-19,"Jan Frans Willem Slaets,",1990
-19,"Agma Juci Machado Traina,",1990
-19,"Maria Stela Veludo de Paiva,",1990
-20,"Márcia Mesquita Viana,",1990
-20,"Joaquim Teixeira de Assis,",1990
-22,"Ricardo Lomba de Araújo,",1990
-30,"Luiz Cristovão Gomes Coelho,",1990
-30,"Marcelo Gattass,",1990
-31,"João Luiz Dihl Comba,",1990
-31,"Claúdio Esperança,",1990
-32,"João Luiz Dihl Comba,",1990
-33,"Claúdio Esperança,",1990
-34,"Pedro Faria Lopes,",1990
-35,"João Madeiras Pereira,",1990
-36,"Claudia Alvarenga,",1990
-38,"Luciano Emídio Neves da Fonseca,",1990
-39,"Nelson Delfino d'Ávila Mascarenhas,",1990
-40,"Ricardo Luis de Queiroz,",1990
-41,"Lírida Alves de Barros,",1990
-41,"Marcelo Alves de Barros,",1990
-41,"Olivier Giordano,",1990
-42,"Olga Regina Pereira Bellon,",1990
-43,"José Eduardo Cogo Castanho,",1990
+0,0,Adriana Figueiredo
+1,0,Gilson Leal Gusmão
+2,0,Jaime Tsuruta
+3,0,João Batista Gomes de Freitas
+4,0,João Camargo Neto
+5,0,Marcelo Pinto da Luz
+6,0,Miguel Argollo Junior
+7,0,Regina Thienne
+8,1,Ademar Gilberto Groehs
+9,1,Maria Inês G. Santos
+10,2,Antonio Carlos Salgado Guimarães
+11,2,Raúl Antonino Feijóo
+12,3,Maria Teresa Souza Ripoll
+13,3,Anatólio Laschuk
+14,4,Jecel Mattos de Assumpção Júnior
+15,4,Sergio Takeo Kofuji
+16,5,Thomas de Araújo Buck
+17,5,Márcio Luiz de Andrade Netto
+18,6,Alexandre Cardoso
+19,6,Julio Cesar Portela Silveira
+20,6,Sérgio de Mello Schneider
+21,7,Francisco de Assis Correa
+22,7,Celso de Renna e Souza
+23,8,Evandro de Barros Costa
+24,8,Paulo Roberto Campos de Araújo
+25,9,Clodoveu Augusto Davis Junior
+26,9,Arnaldo de Albuquerque Araújo
+27,10,Bruno Cernuschi Frías
+28,10,Alejandro Blumenkrans
+29,10,Enrique Carlos Segura
+30,11,Eduardo Gonçalves Galúcio
+31,11,Raul Almeida Nunes
+32,11,Sidnei Paciornik
+33,12,Marcelo Gattass
+34,12,Paulo Cezar Pinto Carvalho
+35,13,André Luiz Pires Guedes
+36,13,Milton Ramos Ramirez
+37,13,Ronaldo César Marinho Persiano
+38,14,Emilio Del Moral Hernandez
+39,15,Roseli de Deus Lopes
+40,15,Marcelo Knörich Zuffo
+41,16,Paulo Roberto Gomes Luzzardi
+42,16,Carla Maria Dal Sasso Freitas
+43,16,Flávio Rech Wagner
+44,17,Maria Fernanda Eppinghaus Belford Roxo
+45,18,Evandro Eduardo Seron Ruiz
+46,18,Clésio Luis Tozzi
+47,19,Jan Frans Willem Slaets
+48,19,Agma Juci Machado Traina
+49,19,Maria Stela Veludo de Paiva
+50,19,Lirio Onofre Baptista de Almeida
+51,20,Márcia Mesquita Viana
+52,20,Joaquim Teixeira de Assis
+53,20,Ricardo Tadeu Lopes
+54,21,Paulo Roberto Campos de Araújo
+55,22,Ricardo Lomba de Araújo
+56,22,Luis Paulo Vieira Braga
+57,23,Ronaldo César Marinho Persiano
+58,24,Milton Teruaki Suetsugu Sakude
+59,25,Gilberto Arantes Carrijo
+60,26,Ogê Marques Filho
+61,27,Ogê Marques Filho
+62,28,Antonio José Machado e Silva
+63,29,Gladimir Valerio Guimarães Baranoski
+64,30,Luiz Cristovão Gomes Coelho
+65,30,Marcelo Gattass
+66,30,Waldemar Celes Filho
+67,31,João Luiz Dihl Comba
+68,31,Claúdio Esperança
+69,31,Ronaldo César Marinho Persiano
+70,32,João Luiz Dihl Comba
+71,32,Ronaldo César Marinho Persiano
+72,33,Claúdio Esperança
+73,33,João Luiz Dihl Comba
+74,34,Pedro Faria Lopes
+75,34,Mário Rui Gomes
+76,35,João Madeiras Pereira
+77,35,Mário Rui Gomes
+78,36,Claudia Alvarenga
+79,36,Luiz Carlos Pacheco Rodrigues Velho
+80,37,Jacques Facon
+81,38,Luciano Emídio Neves da Fonseca
+82,38,Clésio Luis Tozzi
+83,39,Nelson Delfino d'Ávila Mascarenhas
+84,39,Erivaldo Antonio Silva
+85,40,Ricardo Luis de Queiroz
+86,40,João Baptista Tadanobu Yabu-Uti
+87,41,Lírida Alves de Barros
+88,41,Marcelo Alves de Barros
+89,41,Olivier Giordano
+90,41,William Ferreira Giozza
+91,42,Olga Regina Pereira Bellon
+92,42,Clésio Luis Tozzi
+93,43,José Eduardo Cogo Castanho
+94,43,Clésio Luis Tozzi
+95,44,Anna Helena Reall Costa Rillo

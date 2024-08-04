@@ -1,43 +1,81 @@
 id,id_paper,name
-0,"Francisco José M. de Simões,",1988
-3,"Paulo Roma Cavalcanti,",1988
-3,"Paulo Sedres,",1988
-4,"Sílvia Delgado Olabarriaga,",1988
-4,"Marcio Sarroglia Pinho,",1988
-4,"João Luiz Dihl Comba,",1988
-5,"Arcela Aluizio Junior,",1988
-6,"Paulo Roberto Campos,",1988
-7,"João Luiz Dihl Comba,",1988
-8,"Luiz Alberto Vieira Dias,",1988
-8,"Flávio Jorge Ponzoni,",1988
-11,"Guaraci José Erthal,",1988
-11,"Câmara Gilberto Neto,",1988
-12,"Antônio Alberto Fernandes de Oliveira,",1988
-14,"José Maria Ribeiro Neves,",1988
-15,"Antônio Alberto Fernandes de Oliveira,",1988
-17,"Gerald Jean Francis Banon,",1988
-18,"João Marques de Carvalho,",1988
-19,"Luciano Vieira Dutra,",1988
-19,"Celina Foresti,",1988
-19,"Paulo Roberto Meneses,",1988
-20,"Bruno Cernuschi Frías,",1988
-20,"Osvaldo A. A. Bianchi,",1988
-20,"Ricardo Alberto Veiga,",1988
-21,"Nelson Delfino d'Ávila Mascarenhas,",1988
-21,"Edson Alves Ribeiro,",1988
-22,"A. de A. Araújo,",1988
-23,"A. de A. Araújo,",1988
-25,"Roberto Segabinazzi,",1988
-25,"Marco Antônio da Rocha,",1988
-25,"Armando H. Kuamoto,",1988
-26,"Jan Frans Willem Slaets,",1988
-27,"Clésio Luiz Tozzi,",1988
-28,"Rudnei Dias da Cunha Cunha,",1988
-29,"Pedro Faria Lopes,",1988
-30,"Sílvia Delgado Olabarriaga,",1988
-31,"Luiz Antônio M. Pereira,",1988
-32,"Vaclav Hlavac,",1988
-32,"Radek Marik,",1988
-32,"Milan Sonka,",1988
-36,"Edison Oliveira de Jesus,",1988
-37,"Evandro Eduardo Seron Ruiz,",1988
+0,0,Francisco José M. de Simões
+1,0,José Manuel Rebordão
+2,1,Francisco José M. de Simões
+3,2,Francisco José M. de Simões
+4,3,Paulo Roma Cavalcanti
+5,3,Paulo Sedres
+6,3,Sérgio Schereer
+7,4,Sílvia Delgado Olabarriaga
+8,4,Marcio Sarroglia Pinho
+9,4,João Luiz Dihl Comba
+10,4,Carla Maria dal Sasso Freitas
+11,5,Aluizio Arcela Junior
+12,5,Homero Luiz Pícolo
+13,6,Paulo Roberto Campos
+14,6,F. A. B. Araújo
+15,7,João Luiz Dihl Comba
+16,7,Carla Maria dal Sasso Freitas
+17,8,Luiz Alberto Vieira Dias
+18,8,Flávio Jorge Ponzoni
+19,8,Eni Alvim de Oliveira
+20,9,Armando Gonçalves
+21,10,Ronaldo César Marinho Persiano
+22,11,Guaraci José Erthal
+23,11,Gilberto Câmara Neto
+24,11,Diógenes Salas Alves
+25,12,Antônio Alberto Fernandes de Oliveira
+26,12,Ronaldo César Marinho Persiano
+27,13,Guaraci José Erthal
+28,14,José Maria Ribeiro Neves
+29,14,Ronaldo César Marinho Persiano
+30,15,Antônio Alberto Fernandes de Oliveira
+31,15,Mauricio Nardone
+32,16,Luiz Eduardo Seabra Varella
+33,17,Gerald Jean Francis Banon
+34,17,Junior Barrera
+35,18,João Marques de Carvalho
+36,18,Maria Luceneide Mota Revoredo
+37,19,Luciano Vieira Dutra
+38,19,Celina Foresti
+39,19,Paulo Roberto Meneses
+40,19,Maria de Lourdes Neves de Oliveira Kurkdjian
+41,20,Bruno Cernuschi Frías
+42,20,Osvaldo A. A. Bianchi
+43,20,Ricardo Alberto Veiga
+44,20,Carlos Seivane
+45,21,Nelson Delfino d'Ávila Mascarenhas
+46,21,Edson Alves Ribeiro
+47,21,Joaquim Eduardo Ribeiro Costa
+48,22,A. de A. Araújo
+49,22,M. A. Barros
+50,23,A. de A. Araújo
+51,23,E. B. Fo. Ornellas
+52,24,Luciano Vieira Dutra
+53,25,Roberto Segabinazzi
+54,25,Marco Antônio da Rocha
+55,25,Armando H. Kuamoto
+56,25,Jacob Scharcanski
+57,26,Jan Frans Willem Slaets
+58,26,Maria Stela Veludo Paiva
+59,27,Clésio Luiz Tozzi
+60,27,José Eduardo Cogo Castanho
+61,28,Rudnei Dias da Cunha Cunha
+62,28,Carla Maria dal Sasso Freitas
+63,29,Pedro Faria Lopes
+64,29,José Maria Salles Dias
+65,30,Sílvia Delgado Olabarriaga
+66,30,Anatólio Laschuk
+67,31,Luiz Antônio M. Pereira
+68,31,Rubens Nascimento Melo
+69,32,Vaclav Hlavac
+70,32,Radek Marik
+71,32,Milan Sonka
+72,32,Jaroslav Woska
+73,33,Antônio F. Limas Serafim
+74,34,Antônio Miguel de Campos
+75,35,Antônio Miguel de Campos
+76,36,Edison Oliveira de Jesus
+77,36,Flávio Roberto Dias Velasco
+78,37,Evandro Eduardo Seron Ruiz
+79,37,Clésio Luiz Tozzi

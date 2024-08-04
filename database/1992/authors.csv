@@ -1,80 +1,138 @@
 id,id_paper,name
-0,"Luiz Carlos Pacheco Rodrigues Velho,",1992
-1,"Helio Nigri,",1992
-1,"Marcelo de Andrade Dreux,",1992
-2,"Bruno Costa,",1992
-2,"Lucia Darsa,",1992
-4,"Luciano Rila,",1992
-5,"David Fernandes,",1992
-6,"Nelson Delfino d'Ávila Mascarenhas,",1992
-6,"Sérgio Shiguemi Furuie,",1992
-7,"Daniel Távora de Queiroz Cobra,",1992
-7,"José Antônio Dias Diniz Costa,",1992
-8,"Alejandro César Frery Orgambide,",1992
-9,"Luiz Henrique de Figueiredo,",1992
-11,"Bruno Feijó,",1992
-12,"Paulo Roma Cavalcanti,",1992
-12,"Paulo Cezar Pinto Carvalho,",1992
-13,"Artemis Maria Francelin Sanchez Moroni,",1992
-13,"Léo Pini Magalhães,",1992
-14,"Alexandre Xavier Falcão,",1992
-14,"Roberto de Alencar Lotufo,",1992
-15,"Rui Manuel Ribeiro de Bastos,",1992
-17,"Hélio Pedrini,",1992
-17,"Leila Maciel de Almeida e Silva,",1992
-18,"Luiz Ernesto Merkle,",1992
-19,"Luiz Henrique de Figueiredo,",1992
-19,"Clarisse Sieckenius de Souza,",1992
-19,"Marcelo Gattass,",1992
-20,"André de Barros Potengy,",1992
-20,"Carlos José Pereira de Lucena,",1992
-21,"Luiz Ernesto Merkle,",1992
-22,"Ronei Marcos de Moraes,",1992
-22,"João Marques de Carvalho,",1992
-23,"Luiz Eduardo Seabra Varella,",1992
-25,"Luis Paulo Bueno,",1992
-25,"Antonio A. F. de Oliveira,",1992
-26,"Gilberto Câmara,",1992
-26,"Ricardo Cartaxo Modesto de Souza,",1992
-26,"Ubirajara Moura de Freitas,",1992
-27,"Marcus Guilherme de Amorim,",1992
-28,"Soraia Raupp Musse,",1992
-28,"Ana Elisa Ferreira Schmidt,",1992
-29,"Rodrigo de Losina Silva,",1992
-30,"Marcelo da Silva Hounsell,",1992
-31,"Davis Clodoveu Augusto Junior,",1992
-32,"Francesco Artur Perrotti,",1992
-33,"Marcos Alberto Lopes,",1992
-34,"Luiz Eduardo Seabra Varella,",1992
-34,"Emmanuel Piceses Lopes Passos,",1992
-34,"Márcio Azevedo Santos,",1992
-36,"Marcos Carneiro de Andrade,",1992
-36,"Arnaldo de Albuquerque Araújo,",1992
-36,"Fernando Soares Lameiras,",1992
-37,"Paulo César Cortez,",1992
-42,"Homero Luiz Píccolo,",1992
-42,"Kentaro Takahashi,",1992
-43,"Renato Gosdal,",1992
-45,"Emerson Prado Lopes,",1992
-47,"Alex Holztratner,",1992
-47,"Godoy Walter Júnior,",1992
-48,"Meneghette Messias Júnior,",1992
-49,"Rogério Alves de Barros,",1992
-50,"Arnaldo de Albuquerque Araújo,",1992
-50,"Alberto Henrique Frade Laender,",1992
-50,"Silva Nelson Ismar da Junior,",1992
-50,"Rodrigo Novais Coutinho,",1992
-50,"Bethania Reis Veloso,",1992
-51,"Tânia Martins Preto,",1992
-52,"César A. F. de Rose,",1992
-52,"Ricardo Menna Barreto,",1992
-52,"Alexandre da Silva Carissimi,",1992
-52,"Gerson Geraldo Homrich Cavalheiro,",1992
-52,"Philippe Olivier Alexandre Navaux,",1992
-53,"Cláudia Álvares da Silva Velloso Ferreira,",1992
-54,"Jussara Dolfini de Oliveira,",1992
-55,"Marcelo da Cunha Ramos,",1992
-56,"Robson Rodrigues Lemos,",1992
-56,"Rui Manuel Ribeiro de Bastos,",1992
-57,"Agma Juci Machado Traina,",1992
-57,"Jan Frans  Willem Slaets,",1992
+0,0,Luiz Carlos Pacheco Rodrigues Velho
+1,0,Jonas de Miranda Gomes
+2,1,Helio Nigri
+3,1,Marcelo de Andrade Dreux
+4,1,Rubens Nascimento Melo
+5,2,Bruno Costa
+6,2,Lucia Darsa
+7,2,Jonas de Miranda Gomes
+8,3,Simone Bacellar Leal Ferreira
+9,4,Luciano Rila
+10,4,Abraham Alcaim
+11,5,David Fernandes
+12,5,Nelson Delfino d'Ávila Mascarenhas
+13,6,Nelson Delfino d'Ávila Mascarenhas
+14,6,Sérgio Shiguemi Furuie
+15,6,Angel L. S. Portal
+16,7,Daniel Távora de Queiroz Cobra
+17,7,José Antônio Dias Diniz Costa
+18,7,Marcelo Fisch de Berrêdo Menezes
+19,8,Alejandro César Frery Orgambide
+20,8,Nelson Delfino d'Ávila Mascarenhas
+21,9,Luiz Henrique de Figueiredo
+22,9,Jonas de Miranda Gomes
+23,10,Bruno Cernuschi Frías
+24,11,Bruno Feijó
+25,11,Rolf Fischer
+26,12,Paulo Roma Cavalcanti
+27,12,Paulo Cezar Pinto Carvalho
+28,12,Luiz Fernando Martha
+29,13,Artemis Maria Francelin Sanchez Moroni
+30,13,Léo Pini Magalhães
+31,13,Cláudio Leonardo Lucchesi
+32,14,Alexandre Xavier Falcão
+33,14,Roberto de Alencar Lotufo
+34,14,Roberto J. Gonçalves
+35,15,Rui Manuel Ribeiro de Bastos
+36,15,Anatólio Laschuk
+37,16,André Luiz Battaiola
+38,17,Hélio Pedrini
+39,17,Leila Maciel de Almeida e Silva
+40,17,Clésio Luis Tozzi
+41,18,Luiz Ernesto Merkle
+42,18,Sérgio Scheer
+43,19,Luiz Henrique de Figueiredo
+44,19,Clarisse Sieckenius de Souza
+45,19,Marcelo Gattass
+46,19,Luiz Cristovão Gomes Coelho
+47,20,André de Barros Potengy
+48,20,Carlos José Pereira de Lucena
+49,20,Donald D. Cowan
+50,21,Luiz Ernesto Merkle
+51,21,Sérgio Scheer
+52,22,Ronei Marcos de Moraes
+53,22,João Marques de Carvalho
+54,22,Marcos A. G. Brasileiro
+55,23,Luiz Eduardo Seabra Varella
+56,23,Luis Paulo Vieira Braga
+57,24,Milton Teruaki Suetsugu Sakude
+58,25,Luis Paulo Bueno
+59,25,Antonio A. F. de Oliveira
+60,25,Maria Célia P. de Freitas
+61,26,Gilberto Câmara
+62,26,Ricardo Cartaxo Modesto de Souza
+63,26,Ubirajara Moura de Freitas
+64,26,Marco Antônio Casanova
+65,27,Marcus Guilherme de Amorim
+66,27,Homero Luiz Píccolo
+67,28,Soraia Raupp Musse
+68,28,Ana Elisa Ferreira Schmidt
+69,28,Silvia Delgado Olabarriaga
+70,29,Rodrigo de Losina Silva
+71,29,Silvia Delgado Olabarriaga
+72,30,Marcelo da Silva Hounsell
+73,30,Léo Pini Magalhães
+74,31,Clodoveu Augusto Davis Junior
+75,31,Arnaldo de Albuquerque Araújo
+76,32,Francesco Artur Perrotti
+77,32,Roberto de Alencar Lotufo
+78,33,Marcos Alberto Lopes
+79,33,Ogê Marques Filho
+80,34,Luiz Eduardo Seabra Varella
+81,34,Emmanuel Piceses Lopes Passos
+82,34,Márcio Azevedo Santos
+83,34,Ricardo Lomba de Araújo
+84,35,Claudio Santos Pinhanez
+85,36,Marcos Carneiro de Andrade
+86,36,Arnaldo de Albuquerque Araújo
+87,36,Fernando Soares Lameiras
+88,36,Ana Maria Matildes dos Santos
+89,37,Paulo César Cortez
+90,37,João Marques de Carvalho
+91,38,Harold P. Santo
+92,39,Marcelo Walter
+93,40,Adelardo Adelino Dantas de Medeiros
+94,41,Luciano da Fontoura Costa
+95,42,Homero Luiz Píccolo
+96,42,Kentaro Takahashi
+97,42,André de Sá Carneiro
+98,43,Renato Gosdal
+99,43,Agma Juci Machado Traina
+100,44,Jacques Facon
+101,45,Emerson Prado Lopes
+102,45,Júlio Salek Aude
+103,46,Jander Moreira
+104,47,Alex Holztratner
+105,47,Walter Godoy Júnior
+106,47,Ogê Marques Filho
+107,48,Messias Meneghette Júnior
+108,48,Ana Cristina dos Santos
+109,49,Rogério Alves de Barros
+110,49,Arnaldo de Albuquerque Araújo
+111,50,Arnaldo de Albuquerque Araújo
+112,50,Alberto Henrique Frade Laender
+113,50,Nelson Ismar da Silva Junior
+114,50,Rodrigo Novais Coutinho
+115,50,Bethania Reis Veloso
+116,50,Beatriz Ramos de Vasconcelos Coelho
+117,51,Tânia Martins Preto
+118,51,Léo Pini Magalhães
+119,52,César A. F. de Rose
+120,52,Ricardo Menna Barreto
+121,52,Alexandre da Silva Carissimi
+122,52,Gerson Geraldo Homrich Cavalheiro
+123,52,Philippe Olivier Alexandre Navaux
+124,52,João Paulo Fumio Whitaker Kitajima
+125,53,Cláudia Álvares da Silva Velloso Ferreira
+126,53,Luiz Alberto Vieira Dias
+127,54,Jussara Dolfini de Oliveira
+128,54,Diógenes Salas Alves
+129,55,Marcelo da Cunha Ramos
+130,55,José Antonio dos Santos Borges
+131,56,Robson Rodrigues Lemos
+132,56,Rui Manuel Ribeiro de Bastos
+133,56,Carla Maria Dal Sasso Freitas
+134,57,Agma Juci Machado Traina
+135,57,Jan Frans  Willem Slaets
+136,57,Lírio Onofre Baptista Almeida

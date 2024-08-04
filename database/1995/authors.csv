@@ -1,83 +1,138 @@
 id,id_paper,name
-0,"Edwin R. Hancock,",1995
-2,"S. Polvi,",1995
-4,"Araújo Francisco Pinto Júnior,",1995
-6,"Braga Ulisses de Mendonça Neto,",1995
-7,"Miguel Gustavo Lizárraga Espinosa,",1995
-8,"José Eduardo Alves de Moura,",1995
-9,"Lírida A. B. Naviner,",1995
-9,"Jean-François Naviner,",1995
-9,"Elmar Melcher,",1995
-10,"Marcelo Cordeiro Bernardes,",1995
-10,"Shin-Ting Wu,",1995
-11,"Antonio Oliveira,",1995
-11,"Sara do Nascimento,",1995
-14,"Jander Moreira,",1995
-15,"Aura Conci,",1995
-16,"Aparecido Nilceu Marana,",1995
-16,"Luciano da Fontoura Costa,",1995
-17,"Ribeiro Eraldo Junior,",1995
-17,"Marcos L. Mucheroni,",1995
-19,"Mônica Costa,",1995
-19,"Bruno Feijó,",1995
-20,"Agnes Daldegan,",1995
-21,"Agnus Azevedo Horta,",1995
-22,"Regina Célia Coelho,",1995
-23,"Elmar Melcher,",1995
-23,"João Marques de Carvalho,",1995
-23,"Marcelo de Barros,",1995
-23,"Lírida A. B. Naviner,",1995
-23,"Jean-François Naviner,",1995
-23,"Valteir R. da Silva,",1995
-23,"Fred Henrique Souza Paes,",1995
-23,"Ricardo A. S. Moreira,",1995
-24,"Guy Perelmuter,",1995
-24,"Enrique Vinicio Carrera Erazo,",1995
-24,"Marley Vellasco,",1995
-25,"Cesar Roberto Marcondes Junior,",1995
-26,"José R. A. Torreão,",1995
-27,"Olga Regina Pereira Bellon,",1995
-27,"José Eduardo Cogo Castanho,",1995
-28,"André Filipe Lessa Carregal,",1995
-29,"Luiz Cristovão Gomes Coelho,",1995
-30,"Celes Waldemar Filho,",1995
-30,"Luiz Henrique de Figueiredo,",1995
-31,"Baudouin Raoult,",1995
-31,"Brian Norris,",1995
-31,"Ricardo Cartaxo Modesto de Souza,",1995
-32,"Luiz Claúdio Parzianello,",1995
-32,"Sérgio Shiguemi Furuie,",1995
-33,"Gilson Braviano,",1995
-34,"Braga Ulisses de Mendonça Neto,",1995
-35,"Roberto de Beauclair Seixas,",1995
-35,"Marcelo Gattass,",1995
-35,"Luiz Henrique de Figueiredo,",1995
-36,"Ana Cristina dos Santos,",1995
-37,"Marcos L. Mucheroni,",1995
-38,"Nelson Delfino d'Ávila Mascarenhas,",1995
-38,"Saulo S. L. Santos,",1995
-38,"Cid A. N. Santos,",1995
-39,"Marcelo Moreira,",1995
-40,"Roberto de Alencar Lotufo,",1995
-41,"Carlos Augusto Paiva da Silva Martins,",1995
-42,"Fábio José Ayres,",1995
-43,"Artemis Moroni,",1995
-43,"Cláudio L. Lucchesi,",1995
-44,"Maria Laura Martinez,",1995
-45,"Ruben Zonenschein,",1995
-45,"Jonas Gomes,",1995
-45,"Luiz Velho,",1995
-46,"Julio Guido Oliveira Militão,",1995
-47,"Neil Armstrong Rezende,",1995
-47,"Celes Waldemar Filho,",1995
-48,"Siome Klein Goldenstein,",1995
-48,"Paulo Cezar Pinto Carvalho,",1995
-49,"André Machado de Matos,",1995
-49,"Marcelo Gattass,",1995
-50,"Pedro J. de Rezende,",1995
-51,"Pedro J. de Rezende,",1995
-52,"Rogério L. W. Liesenfeld,",1995
-53,"Isabel Harb Manssour,",1995
-53,"Carla Maria Dal Sasso Freitas,",1995
-54,"Kentaro Takahashi,",1995
-54,"Kazufumi Kaneda,",1995
+0,0,Edwin R. Hancock
+1,0,Richard C. Wilson
+2,1,Craig Harris
+3,2,S. Polvi
+4,2,V. Busechian
+5,3,Ulisses de Mendonça Braga Neto
+6,4,Francisco Pinto Araújo Júnior
+7,4,Neucimar Jerônimo Leite
+8,5,Neucimar Jerônimo Leite
+9,6,Ulisses de Mendonça Braga Neto
+10,6,Roberto de Alencar Lotufo
+11,7,Miguel Gustavo Lizárraga Espinosa
+12,7,Lee Luan Ling
+13,8,José Eduardo Alves de Moura
+14,8,Abraham Alcaim
+15,9,Lírida A. B. Naviner
+16,9,Jean-François Naviner
+17,9,Elmar Melcher
+18,9,João Marques de Carvalho
+19,10,Marcelo Cordeiro Bernardes
+20,10,Shin-Ting Wu
+21,10,Italia M. L. D’Ottaviano
+22,11,Antonio Oliveira
+23,11,Sara do Nascimento
+24,11,Sonja A. L. Meerbaum
+25,12,Marcelo Eugênio Kallamann
+26,13,Luiz Carlos Pacheco Rodrigues Velho
+27,14,Jander Moreira
+28,14,Luciano da Fontoura Costa
+29,15,Aura Conci
+30,15,Claudenize F. J. Campos
+31,16,Aparecido Nilceu Marana
+32,16,Luciano da Fontoura Costa
+33,16,Roberto de Alencar Lotufo
+34,17,Eraldo Ribeiro Junior
+35,17,Marcos L. Mucheroni
+36,17,Paulo E. Cruvinel
+37,18,José Tarcísio Franco de Camargo
+38,19,Mônica Costa
+39,19,Bruno Feijó
+40,19,Daniel Schwabe
+41,20,Agnes Daldegan
+42,20,Renato da Veiga Guadagnin
+43,21,Agnus Azevedo Horta
+44,21,Shin-Ting Wu
+45,22,Regina Célia Coelho
+46,22,Luciano da Fontoura Costa
+47,23,Elmar Melcher
+48,23,João Marques de Carvalho
+49,23,Marcelo de Barros
+50,23,Lírida A. B. Naviner
+51,23,Jean-François Naviner
+52,23,Valteir R. da Silva
+53,23,Fred Henrique Souza Paes
+54,23,Ricardo A. S. Moreira
+55,23,Jeanne E. de P. Braquehais
+56,24,Guy Perelmuter
+57,24,Enrique Vinicio Carrera Erazo
+58,24,Marley Vellasco
+59,24,Marco Aurélio Pacheco
+60,25,Roberto Marcondes Cesar Junior
+61,25,Luciano da Fontoura Costa
+62,26,José R. A. Torreão
+63,26,Germana M. Mattos
+64,27,Olga Regina Pereira Bellon
+65,27,José Eduardo Cogo Castanho
+66,27,Clésio Luis Tozzi
+67,28,André Filipe Lessa Carregal
+68,28,Roberto Ierusalimschy
+69,29,Luiz Cristovão Gomes Coelho
+70,29,Clarisse Sieckenius de Souza
+71,30,Waldemar Celes Filho
+72,30,Luiz Henrique de Figueiredo
+73,30,Marcelo Gattass
+74,31,Baudouin Raoult
+75,31,Brian Norris
+76,31,Ricardo Cartaxo Modesto de Souza
+77,31,Gilberto Câmara
+78,32,Luiz Claúdio Parzianello
+79,32,Sérgio Shiguemi Furuie
+80,32,Lincoln Moura
+81,33,Gilson Braviano
+82,33,Annick Montanvert
+83,34,Ulisses de Mendonça Braga Neto
+84,34,Winston Araújo de Siqueira Neto
+85,35,Roberto de Beauclair Seixas
+86,35,Marcelo Gattass
+87,35,Luiz Henrique de Figueiredo
+88,35,Luiz Fernando Martha
+89,36,Ana Cristina dos Santos
+90,36,Messias Meneguette Júnior
+91,37,Marcos L. Mucheroni
+92,37,Rodney Americo dos Reis Junior
+93,38,Nelson Delfino d'Ávila Mascarenhas
+94,38,Saulo S. L. Santos
+95,38,Cid A. N. Santos
+96,38,Paulo E. Cruvinel
+97,39,Marcelo Moreira
+98,39,Oswaldo Baffa Filho
+99,40,Roberto de Alencar Lotufo
+100,40,Ramiro Jordán
+101,41,Carlos Augusto Paiva da Silva Martins
+102,41,João Antônio Zuffo
+103,42,Fábio José Ayres
+104,42,Marcelo Knörich Zuffo
+105,43,Artemis Moroni
+106,43,Cláudio L. Lucchesi
+107,43,Léo Pini Magalhães
+108,44,Maria Laura Martinez
+109,44,João Antônio Zuffo
+110,45,Ruben Zonenschein
+111,45,Jonas Gomes
+112,45,Luiz Velho
+113,45,Luiz Henrique de Figueiredo
+114,46,Julio Guido Oliveira Militão
+115,46,Paulo Cezar Pinto Carvalho
+116,47,Neil Armstrong Rezende
+117,47,Waldemar Celes Filho
+118,47,Marcelo Gattass
+119,48,Siome Klein Goldenstein
+120,48,Paulo Cezar Pinto Carvalho
+121,48,Luiz Henrique de Figueiredo
+122,49,André Machado de Matos
+123,49,Marcelo Gattass
+124,49,Luiz Henrique de Figueiredo
+125,50,Pedro J. de Rezende
+126,50,César N. Gon
+127,51,Pedro J. de Rezende
+128,51,Islene C. Garcia
+129,52,Rogério L. W. Liesenfeld
+130,52,Jorge Stolfi
+131,53,Isabel Harb Manssour
+132,53,Carla Maria Dal Sasso Freitas
+133,53,Dalcidio Moraes Claudio
+134,54,Kentaro Takahashi
+135,54,Kazufumi Kaneda
+136,54,Hideo Yamashita
