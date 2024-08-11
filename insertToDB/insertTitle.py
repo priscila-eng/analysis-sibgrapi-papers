@@ -43,7 +43,6 @@ else:
         for i, linha in enumerate(content_file):
           try:
             id_actual = int(linha['id']) + last_id
-            print(id_actual, last_id)
             insert(cursor, id_actual, linha['title'], linha['year'])
             cnx.commit()
             if i == len(content_file) - 1:
@@ -56,5 +55,3 @@ else:
       cursor.close()
       cnx.close()
       break
-  # result = cursor.execute("SELECT * FROM Paper")
-  # print(result)
