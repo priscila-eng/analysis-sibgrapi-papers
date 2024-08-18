@@ -18,7 +18,6 @@ def insert(cursor, name, title, year):
            "WHERE a.name = %s ")
   data_query = (title, year, name)
 
-  print(title, name, year)
   cursor.execute(query, data_query)
 
 
@@ -43,8 +42,13 @@ else:
   last_id = 0
 
   while True:
-    filename_authors = f'../database/{counter}/authors.csv'
+    print("Processando o ano:", counter)
+    filename_authors_duplicate = f'../database/{counter}/author_without_duplicate.csv'
     filename_papers = f'../database/{counter}/titles.csv'
+    if os.path.isfile(filename_authors_duplicate):
+      filename_authors = filename_authors_duplicate
+    else:
+      filename_authors = f'../database/{counter}/authors.csv'
     try:
       titles = []
       with open(filename_papers, newline='') as csvfile:
