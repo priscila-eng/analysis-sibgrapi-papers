@@ -1,11 +1,13 @@
 import os
 from sqlite3 import DatabaseError
+import Levenshtein
 import mysql.connector
 from mysql.connector import errorcode
 from dotenv import load_dotenv
 import csv
 
 from pymysql import NULL
+from unidecode import unidecode
 
 load_dotenv()
 
@@ -21,8 +23,21 @@ def insert(cursor, name, gender):
              "VALUES (%s, %s)")
     data_query = (name, None)
 
-  print(name, gender)
   cursor.execute(query, data_query)
+
+def isEqual(text1, text2):
+  unidecode(text1)
+
+  distance = Levenshtein.distance(text1.upper(), text2.upper())
+
+  if distance < 2:
+    return True
+
+  return False
+
+
+
+
 
 
 counter = 2023
@@ -50,6 +65,7 @@ else:
 
   while True:
     filename = f'../database/{counter}/authors.csv'
+    print("Processando o ano: ", counter)
     try:
       with open(filename, newline='') as csvfile:
         content_file = list(csv.DictReader(csvfile))
@@ -57,14 +73,24 @@ else:
           name_complete = linha['name'].split(' ')
           temNaLista = False
           for linha_nome in names:
-            print(name_complete[0], linha_nome['nome'])
-            if name_complete[0] == linha_nome['nome']:
+            if isEqual(name_complete[0], linha_nome['nome']):
               temNaLista = True
               try:
-                insert(cursor, linha['name'], linha_nome['genero'])
+                insert(cursor, linha['name'], linha_nome['sexo'])
                 cnx.commit()
               except DatabaseError:
-                print("Failed to insert %s, %s", linha['name'], linha_nome['genero'])
+                print("Failed to insert %s, %s", linha['name'], linha_nome['sexo'])
+            else:
+              if len(name_complete) > 1:
+                if temNaLista == False and isEqual(name_complete[1], linha_nome['nome']):
+                  temNaLista = True
+                  try:
+                    insert(cursor, linha['name'], linha_nome['sexo'])
+                    cnx.commit()
+                  except DatabaseError:
+                    print("Failed to insert %s, %s", linha['name'], linha_nome['sexo'])
+
+          
           if temNaLista == False:
             try:
               insert(cursor, linha['name'], NULL)
