@@ -11,11 +11,11 @@ load_dotenv()
 
 def insert(cursor, name, title, year):
   query = ("INSERT INTO PaperAuthor (author_id, paper_id)"
-           "SELECT a.author_id, p.id "
+           "SELECT a.id, p.id "
            "FROM Author a "
            "JOIN Paper p ON p.title = %s " 
            "AND p.year = %s"
-           "WHERE a.name = %s ")
+           "WHERE a.name = %s ")  
   data_query = (title, year, name)
 
   cursor.execute(query, data_query)
@@ -51,17 +51,21 @@ else:
       filename_authors = f'../database/{counter}/authors.csv'
     try:
       titles = []
-      with open(filename_papers, newline='') as csvfile:
-        titles = list(csv.DictReader(csvfile))
-      with open(filename_authors, newline='') as csvfile:
-        content_file = list(csv.DictReader(csvfile))
+      with open(filename_papers, newline='') as csv_paper:
+        titles = list(csv.DictReader(csv_paper))
+      with open(filename_authors, newline='') as csv_author:
+        content_file = list(csv.DictReader(csv_author))
         for i, linha in enumerate(content_file):
           temNaLista = False
           for linha_title in titles:
             if linha['id_paper'] == linha_title['id']:
               temNaLista = True
+              if counter <= 1996:
+                title_without_space = linha_title['title'][:-1]
+              else:
+                title_without_space = linha_title['title']
               try:
-                insert(cursor, linha['name'], linha_title['title'], linha_title['year'])
+                insert(cursor, linha['name'], title_without_space, linha_title['year'])
                 cnx.commit()
               except DatabaseError:
                 print("Failed to insert %s, %s", linha['name'], linha_title['title'])

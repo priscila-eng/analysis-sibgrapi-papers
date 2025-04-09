@@ -9,19 +9,21 @@ import csv
 from pymysql import NULL
 from unidecode import unidecode
 
+# geral -> estatísticas - BAR PLOT: qtos autores, qtos papers BR e IN, evolução ao longo do tempo
+
 load_dotenv()
 
-def insert(cursor, name, gender):
+def insert(cursor, name, gender, ia):
   query = ("INSERT IGNORE INTO Author "
-           "(Name, gender) " 
-           "VALUES (%s, %s)")
-  data_query = (name, gender)
+           "(Name, gender, IN_IA) " 
+           "VALUES (%s, %s, %s)")
+  data_query = (name, gender, ia)
   
   if gender == NULL:
     query = ("INSERT IGNORE INTO Author "
-             "(Name, gender) " 
-             "VALUES (%s, %s)")
-    data_query = (name, None)
+             "(Name, gender, IN_IA) " 
+             "VALUES (%s, %s, %s)")
+    data_query = (name, None, ia)
 
   cursor.execute(query, data_query)
 
@@ -34,11 +36,6 @@ def isEqual(text1, text2):
     return True
 
   return False
-
-
-
-
-
 
 counter = 2023
 
@@ -60,9 +57,16 @@ else:
 
   last_id = 0
   names = []
+  names2 = []
   with open('names.csv', newline='') as csvfile:
     names = list(csv.DictReader(csvfile))
 
+  with open('firstnames.csv', newline='') as csvfile:
+    names2 = list(csv.DictReader(csvfile))
+
+  file_name = f"./authors_ia.csv"
+  lines = []
+  lines.append(['Name', 'gender', 'IA'])
   while True:
     filename = f'../database/{counter}/authors.csv'
     print("Processando o ano: ", counter)
@@ -76,7 +80,7 @@ else:
             if isEqual(name_complete[0], linha_nome['nome']):
               temNaLista = True
               try:
-                insert(cursor, linha['name'], linha_nome['sexo'])
+                insert(cursor, linha['name'], linha_nome['sexo'], 'N')
                 cnx.commit()
               except DatabaseError:
                 print("Failed to insert %s, %s", linha['name'], linha_nome['sexo'])
@@ -85,21 +89,43 @@ else:
                 if temNaLista == False and isEqual(name_complete[1], linha_nome['nome']):
                   temNaLista = True
                   try:
-                    insert(cursor, linha['name'], linha_nome['sexo'])
+                    insert(cursor, linha['name'], linha_nome['sexo'], 'N')
                     cnx.commit()
                   except DatabaseError:
                     print("Failed to insert %s, %s", linha['name'], linha_nome['sexo'])
-
-          
           if temNaLista == False:
-            try:
-              insert(cursor, linha['name'], NULL)
-              cnx.commit()
-            except DatabaseError:
-              print("Failed to insert %s, %s", linha['name'], linha_nome['genero'])
+            for linha_nome2 in names2:
+              if temNaLista == False and isEqual(name_complete[0], linha_nome2['name']):
+                temNaLista = True
+                try:
+                  insert(cursor, linha['name'], linha_nome2['gender'], 'N')
+                  cnx.commit()
+                except DatabaseError:
+                  print("Failed to insert %s, %s", linha['name'], linha_nome2['gender'])
+          tem_ia = False
+          if temNaLista == False:
+            with open('authors_ia.csv', newline='') as csvfile_ia:
+              authors_ia = list(csv.DictReader(csvfile_ia))
+              for linha_ia in authors_ia:
+                if linha['name'] == linha_ia['Name']:
+                  try:
+                    insert(cursor, linha['name'], linha_ia['gender'], 'S')
+                    cnx.commit()
+                    tem_ia = True
+                  except DatabaseError:
+                    print("Failed to insert %s, %s", linha['name'], linha_nome2['gender'])
+              if tem_ia == False:
+                try:
+                  insert(cursor, linha['name'], NULL, 'S')
+                  cnx.commit()
+                except DatabaseError:
+                  print("Failed to insert %s, %s", linha['name'], linha_nome2['gender'])
+              else:
+                tem_ia = False
+          
       counter = counter - 1
     except IOError:
       print("Quebrou no ano:", counter)
-      cursor.close()
+      cursor.close()  
       cnx.close()
       break
