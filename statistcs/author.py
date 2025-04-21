@@ -57,20 +57,18 @@ cnx = mysql.connector.connect(
 
 cursor = cnx.cursor()
 
-categorias = ['Total', 'Masculino', 'Feminino', 'Encontrados por IA', 'Sem gênero']
+categorias = ['Masculino', 'Feminino', 'Gênero não identificado']
 
-quantidades = [getAll(cursor), 
-               getMale(cursor), 
-               getFemale(cursor), 
-               getInIA(cursor), 
+quantidades = [getMale(cursor), 
+               getFemale(cursor),
                getWithOutGender(cursor)]
 
 # Plotar gráfico de barras
 plt.figure(figsize=(10, 6))
 bars = plt.bar(categorias, quantidades, color='skyblue')
-plt.xlabel('Categoria')
-plt.ylabel('Quantidade de Autores')
-plt.title('Quantitativo de Autores por Categoria')
+plt.xlabel('Gênero')
+plt.ylabel('Quantidade de autores')
+plt.title('Quantitativo de autores por gênero identificado')
 plt.xticks(rotation=45)
 plt.tight_layout()
 

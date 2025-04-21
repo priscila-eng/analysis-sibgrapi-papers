@@ -35,16 +35,20 @@ cnx = mysql.connector.connect(
 cursor = cnx.cursor()
 
 
-years = [str(year) for year in range(2023, 1987, -1)]
+years = [str(year) for year in range(1988, 2024)]
 
-categories = ["Total"] + [str(year) for year in range(2023, 1987, -1)]
+categories = [str(year) for year in range(1988, 2024)]
 
-quantities = [getAll(cursor)] + [getByYear(cursor, str(year)) for year in years]
+quantities = [getByYear(cursor, str(year)) for year in years]
 
 # Plotar gráfico de barras
-plt.figure(figsize=(10, 6))
-bars = plt.bar(categories, quantities, color='skyblue')
-plt.xlabel('Total e Anos')
+fig, ax = plt.subplots()
+bars = ax.bar(categories, quantities, color='skyblue')
+
+x = [bar.get_x() + bar.get_width() / 2 for bar in bars]
+y = [bar.get_height() for bar in bars]
+
+plt.xlabel('Anos')
 plt.ylabel('Quantidade de Papers')
 plt.title('Quantitativo de Papers por Ano')
 plt.xticks(rotation=45)
@@ -54,6 +58,8 @@ plt.tight_layout()
 for bar in bars:
     yval = bar.get_height()
     plt.text(bar.get_x() + bar.get_width()/2.0, yval + 1, int(yval), ha='center', va='bottom')
+
+ax.plot(x, y, color='red', marker='o', linestyle='-')
 
 plt.show()
 
