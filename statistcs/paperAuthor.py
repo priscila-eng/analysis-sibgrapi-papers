@@ -37,6 +37,18 @@ def getPapersWithWomenByYear(cursor, year):
   result = cursor.fetchone()
   return result[0]
 
+def getPapersNoneGenderByYear(cursor, year):
+  
+  query = ("SELECT COUNT(DISTINCT pa.paper_id) AS papers_with_women "
+            "FROM PaperAuthor pa "
+            "JOIN Author a ON pa.author_id = a.id "
+            "JOIN Paper p ON pa.paper_id = p.id "
+            "WHERE a.gender is NULL AND p.year = %s;")
+  query_data = (year,)
+  cursor.execute(query, query_data)
+  result = cursor.fetchone()
+  return result[0]
+
 def getAllByYear(cursor, year):
   query = ("SELECT count(*) FROM Paper A WHERE A.Year = %s AND A.id IN (SELECT B.paper_id FROM PaperAuthor B);")
   query_data = (year,)
@@ -81,17 +93,22 @@ if command == "1":
   plt.show()
   
 else:
-  mens = [getAllByYear(cursor, str(year)) - getPapersWithWomenByYear(cursor, str(year)) for year in years]
+  mens = [getAllByYear(cursor, str(year)) -
+          getPapersWithWomenByYear(cursor, str(year)) -
+          getPapersNoneGenderByYear(cursor, str(year)) for year in years
+        ]
   womens = [getPapersWithWomenByYear(cursor, str(year)) for year in years]
+  others = [getPapersNoneGenderByYear(cursor, str(year)) for year in years]
 
   # Posição no eixo x
-  x = np.arange(len(years))
-  largura = 0.35  # Largura de cada barra
+  x = np.arange(len(years)) * 2
+  largura = 0.6  # Largura de cada barra
 
   # Cria o gráfico
   fig, ax = plt.subplots()
-  barras_homens = ax.bar(x - largura/2, mens, width=largura, label='Mens', color='skyblue')
-  barras_mulheres = ax.bar(x + largura/2, womens, width=largura, label='Womens', color='#FFD580')
+  barras_homens = ax.bar(x - largura, mens, width=largura, label='Mens', color='skyblue')
+  barras_mulheres = ax.bar(x, womens, width=largura, label='Womens', color='#FFD580')
+  barras_others = ax.bar(x + largura, others, width=largura, label='Others', color='#A9A9A9')
 
   # Rótulos e título
   ax.set_xlabel('Ano')
