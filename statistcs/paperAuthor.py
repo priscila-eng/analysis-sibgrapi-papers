@@ -66,9 +66,8 @@ cnx = mysql.connector.connect(
     database=os.getenv("DATABASE_NAME")
 )
 
-# TODO:fazer gráfico por genero e ano, colocar linha de evolução. Fazer das universidades.
 command = input("Digite um comando: ")
-years = [str(year) for year in range(2023, 1987, -1)]
+years = [str(year) for year in range(1988, 2024)]
 cursor = cnx.cursor()
 
 if command == "1":  
@@ -77,7 +76,7 @@ if command == "1":
   quantities = [getAll(cursor), getPapersWithWomen(cursor)]
 
   # Plotar gráfico de barras
-  plt.figure(figsize=(10, 6))
+  plt.figure(figsize=(16, 9))
   bars = plt.bar(categories, quantities, color='skyblue')
   plt.xlabel('Papers')
   plt.ylabel('Quantidade')
@@ -103,16 +102,20 @@ else:
   # Posição no eixo x
   x = np.arange(len(years)) * 2
   largura = 0.6  # Largura de cada barra
-
+  
   # Cria o gráfico
-  fig, ax = plt.subplots()
+  fig, ax = plt.subplots(figsize=(16, 9))
   barras_homens = ax.bar(x - largura, mens, width=largura, label='Mens', color='skyblue')
   barras_mulheres = ax.bar(x, womens, width=largura, label='Womens', color='#FFD580')
   barras_others = ax.bar(x + largura, others, width=largura, label='Others', color='#A9A9A9')
 
+  ax.plot(x - largura, mens, marker='o', color='blue', label="Mens")
+  ax.plot(x, womens, marker='o', color='orange', label="Womens")
+  ax.plot(x + largura, others, marker='o', color='gray', label="Others")
+
   # Rótulos e título
-  ax.set_xlabel('Ano')
-  ax.set_ylabel('Quantidade de papers')
+  ax.set_xlabel('Year', fontweight='bold')
+  ax.set_ylabel('Number of papers', fontweight='bold')
   ax.set_title("Evolution of women's participation")
   ax.set_xticks(x)
   ax.set_xticklabels(years)

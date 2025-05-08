@@ -34,6 +34,7 @@ cnx = mysql.connector.connect(
 
 cursor = cnx.cursor()
 
+total = getAll(cursor)
 
 years = [str(year) for year in range(1988, 2024)]
 
@@ -42,22 +43,23 @@ categories = [str(year) for year in range(1988, 2024)]
 quantities = [getByYear(cursor, str(year)) for year in years]
 
 # Plotar gráfico de barras
-fig, ax = plt.subplots()
+fig, ax = plt.subplots(figsize=(16,9))
 bars = ax.bar(categories, quantities, color='skyblue')
 
 x = [bar.get_x() + bar.get_width() / 2 for bar in bars]
 y = [bar.get_height() for bar in bars]
 
-plt.xlabel('Anos')
-plt.ylabel('Quantidade de Papers')
-plt.title('Quantitativo de Papers por Ano')
+plt.xlabel('Year', fontweight='bold')
+plt.ylabel('Number of papers', fontweight='bold')
+plt.title('Paper distribution over the years')
 plt.xticks(rotation=45)
 plt.tight_layout()
 
 # Adicionar valores no topo das barras
-for bar in bars:
-    yval = bar.get_height()
-    plt.text(bar.get_x() + bar.get_width()/2.0, yval + 1, int(yval), ha='center', va='bottom')
+for bar, qt in zip(bars, quantities):
+  percent = (qt / total) * 100
+  yval = bar.get_height()
+  plt.text(bar.get_x() + bar.get_width()/2.0, yval + 1, f"{percent:.1f}%", ha='center', va='bottom', fontweight='bold')
 
 ax.plot(x, y, color='red', marker='o', linestyle='-')
 

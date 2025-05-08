@@ -57,26 +57,30 @@ cnx = mysql.connector.connect(
 
 cursor = cnx.cursor()
 
-categorias = ['Masculino', 'Feminino', 'Gênero não identificado']
+
+categorias = ['Male', 'Female', 'Unknown gender']
 
 quantidades = [getMale(cursor), 
                getFemale(cursor),
                getWithOutGender(cursor)]
 
-# Plotar gráfico de barras
+total = getAll(cursor)
+
+# Plotar gráfico de barrasGênero
 plt.figure(figsize=(10, 6))
 bars = plt.bar(categorias, quantidades, color='skyblue')
-plt.xlabel('Gênero')
-plt.ylabel('Quantidade de autores')
-plt.title('Quantitativo de autores por gênero identificado')
-plt.xticks(rotation=45)
+plt.xlabel('Gender', fontweight='bold')
+plt.ylabel('Number of authors', fontweight='bold')
+plt.title('Distribution of authors by gender')
+plt.xticks(rotation=0)
 plt.tight_layout()
 
 # Adicionar valores no topo das barras
-for bar in bars:
-    yval = bar.get_height()
-    plt.text(bar.get_x() + bar.get_width()/2.0, yval + 1, int(yval), ha='center', va='bottom')
+for bar, qt in zip(bars, quantidades):
+  percent = (qt / total) * 100
+  yval = bar.get_height()
+  plt.text(bar.get_x() + bar.get_width()/2.0, yval + 1, f"{percent:.1f}%", ha='center', va='bottom')
 
 plt.show()
 
-closeConnection()
+closeConnection(cursor)
