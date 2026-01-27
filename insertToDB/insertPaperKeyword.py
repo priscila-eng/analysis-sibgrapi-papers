@@ -22,7 +22,7 @@ def insert(cursor, word, title, year):
   cursor.execute(query, data_query)
 
 
-counter = 2023
+counter = 1996
 
 try:
   cnx = mysql.connector.connect(

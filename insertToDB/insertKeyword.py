@@ -88,11 +88,6 @@ else:
       with open('./dif_keywords.csv', 'w', newline='') as file2:
         writer = csv.writer(file2)
         writer.writerows(palavras_dif)
-          # try:
-          #   insert(cursor, linha['keyword'])
-          #   cnx.commit()
-          # except DatabaseError:
-          #   print("Failed to insert %s", linha['keyword'])
       counter = counter - 1
     except IOError:
       print("Quebrou no ano:", counter)

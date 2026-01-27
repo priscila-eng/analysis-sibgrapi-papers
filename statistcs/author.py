@@ -58,7 +58,7 @@ cnx = mysql.connector.connect(
 cursor = cnx.cursor()
 
 
-categorias = ['Male', 'Female', 'Unknown gender']
+categorias = ['Masculino', 'Feminino', 'Gênero desconhecido']
 
 quantidades = [getMale(cursor), 
                getFemale(cursor),
@@ -69,9 +69,9 @@ total = getAll(cursor)
 # Plotar gráfico de barrasGênero
 plt.figure(figsize=(10, 6))
 bars = plt.bar(categorias, quantidades, color='skyblue')
-plt.xlabel('Gender', fontweight='bold')
-plt.ylabel('Number of authors', fontweight='bold')
-plt.title('Distribution of authors by gender')
+plt.xlabel('Gênero', fontweight='bold')
+plt.ylabel('Número de autores', fontweight='bold')
+plt.title('Distribuição de autores por gênero')
 plt.xticks(rotation=0)
 plt.tight_layout()
 

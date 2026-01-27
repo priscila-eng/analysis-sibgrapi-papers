@@ -104,19 +104,20 @@ else:
   largura = 0.6  # Largura de cada barra
   
   # Cria o gráfico
-  fig, ax = plt.subplots(figsize=(16, 9))
-  barras_homens = ax.bar(x - largura, mens, width=largura, label='Mens', color='skyblue')
-  barras_mulheres = ax.bar(x, womens, width=largura, label='Womens', color='#FFD580')
-  barras_others = ax.bar(x + largura, others, width=largura, label='Others', color='#A9A9A9')
+  fig, ax = plt.subplots(figsize=(20, 14))
+  plt.xticks(rotation=45, ha='right')
+  barras_homens = ax.bar(x - largura, mens, width=largura, label='Masculino', color='skyblue')
+  barras_mulheres = ax.bar(x, womens, width=largura, label='Feminino', color='#FFD580')
+  barras_others = ax.bar(x + largura, others, width=largura, label='Outros', color='#A9A9A9')
 
-  ax.plot(x - largura, mens, marker='o', color='blue', label="Mens")
-  ax.plot(x, womens, marker='o', color='orange', label="Womens")
-  ax.plot(x + largura, others, marker='o', color='gray', label="Others")
+  ax.plot(x - largura, mens, marker='o', color='skyblue')
+  ax.plot(x, womens, marker='o', color='#FFD580')
+  ax.plot(x + largura, others, marker='o', color='#A9A9A9')
 
   # Rótulos e título
-  ax.set_xlabel('Year', fontweight='bold')
-  ax.set_ylabel('Number of papers', fontweight='bold')
-  ax.set_title("Evolution of women's participation")
+  ax.set_xlabel('Ano', fontweight='bold')
+  ax.set_ylabel('Número de artigos', fontweight='bold')
+  ax.set_title("Evolução da participação do gênero feminino")
   ax.set_xticks(x)
   ax.set_xticklabels(years)
   ax.legend()

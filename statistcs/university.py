@@ -7,7 +7,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 load_dotenv()
-# TODO: EVOLUÇÃO DAS KEYWORDS TOP 10 KEYWORDS POR ANO (COLOCAR EM FORMA DE TABELA (ANO / KEYWORD))
 
 # conexão com o banco
 cnx = mysql.connector.connect(
@@ -18,6 +17,9 @@ cnx = mysql.connector.connect(
 cursor = cnx.cursor()
 
 command = input("Digite um comando: ")
+
+# TODO: Trocar universidade para filiação
+
 
 if command == "1":
     query = """
@@ -66,15 +68,15 @@ elif command == "2":
     results = cursor.fetchall()
 
     # dataframe
-    df = pd.DataFrame(results, columns=["Region", "State", "Paper Count"])
+    df = pd.DataFrame(results, columns=["Região", "Estado", "Artigo"])
 
     # gráfico
-    plt.figure(figsize=(14, 8))
-    ax = sns.barplot(data=df, x="State", y="Paper Count", hue="Region")
+    plt.figure(figsize=(20, 12))
+    ax = sns.barplot(data=df, x="Estado", y="Artigo", hue="Região")
     plt.xticks(rotation=45, ha='right')
     for container in ax.containers:
         ax.bar_label(container, fmt='%.0f', label_type='edge', padding=3)
-    plt.title("Number of Papers per State and Region")
+    plt.title("Número de artigos por estado e região")
     plt.tight_layout()
     plt.show()
 elif command == "3":
@@ -102,11 +104,11 @@ elif command == "3":
     df["Year"] = df["Year"].astype(int)
 
     # gráfico de linha: crescimento por região
-    plt.figure(figsize=(14, 8))
+    plt.figure(figsize=(14, 10))
     sns.lineplot(data=df, x="Year", y="Paper Count", hue="Region", marker="o")
-    plt.title("Growth of Paper Publications by Region Over the Years")
-    plt.ylabel("Number of Papers")
-    plt.xlabel("Year")
+    plt.title("Distribuição de artigos por região ao longo dos anos")
+    plt.ylabel("Número de artigos")
+    plt.xlabel("Ano")
     plt.grid(True)
     plt.tight_layout()
     plt.show()
