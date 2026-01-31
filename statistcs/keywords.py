@@ -47,5 +47,7 @@ cursor = cnx.cursor()
 
 df = pd.DataFrame(getRanking(cursor), columns=["Year", "Keyword", "Keyword Count", "Rank"])
 
+df["Keyword"] = df["Keyword"].str.lower().str.title()
+
 df.to_csv("top_keywords_by_year.csv", index=False, encoding='utf-8')
 closeConnection(cursor)

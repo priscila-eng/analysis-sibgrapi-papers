@@ -1,271 +1,361 @@
 Year,Keyword,Keyword Count,Rank
-1997,Application software,6,1
-1997,Animation,5,2
-1997,Layout,5,3
-1997,Image reconstruction,5,4
-1997,Image segmentation,4,5
-1997,Rendering (computer graphics),4,6
-1997,Solid modeling,4,7
-1997,Morphology,4,8
-1997,Information systems,4,9
-1997,Satellites,3,10
-1998,Electrical capacitance tomography,14,1
-1998,Application software,11,2
-1998,Image reconstruction,10,3
-1998,Image segmentation,9,4
-1998,Layout,9,5
-1998,Solid modeling,7,6
-1998,Computer Science,7,7
-1998,Laboratories,6,8
-1998,Computer Vision,6,9
-1998,Interpolation,5,10
-1999,Electrical capacitance tomography,7,1
-1999,Layout,6,2
-1999,Laboratories,5,3
-1999,Computer Science,4,4
-1999,Image Resolution,4,5
-1999,Rendering (computer graphics),4,6
-1999,Computer Vision,4,7
-1999,Application software,4,8
-1999,Algorithm design and analysis,4,9
-1999,Image reconstruction,3,10
-2000,Image segmentation,18,1
-2000,Layout,9,2
-2000,Image reconstruction,8,3
-2000,Robustness,8,4
-2000,Computer Vision,7,5
-2000,Algorithm design and analysis,7,6
-2000,Feature extraction,6,7
-2000,Handwriting recognition,6,8
-2000,Visualization,6,9
-2000,Digital Images,6,10
-2001,Image segmentation,17,1
-2001,Application software,14,2
-2001,Pattern recognition,13,3
-2001,Solid modeling,9,4
-2001,Layout,8,5
-2001,Digital Images,8,6
-2001,Computer Vision,7,7
-2001,Morphology,7,8
-2001,Data mining,7,9
-2001,Image reconstruction,6,10
-2002,Image segmentation,13,1
-2002,Solid modeling,12,2
-2002,Computational modeling,10,3
-2002,Layout,10,4
-2002,Rendering (computer graphics),10,5
-2002,Visualization,10,6
-2002,Image reconstruction,9,7
-2002,Biological system modeling,7,8
-2002,biomedical imaging,7,9
-2002,Image recognition,7,10
-2003,Image segmentation,12,1
-2003,Robustness,8,2
-2003,Feature extraction,8,3
-2003,Surface Reconstruction,7,4
-2003,Image reconstruction,6,5
-2003,Data mining,5,6
-2003,Information retrieval,5,7
-2003,Image retrieval,5,8
-2003,Laboratories,5,9
-2003,Layout,5,10
-2004,Image segmentation,13,1
-2004,Layout,13,2
-2004,Image reconstruction,9,3
-2004,Application software,8,4
-2004,Computer Vision,6,5
-2004,Geometry,5,6
-2004,Rendering (computer graphics),5,7
-2004,Visualization,5,8
-2004,Robustness,4,9
-2004,Algorithm design and analysis,4,10
-2005,Image segmentation,5,1
-2005,Computer Vision,3,2
-2005,Object Detection,2,3
-2005,Computer Science,2,4
-2005,Covariance Matrix,2,5
-2005,Computational modeling,2,6
-2005,Cameras,2,7
-2005,biomedical imaging,2,8
-2005,Image recognition,2,9
-2005,Detectors,2,10
-2006,Image reconstruction,8,1
-2006,Solid modeling,8,2
-2006,Image segmentation,8,3
-2006,Computer Vision,7,4
-2006,Layout,7,5
-2006,Data mining,7,6
-2006,Application software,7,7
-2006,Cameras,7,8
-2006,Geometry,7,9
-2006,Rendering (computer graphics),6,10
-2007,Image segmentation,9,1
-2007,Rendering (computer graphics),6,2
-2007,Layout,5,3
-2007,Image reconstruction,5,4
-2007,Solid modeling,5,5
-2007,Lighting,4,6
-2007,Robustness,4,7
-2007,Computer Vision,4,8
-2007,Surface Reconstruction,3,9
-2007,Feature extraction,3,10
-2008,Image color analysis,8,1
-2008,Image segmentation,7,2
-2008,Computational modeling,7,3
-2008,Training,7,4
-2008,Feature extraction,4,5
-2008,Databases,4,6
-2008,Classification algorithms,4,7
-2008,Algorithm design and analysis,4,8
-2008,Image reconstruction,3,9
-2008,Image Generation,3,10
-2009,Image segmentation,11,1
-2009,Surface Reconstruction,6,2
-2009,Filtering,6,3
-2009,Solid modeling,6,4
-2009,Digital Images,5,5
-2009,Image reconstruction,5,6
-2009,Lighting,4,7
-2009,Computer Science,4,8
-2009,Noise reduction,4,9
-2009,Image Resolution,4,10
-2010,Feature extraction,11,1
-2010,Image segmentation,10,2
-2010,Mathematical model,8,3
-2010,Rendering (computer graphics),8,4
-2010,Databases,7,5
-2010,Visualization,6,6
-2010,Image reconstruction,6,7
-2010,Image color analysis,6,8
-2010,Computational modeling,6,9
-2010,Geometry,4,10
-2011,Feature extraction,10,1
-2011,Training,9,2
-2011,Visualization,8,3
-2011,Support Vector Machine,8,4
-2011,Image color analysis,8,5
-2011,Rendering (computer graphics),7,6
-2011,Video sequences,7,7
-2011,Computational modeling,6,8
-2011,Mathematical model,6,9
-2011,Cameras,5,10
-2012,Training,11,1
-2012,Feature extraction,11,2
-2012,Support Vector Machine,10,3
-2012,Image color analysis,8,4
-2012,Visualization,7,5
-2012,Robustness,5,6
-2012,Image segmentation,5,7
-2012,Cameras,5,8
-2012,3D Mesh,5,9
-2012,Computer Vision,4,10
-2013,Support Vector Machine,7,1
-2013,Computational modeling,5,2
-2013,Recognition Rate,5,3
-2013,Training,4,4
-2013,Feature extraction,4,5
-2013,Video sequences,4,6
-2013,Visualization,4,7
-2013,Scale-invariant Feature Transform,3,8
-2013,Image representation,3,9
-2013,Temporal Coherence,3,10
-2014,Feature extraction,11,1
-2014,Visualization,9,2
-2014,Image segmentation,8,3
-2014,Image color analysis,8,4
-2014,Support Vector Machine,7,5
-2014,Training,6,6
-2014,Three-dimensional displays,5,7
-2014,Computational modeling,4,8
-2014,Face recognition,4,9
-2014,Graphics processing units,4,10
-2015,Feature extraction,15,1
-2015,Image color analysis,13,2
-2015,Image segmentation,11,3
-2015,Training,9,4
-2015,Visualization,8,5
-2015,Support Vector Machine,6,6
-2015,Three-dimensional displays,5,7
-2015,Computational modeling,5,8
-2015,Standards,4,9
-2015,Databases,4,10
-2016,Feature extraction,21,1
-2016,Three-dimensional displays,12,2
+1988,Sistema De Tratamento De Imagens,4,1
+1988,Processamento De Imagens,4,2
+1988,Imagens Multiespectrais,4,3
+1988,Interpolacao De Imagens,4,4
+1988,Interpolacao Por Funcoes Ponderadas,3,5
+1988,Metodos De Reconstrucao De Imagens,3,6
+1988,Sitim,3,7
+1988,Software Para Filtragem Espacial De Imagens,3,8
+1988,Sintese De Imagens,3,9
+1988,Imagens De Satelite,3,10
+1989,Processamento De Imagens,3,1
+1989,Processamento Digital De Imagens,3,2
+1989,Computacao Grafica,3,3
+1989,Projeto Cadmac,3,4
+1989,Metodos De Reconstrucao De Imagens,3,5
+1989,Sintese De Imagens,3,6
+1989,Projeto Logico,3,7
+1989,Metodo Ray-Tracing,3,8
+1989,Metodo Direto De Fourier,3,9
+1989,Analise De Textura,3,10
+1990,Processamento Digital De Imagens,5,1
+1990,Algoritmos De Coloracao,3,2
+1990,Animacao Grafica De Algoritmos,3,3
+1990,Imagens Tomograficas,3,4
+1990,Imagens Digitais,3,5
+1990,Reconhecimento De Caracteres Alfanumericos,3,6
+1990,Imagens Coloridas,3,7
+1990,Reconhecimento De Caracteres Numericos,3,8
+1990,Reconhecimento Optico De Caracteres,3,9
+1990,Sistema De Tratamento De Imagens,3,10
+1991,Processamento De Imagem,3,1
+1991,Radiosidade,2,2
+1991,Sistema De Animacao Tridimensional,2,3
+1991,Editor Grafico,2,4
+1991,Projeto Cadmac,1,5
+1991,Processamento De Imagens,1,6
+1991,Projeto Geopro,1,7
+1991,Projeto Logico,1,8
+1991,Projeto See,1,9
+1991,Processadores Dsps,1,10
+1992,Processamento De Imagem,5,1
+1992,Sistema De Animacao Modelada,4,2
+1992,Computacao Grafica,4,3
+1992,Sistema De Visualizacao,3,4
+1992,Sistema De Animacao Tridimensional,3,5
+1992,Surface Modeling,3,6
+1992,Linguagens De Modelagem,3,7
+1992,Ferramentas,3,8
+1992,Interfaces Graficas,3,9
+1992,Interface Com O Usuario,3,10
+1993,Processamento De Imagens,7,1
+1993,Modelagem Polygonal,6,2
+1993,Algoritmos De Modelagem,6,3
+1993,Modelagem De Terrenos,5,4
+1993,Tecnicas De Modelagem,5,5
+1993,Linguagens De Modelagem,5,6
+1993,Modelagem Solida,5,7
+1993,Ambiente Para Modelagem,5,8
+1993,Modelagem Geometrica,5,9
+1993,Modelagem Fisica,5,10
+1994,Processamento De Imagens,7,1
+1994,L-Systems,3,2
+1994,Spa,3,3
+1994,Ray Tracing,3,4
+1994,Parametros De Visualizacao,2,5
+1994,Reconhecimento De Objetos,2,6
+1994,Modelagem De Solidos,2,7
+1994,Sistema De Visualizacao,2,8
+1994,Processamento Digital De Sinais,2,9
+1994,Visualizacao 3D,2,10
+1995,Visualization,5,1
+1995,10/20 Systems; Eeg And Mri Co-Registration; Gpu-Based Multimodal Rendering; Image Processing,4,2
+1995,Morphology,4,3
+1995,Image Segmentation,4,4
+1995,Rendering (Computer Graphics),4,5
+1995,Image Processing Algorithms,3,6
+1995,I.3.5.D Computer Graphics,3,7
+1995,Field Of Image Processing,3,8
+1995,Digital Image Processing,3,9
+1995,Computer Graphics Image Detection,3,10
+1996,10/20 Systems; Eeg And Mri Co-Registration; Gpu-Based Multimodal Rendering; Image Processing,6,1
+1996,Visualization,6,2
+1996,Stereo Image Processing,5,3
+1996,Medical Image Processing,5,4
+1996,Image Processings,5,5
+1996,Image Processing Techniques,5,6
+1996,Image Processing Tasks,5,7
+1996,Image Processing Software,5,8
+1996,Image Processing Operations,5,9
+1996,Image Processing Methods,5,10
+1997,Rendering (Computer Graphics),10,1
+1997,I.3.5.D Computer Graphics,9,2
+1997,Computer Graphics Image Detection,9,3
+1997,Biomedical Image Processing,8,4
+1997,10/20 Systems; Eeg And Mri Co-Registration; Gpu-Based Multimodal Rendering; Image Processing,8,5
+1997,Digital Image Processing,8,6
+1997,Medical Image Processing,8,7
+1997,Image Processings,8,8
+1997,Stereo Image Processing,8,9
+1997,Field Of Image Processing,8,10
+1998,Electrical Capacitance Tomography,14,1
+1998,Shape Measurement,14,2
+1998,Shape Recognition,12,3
+1998,Shape Reconstruction,12,4
+1998,Shape Representation,12,5
+1998,Shape Variation,12,6
+1998,Shape-Based,12,7
+1998,Shape-From-Shading,12,8
+1998,Similar Shape,12,9
+1998,Shape Constraints,12,10
+1999,Rendering (Computer Graphics),8,1
+1999,Computer Graphics Image Detection,7,2
+1999,Electrical Capacitance Tomography,7,3
+1999,I.3.5.D Computer Graphics,7,4
+1999,Visualization,6,5
+1999,Automated Image Analysis,6,6
+1999,Cardiac Image Analysis,6,7
+1999,Statistical Image Analysis,6,8
+1999,Face Image Analysis,6,9
+1999,Image Analysis 3-D,6,10
+2000,Image Segmentation,18,1
+2000,Pixel Color,16,2
+2000,Pixel-Color Classification,16,3
+2000,Proportion Of Pixels,12,4
+2000,Black Pixels,12,5
+2000,Blue Pixels,12,6
+2000,Raw Pixel,12,7
+2000,Boundary Pixels,12,8
+2000,Pixel Of Interest,12,9
+2000,Reference Pixels,12,10
+2001,Head Shape,18,1
+2001,Shape Control,18,2
+2001,Shape Measurement,18,3
+2001,Shape Description,17,4
+2001,Vessel Shape,17,5
+2001,Shape Components,17,6
+2001,Shape-From-Shading,17,7
+2001,Shape Constraints,17,8
+2001,Shape-Based,17,9
+2001,Shape Context,17,10
+2002,Rendering (Computer Graphics),32,1
+2002,Computer Graphics Image Detection,29,2
+2002,I.3.5.D Computer Graphics,29,3
+2002,Image Processing Software,19,4
+2002,Digital Image Processing,18,5
+2002,Field Of Image Processing,18,6
+2002,Image Processing Algorithms,18,7
+2002,Image Processing Applications,18,8
+2002,Image Processing Methods,18,9
+2002,Image Processing Operations,18,10
+2003,Rendering (Computer Graphics),15,1
+2003,Computer Graphics Image Detection,13,2
+2003,I.3.5.D Computer Graphics,13,3
+2003,Image Segmentation,12,4
+2003,Shape Measurement,11,5
+2003,Shape Model,10,6
+2003,Shape Control,10,7
+2003,Head Shape,10,8
+2003,Shape Analysis,9,9
+2003,Object Shape,9,10
+2004,Rendering (Computer Graphics),17,1
+2004,Computer Graphics Image Detection,15,2
+2004,I.3.5.D Computer Graphics,15,3
+2004,Image Segmentation,13,4
+2004,Layout,13,5
+2004,Stereo Image Processing,12,6
+2004,Field Of Image Processing,11,7
+2004,Pixel-Color Classification,11,8
+2004,Medical Image Processing,11,9
+2004,Biomedical Image Processing,11,10
+2005,Biomedical Image Processing,6,1
+2005,Cardiac Image Analysis,6,2
+2005,Medical Image Processing,6,3
+2005,Medical Image Analysis,6,4
+2005,Image Processings,6,5
+2005,Image Processing Techniques,6,6
+2005,Image Processing Tasks,6,7
+2005,Image Processing Software,6,8
+2005,Image Processing Operations,6,9
+2005,Image Processing Methods,6,10
+2006,Image Analysis Algorithms,13,1
+2006,Medical Image Analysis,12,2
+2006,Cardiac Image Analysis,12,3
+2006,Face Image Analysis,12,4
+2006,Statistical Image Analysis,12,5
+2006,Automated Image Analysis,12,6
+2006,Image Analysis Techniques,12,7
+2006,Image Analysis Methods,12,8
+2006,Image Analysis 3-D,12,9
+2006,Geometry,10,10
+2007,Computer Graphics Image Detection,26,1
+2007,Rendering (Computer Graphics),26,2
+2007,I.3.5.D Computer Graphics,26,3
+2007,Stereo Image Processing,21,4
+2007,Image Processing Applications,20,5
+2007,Image Processing Methods,20,6
+2007,Image Processing Algorithms,20,7
+2007,Field Of Image Processing,20,8
+2007,Digital Image Processing,20,9
+2007,Biomedical Image Processing,20,10
+2008,Pixel-Color Classification,14,1
+2008,Pixel Color,13,2
+2008,Pixel Classification,13,3
+2008,Pixel-Based Classification,13,4
+2008,Pixel Position,12,5
+2008,Pixel Of Interest,12,6
+2008,Pixel Representation,12,7
+2008,Pixel Location,12,8
+2008,Pixel Level,12,9
+2008,Pixel Intensity,12,10
+2009,10/20 Systems; Eeg And Mri Co-Registration; Gpu-Based Multimodal Rendering; Image Processing,30,1
+2009,Image Processings,30,2
+2009,Stereo Image Processing,30,3
+2009,Image Processing Techniques,29,4
+2009,Image Processing Tasks,29,5
+2009,Image Processing Software,29,6
+2009,Image Processing Operations,29,7
+2009,Image Processing Methods,29,8
+2009,Image Processing Applications,29,9
+2009,Image Processing Algorithms,29,10
+2010,Pixel Color,20,1
+2010,Pixel-Color Classification,20,2
+2010,High Pixel,19,3
+2010,Boundary Pixels,19,4
+2010,Fraction Of Pixels,19,5
+2010,Blue Pixels,19,6
+2010,Black Pixels,19,7
+2010,Object Pixels,19,8
+2010,Noisy Pixels,19,9
+2010,Background Pixels,19,10
+2011,Surface Normal Vectors,19,1
+2011,Eigenvectors,16,2
+2011,Support Vectors,16,3
+2011,Concatenation Of Vectors,16,4
+2011,Orthonormal Vectors,16,5
+2011,Ear,11,6
+2011,Training,11,7
+2011,Feature Extraction,10,8
+2011,Visualization,10,9
+2011,Shape Measurement,10,10
+2012,Surface Normal Vectors,17,1
+2012,Support Vectors,14,2
+2012,Eigenvectors,14,3
+2012,Orthonormal Vectors,14,4
+2012,Concatenation Of Vectors,14,5
+2012,Support Vector Machine,11,6
+2012,Training,11,7
+2012,Feature Extraction,11,8
+2012,Shape Measurement,10,9
+2012,Rain,9,10
+2013,Surface Normal Vectors,11,1
+2013,Eigenvectors,10,2
+2013,Support Vectors,9,3
+2013,Concatenation Of Vectors,9,4
+2013,Orthonormal Vectors,9,5
+2013,Ear,8,6
+2013,Support Vector Machine,8,7
+2013,Training,6,8
+2013,Prediction Accuracy,5,9
+2013,Matthews Correlation Coefficient,5,10
+2014,Visualization,12,1
+2014,Surface Normal Vectors,11,2
+2014,Feature Extraction,11,3
+2014,Eigenvectors,10,4
+2014,Image Color Analysis,9,5
+2014,Accuracy Curve,9,6
+2014,Concatenation Of Vectors,9,7
+2014,Ear,9,8
+2014,Experimental Accuracy,9,9
+2014,Segmentation Accuracy,9,10
+2015,Feature Extraction,15,1
+2015,Image Color Analysis,13,2
+2015,Visualization,12,3
+2015,Shape Context,12,4
+2015,Image Segmentation,11,5
+2015,Shape Measurement,11,6
+2015,Shape Estimation,10,7
+2015,Shape Metric,10,8
+2015,Geometric Shapes,10,9
+2015,Patch Shape,10,10
+2016,Feature Extraction,21,1
+2016,Visualization,14,2
 2016,Support Vector Machine,12,3
-2016,Image segmentation,11,4
-2016,Visualization,10,5
-2016,Image color analysis,10,6
-2016,Training,8,7
-2016,Databases,7,8
-2016,Computational modeling,7,9
-2016,Input Image,6,10
-2017,Feature extraction,25,1
-2017,Training,21,2
-2017,Convolutional Neural Network,17,3
-2017,Support Vector Machine,17,4
-2017,Deep Learning,13,5
-2017,Image segmentation,11,6
-2017,Computer Vision,8,7
-2017,Transforms,8,8
-2017,Visualization,8,9
-2017,Cameras,7,10
-2018,Feature extraction,27,1
-2018,Convolutional Neural Network,26,2
-2018,Support Vector Machine,20,3
-2018,Training,17,4
-2018,Deep Learning,17,5
-2018,Task analysis,12,6
-2018,Visualization,11,7
-2018,Image color analysis,11,8
-2018,Convolutional Layers,11,9
-2018,Deep Neural Network,10,10
-2019,Convolutional Neural Network,13,1
-2019,Image segmentation,12,2
-2019,Task analysis,11,3
-2019,Feature extraction,9,4
-2019,Deep Learning,8,5
-2019,Training,8,6
-2019,Convolutional Layers,7,7
-2019,Three-dimensional displays,6,8
-2019,Visualization,5,9
-2019,Support Vector Machine,5,10
-2020,Convolutional Neural Network,19,1
-2020,Training,15,2
-2020,Deep Learning,14,3
-2020,Feature extraction,12,4
-2020,Three-dimensional displays,9,5
-2020,Image segmentation,9,6
-2020,Task analysis,9,7
-2020,Mathematical model,8,8
-2020,Computational modeling,8,9
-2020,Bounding Box,7,10
-2021,Deep Learning,23,1
-2021,Convolutional Neural Network,22,2
-2021,Training,18,3
-2021,Deep Neural Network,12,4
-2021,Computer Vision,11,5
-2021,Convolutional Layers,10,6
-2021,Image segmentation,10,7
-2021,Semantics,8,8
-2021,Task analysis,8,9
-2021,Visualization,8,10
-2022,Convolutional Neural Network,26,1
-2022,Training,22,2
-2022,Deep Learning,19,3
-2022,Support Vector Machine,12,4
-2022,Deep Neural Network,12,5
-2022,Visualization,11,6
-2022,Computational modeling,9,7
-2022,Data augmentation,9,8
-2022,Generative Adversarial Networks,8,9
-2022,Computer Vision,8,10
-2023,Convolutional Neural Network,20,1
-2023,Training,18,2
-2023,Image segmentation,8,3
-2023,Visualization,8,4
-2023,Object Detection,7,5
-2023,Deep Learning,7,6
-2023,Computer Vision,7,7
-2023,Three-dimensional displays,6,8
-2023,Image Classification,6,9
-2023,Task analysis,5,10
+2016,Training,12,4
+2016,Three-Dimensional Displays,12,5
+2016,Image Segmentation,11,6
+2016,Shape Context,10,7
+2016,Image Color Analysis,10,8
+2016,Rain,9,9
+2016,Surface Treatment,9,10
+2017,Feature Extraction,26,1
+2017,Training,25,2
+2017,Convolutional Neural Network,23,3
+2017,Rain,22,4
+2017,Artificial Neural Networks,21,5
+2017,Graph Neural Networks,20,6
+2017,Gated Convolutional Neural Networks,19,7
+2017,Probablistic Neural Networks,19,8
+2017,Biological Neural Networks,19,9
+2017,Artificial Neural Network Model,19,10
+2018,Convolutional Neural Network,30,1
+2018,Feature Extraction,27,2
+2018,Training,23,3
+2018,Support Vector Machine,21,4
+2018,Rain,21,5
+2018,Deep Learning,19,6
+2018,Ear,19,7
+2018,Deep Neural Network,16,8
+2018,Visualization,15,9
+2018,Fully Convolutional Neural Networks,15,10
+2019,Convolutional Neural Network,14,1
+2019,Image Segmentation,12,2
+2019,Task Analysis,11,3
+2019,Training,11,4
+2019,Rain,10,5
+2019,Deep Learning,9,6
+2019,Feature Extraction,9,7
+2019,Visualization,8,8
+2019,Shape Measurement,8,9
+2019,Deep Neural Network,8,10
+2020,Convolutional Neural Network,23,1
+2020,Fully Convolutional Neural Networks,21,2
+2020,Gated Convolutional Neural Networks,21,3
+2020,Popular Convolutional Neural Networks,21,4
+2020,Artificial Neural Networks,20,5
+2020,Artificial Neural Network Model,19,6
+2020,Artificial Neural Network Method,19,7
+2020,Biological Neural Networks,19,8
+2020,Artificial Neural Network Classifier,19,9
+2020,Power Of Neural Networks,19,10
+2021,Rendering (Computer Graphics),33,1
+2021,Graphics Processing Units,33,2
+2021,Graphics Kernel System,32,3
+2021,I.3.5.D Computer Graphics,32,4
+2021,Vista Graphics,32,5
+2021,Graphics Processors,32,6
+2021,Graphics Hardware,32,7
+2021,Graphics Applications,32,8
+2021,Computer Graphics Image Detection,32,9
+2021,Convolutional Neural Network,29,10
+2022,Convolutional Neural Network,32,1
+2022,Popular Convolutional Neural Networks,29,2
+2022,Gated Convolutional Neural Networks,29,3
+2022,Fully Convolutional Neural Networks,29,4
+2022,Training,29,5
+2022,Rain,25,6
+2022,Artificial Neural Networks,23,7
+2022,Biological Neural Networks,21,8
+2022,Feedforward Neural Networks,21,9
+2022,Hopfield Neural Networks,21,10
+2023,Ear,26,1
+2023,Convolutional Neural Network,25,2
+2023,Popular Convolutional Neural Networks,25,3
+2023,Fully Convolutional Neural Networks,25,4
+2023,Gated Convolutional Neural Networks,25,5
+2023,Rendering (Computer Graphics),23,6
+2023,Training,22,7
+2023,I.3.5.D Computer Graphics,22,8
+2023,Computer Graphics Image Detection,22,9
+2023,Graphics Processing Units,21,10

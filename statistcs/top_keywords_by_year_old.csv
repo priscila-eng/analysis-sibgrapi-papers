@@ -1,0 +1,271 @@
+Year,Keyword,Keyword Count,Rank
+1997,Application software,6,1
+1997,Animation,5,2
+1997,Layout,5,3
+1997,Image reconstruction,5,4
+1997,Image segmentation,4,5
+1997,Rendering (computer graphics),4,6
+1997,Solid modeling,4,7
+1997,Morphology,4,8
+1997,Information systems,4,9
+1997,Satellites,3,10
+1998,Electrical capacitance tomography,14,1
+1998,Application software,11,2
+1998,Image reconstruction,10,3
+1998,Image segmentation,9,4
+1998,Layout,9,5
+1998,Solid modeling,7,6
+1998,Computer Science,7,7
+1998,Laboratories,6,8
+1998,Computer Vision,6,9
+1998,Interpolation,5,10
+1999,Electrical capacitance tomography,7,1
+1999,Layout,6,2
+1999,Laboratories,5,3
+1999,Computer Science,4,4
+1999,Image Resolution,4,5
+1999,Rendering (computer graphics),4,6
+1999,Computer Vision,4,7
+1999,Application software,4,8
+1999,Algorithm design and analysis,4,9
+1999,Image reconstruction,3,10
+2000,Image segmentation,18,1
+2000,Layout,9,2
+2000,Image reconstruction,8,3
+2000,Robustness,8,4
+2000,Computer Vision,7,5
+2000,Algorithm design and analysis,7,6
+2000,Feature extraction,6,7
+2000,Handwriting recognition,6,8
+2000,Visualization,6,9
+2000,Digital Images,6,10
+2001,Image segmentation,17,1
+2001,Application software,14,2
+2001,Pattern recognition,13,3
+2001,Solid modeling,9,4
+2001,Layout,8,5
+2001,Digital Images,8,6
+2001,Computer Vision,7,7
+2001,Morphology,7,8
+2001,Data mining,7,9
+2001,Image reconstruction,6,10
+2002,Image segmentation,13,1
+2002,Solid modeling,12,2
+2002,Computational modeling,10,3
+2002,Layout,10,4
+2002,Rendering (computer graphics),10,5
+2002,Visualization,10,6
+2002,Image reconstruction,9,7
+2002,Biological system modeling,7,8
+2002,biomedical imaging,7,9
+2002,Image recognition,7,10
+2003,Image segmentation,12,1
+2003,Robustness,8,2
+2003,Feature extraction,8,3
+2003,Surface Reconstruction,7,4
+2003,Image reconstruction,6,5
+2003,Data mining,5,6
+2003,Information retrieval,5,7
+2003,Image retrieval,5,8
+2003,Laboratories,5,9
+2003,Layout,5,10
+2004,Image segmentation,13,1
+2004,Layout,13,2
+2004,Image reconstruction,9,3
+2004,Application software,8,4
+2004,Computer Vision,6,5
+2004,Geometry,5,6
+2004,Rendering (computer graphics),5,7
+2004,Visualization,5,8
+2004,Robustness,4,9
+2004,Algorithm design and analysis,4,10
+2005,Image segmentation,5,1
+2005,Computer Vision,3,2
+2005,Object Detection,2,3
+2005,Computer Science,2,4
+2005,Covariance Matrix,2,5
+2005,Computational modeling,2,6
+2005,Cameras,2,7
+2005,biomedical imaging,2,8
+2005,Image recognition,2,9
+2005,Detectors,2,10
+2006,Image reconstruction,8,1
+2006,Solid modeling,8,2
+2006,Image segmentation,8,3
+2006,Computer Vision,7,4
+2006,Layout,7,5
+2006,Data mining,7,6
+2006,Application software,7,7
+2006,Cameras,7,8
+2006,Geometry,7,9
+2006,Rendering (computer graphics),6,10
+2007,Image segmentation,9,1
+2007,Rendering (computer graphics),6,2
+2007,Layout,5,3
+2007,Image reconstruction,5,4
+2007,Solid modeling,5,5
+2007,Lighting,4,6
+2007,Robustness,4,7
+2007,Computer Vision,4,8
+2007,Surface Reconstruction,3,9
+2007,Feature extraction,3,10
+2008,Image color analysis,8,1
+2008,Image segmentation,7,2
+2008,Computational modeling,7,3
+2008,Training,7,4
+2008,Feature extraction,4,5
+2008,Databases,4,6
+2008,Classification algorithms,4,7
+2008,Algorithm design and analysis,4,8
+2008,Image reconstruction,3,9
+2008,Image Generation,3,10
+2009,Image segmentation,11,1
+2009,Surface Reconstruction,6,2
+2009,Filtering,6,3
+2009,Solid modeling,6,4
+2009,Digital Images,5,5
+2009,Image reconstruction,5,6
+2009,Lighting,4,7
+2009,Computer Science,4,8
+2009,Noise reduction,4,9
+2009,Image Resolution,4,10
+2010,Feature extraction,11,1
+2010,Image segmentation,10,2
+2010,Mathematical model,8,3
+2010,Rendering (computer graphics),8,4
+2010,Databases,7,5
+2010,Visualization,6,6
+2010,Image reconstruction,6,7
+2010,Image color analysis,6,8
+2010,Computational modeling,6,9
+2010,Geometry,4,10
+2011,Feature extraction,10,1
+2011,Training,9,2
+2011,Visualization,8,3
+2011,Support Vector Machine,8,4
+2011,Image color analysis,8,5
+2011,Rendering (computer graphics),7,6
+2011,Video sequences,7,7
+2011,Computational modeling,6,8
+2011,Mathematical model,6,9
+2011,Cameras,5,10
+2012,Training,11,1
+2012,Feature extraction,11,2
+2012,Support Vector Machine,10,3
+2012,Image color analysis,8,4
+2012,Visualization,7,5
+2012,Robustness,5,6
+2012,Image segmentation,5,7
+2012,Cameras,5,8
+2012,3D Mesh,5,9
+2012,Computer Vision,4,10
+2013,Support Vector Machine,7,1
+2013,Computational modeling,5,2
+2013,Recognition Rate,5,3
+2013,Training,4,4
+2013,Feature extraction,4,5
+2013,Video sequences,4,6
+2013,Visualization,4,7
+2013,Scale-invariant Feature Transform,3,8
+2013,Image representation,3,9
+2013,Temporal Coherence,3,10
+2014,Feature extraction,11,1
+2014,Visualization,9,2
+2014,Image segmentation,8,3
+2014,Image color analysis,8,4
+2014,Support Vector Machine,7,5
+2014,Training,6,6
+2014,Three-dimensional displays,5,7
+2014,Computational modeling,4,8
+2014,Face recognition,4,9
+2014,Graphics processing units,4,10
+2015,Feature extraction,15,1
+2015,Image color analysis,13,2
+2015,Image segmentation,11,3
+2015,Training,9,4
+2015,Visualization,8,5
+2015,Support Vector Machine,6,6
+2015,Three-dimensional displays,5,7
+2015,Computational modeling,5,8
+2015,Standards,4,9
+2015,Databases,4,10
+2016,Feature extraction,21,1
+2016,Three-dimensional displays,12,2
+2016,Support Vector Machine,12,3
+2016,Image segmentation,11,4
+2016,Visualization,10,5
+2016,Image color analysis,10,6
+2016,Training,8,7
+2016,Databases,7,8
+2016,Computational modeling,7,9
+2016,Input Image,6,10
+2017,Feature extraction,25,1
+2017,Training,21,2
+2017,Convolutional Neural Network,17,3
+2017,Support Vector Machine,17,4
+2017,Deep Learning,13,5
+2017,Image segmentation,11,6
+2017,Computer Vision,8,7
+2017,Transforms,8,8
+2017,Visualization,8,9
+2017,Cameras,7,10
+2018,Feature extraction,27,1
+2018,Convolutional Neural Network,26,2
+2018,Support Vector Machine,20,3
+2018,Training,17,4
+2018,Deep Learning,17,5
+2018,Task analysis,12,6
+2018,Visualization,11,7
+2018,Image color analysis,11,8
+2018,Convolutional Layers,11,9
+2018,Deep Neural Network,10,10
+2019,Convolutional Neural Network,13,1
+2019,Image segmentation,12,2
+2019,Task analysis,11,3
+2019,Feature extraction,9,4
+2019,Deep Learning,8,5
+2019,Training,8,6
+2019,Convolutional Layers,7,7
+2019,Three-dimensional displays,6,8
+2019,Visualization,5,9
+2019,Support Vector Machine,5,10
+2020,Convolutional Neural Network,19,1
+2020,Training,15,2
+2020,Deep Learning,14,3
+2020,Feature extraction,12,4
+2020,Three-dimensional displays,9,5
+2020,Image segmentation,9,6
+2020,Task analysis,9,7
+2020,Mathematical model,8,8
+2020,Computational modeling,8,9
+2020,Bounding Box,7,10
+2021,Deep Learning,23,1
+2021,Convolutional Neural Network,22,2
+2021,Training,18,3
+2021,Deep Neural Network,12,4
+2021,Computer Vision,11,5
+2021,Convolutional Layers,10,6
+2021,Image segmentation,10,7
+2021,Semantics,8,8
+2021,Task analysis,8,9
+2021,Visualization,8,10
+2022,Convolutional Neural Network,26,1
+2022,Training,22,2
+2022,Deep Learning,19,3
+2022,Support Vector Machine,12,4
+2022,Deep Neural Network,12,5
+2022,Visualization,11,6
+2022,Computational modeling,9,7
+2022,Data augmentation,9,8
+2022,Generative Adversarial Networks,8,9
+2022,Computer Vision,8,10
+2023,Convolutional Neural Network,20,1
+2023,Training,18,2
+2023,Image segmentation,8,3
+2023,Visualization,8,4
+2023,Object Detection,7,5
+2023,Deep Learning,7,6
+2023,Computer Vision,7,7
+2023,Three-dimensional displays,6,8
+2023,Image Classification,6,9
+2023,Task analysis,5,10

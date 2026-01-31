@@ -23,18 +23,16 @@ def insert(cursor, word):
 
 def isEqual(text1, text2):
   
-  aux1 = unidecode(text1).upper()
-  aux2 = unidecode(text2).upper()
-  distance = Levenshtein.distance(aux1, aux2)
+  distance = Levenshtein.distance(text1, text2)
 
   if distance < 2:
     return True
   else:
-    if len(aux1) > len(aux2):
-      if re.search(fr"\b{aux2}\b", aux1):
+    if len(text1) > len(text2):
+      if re.search(fr"\b{text2}\b", text1):
         return True
-    elif len(aux2) > len(aux1):
-      if re.search(fr"\b{aux1}\b", aux2):
+    elif len(text2) > len(text1):
+      if re.search(fr"\b{text1}\b", text2):
         return True
 
   return False
@@ -69,16 +67,18 @@ else:
         content_file = list(csv.DictReader(csvfile))
         for i, linha in enumerate(content_file):
           isEqualIn = False
+          aux1 = unidecode(linha['keyword']).upper()
           if len(palavras_dif) >= 1:
             for word in palavras_dif:
-              if isEqualIn == False and isEqual(linha['keyword'], word[1]):
+              aux2 = unidecode(word[1]).upper()
+              if isEqualIn == False and isEqual(aux1, aux2):
                 isEqualIn = True
-                all_keywords.append([word[0], linha['keyword']])
+                all_keywords.append([word[0], aux1])
             if isEqualIn == False:
-              palavras_dif.append([id, linha['keyword']])
+              palavras_dif.append([id, aux1])
               id += 1
           else:
-            palavras_dif.append([id, linha['keyword']])
+            palavras_dif.append([id, aux1])
             id += 1
       
       with open('./all_keywords.csv', 'w', newline='') as file:

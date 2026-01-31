@@ -17,9 +17,8 @@ def insert(cursor, id, word):
            "(id, Word) " 
            "VALUES (%s, %s)")
   data_query = (id, word)
-
-  print(word)
   cursor.execute(query, data_query)
+  print("Qtde de linhas inseridas: ", cursor.rowcount)
 
 def isEqual(text1, text2):
   
@@ -66,6 +65,7 @@ else:
   with open(filename, newline='') as csvfile:
     content_file = list(csv.DictReader(csvfile))
     for i, linha in enumerate(content_file):
+      print("Inserindo palavra ", linha['keyword'])
       try:
         insert(cursor, linha["id"], linha['keyword'])
         cnx.commit()
