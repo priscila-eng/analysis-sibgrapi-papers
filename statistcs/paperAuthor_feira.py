@@ -37,18 +37,6 @@ def getPapersWithWomenByYear(cursor, year):
   result = cursor.fetchone()
   return result[0]
 
-def getPapersWithMenByYear(cursor, year):
-  
-  query = ("SELECT COUNT(DISTINCT pa.paper_id) AS papers_with_women "
-            "FROM PaperAuthor pa "
-            "JOIN Author a ON pa.author_id = a.id "
-            "JOIN Paper p ON pa.paper_id = p.id "
-            "WHERE a.gender = 'M' AND p.year = %s;")
-  query_data = (year,)
-  cursor.execute(query, query_data)
-  result = cursor.fetchone()
-  return result[0]
-
 def getPapersNoneGenderByYear(cursor, year):
   
   query = ("SELECT COUNT(DISTINCT pa.paper_id) AS papers_with_women "
@@ -88,7 +76,13 @@ if command == "1":
   quantities = [getAll(cursor), getPapersWithWomen(cursor)]
 
   # Plotar gráfico de barras
-  plt.figure(figsize=(16, 9))
+  plt.figure(figsize=(20, 10))
+  plt.legend(
+      loc='upper center',
+      bbox_to_anchor=(0.5, -0.1),
+      ncol=3,
+      frameon=True
+  )
   bars = plt.bar(categories, quantities, color='skyblue')
   plt.xlabel('Papers')
   plt.ylabel('Quantidade')
@@ -104,7 +98,10 @@ if command == "1":
   plt.show()
   
 else:
-  mens = [getPapersWithMenByYear(cursor, str(year)) for year in years]
+  mens = [getAllByYear(cursor, str(year)) -
+          getPapersWithWomenByYear(cursor, str(year)) -
+          getPapersNoneGenderByYear(cursor, str(year)) for year in years
+        ]
   womens = [getPapersWithWomenByYear(cursor, str(year)) for year in years]
   others = [getPapersNoneGenderByYear(cursor, str(year)) for year in years]
 
@@ -113,22 +110,31 @@ else:
   largura = 0.6  # Largura de cada barra
   
   # Cria o gráfico
-  fig, ax = plt.subplots(figsize=(8, 4))
+  fig, ax = plt.subplots(figsize=(10, 5))
+  #plt.figure(figsize=(8, 4))
+  plt.legend(
+      loc='upper center',
+      bbox_to_anchor=(0.5, -0.1),
+      ncol=3,
+      frameon=True,
+      fontsize=16
+  )
   plt.xticks(rotation=45, ha='right')
-  barras_homens = ax.bar(x - largura, mens, width=largura, label='Masculino', color='skyblue')
-  barras_mulheres = ax.bar(x, womens, width=largura, label='Feminino', color='#FFD580')
-  barras_others = ax.bar(x + largura, others, width=largura, label='Outros', color='#A9A9A9')
+  barras_homens = ax.bar(x - largura, mens, width=largura, label='Masculino', color='#1E90FF')
+  barras_mulheres = ax.bar(x, womens, width=largura, label='Feminino', color='#DC143C')
+  barras_others = ax.bar(x + largura, others, width=largura, label='Outros', color='#808080')
 
-  ax.plot(x - largura, mens, marker='o', color='skyblue')
-  ax.plot(x, womens, marker='o', color='#FFD580')
-  ax.plot(x + largura, others, marker='o', color='#A9A9A9')
+  ax.plot(x - largura, mens, marker='o', color='#1E90FF')
+  ax.plot(x, womens, marker='o', color='#DC143C')
+  ax.plot(x + largura, others, marker='o', color='#808080')
 
   # Rótulos e título
-  ax.set_xlabel('Ano', fontweight='bold')
-  ax.set_ylabel('Número de artigos', fontweight='bold')
-  ax.set_title("Evolução da participação do gênero feminino")
+  ax.set_xlabel('Ano', fontweight='bold', fontsize=16)
+  ax.set_ylabel('Número de artigos', fontweight='bold', fontsize=16)
+  # ax.set_title("Evolução da participação do gênero feminino", fontsize=16)
   ax.set_xticks(x)
   ax.set_xticklabels(years)
+  ax.tick_params(axis='both', labelsize=16)
   ax.legend()
 
   plt.tight_layout()

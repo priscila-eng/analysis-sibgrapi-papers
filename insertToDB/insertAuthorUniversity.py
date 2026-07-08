@@ -125,4 +125,4 @@ while True:
       print("Quebrou no ano:", counter)
       cursor.close()  
       cnx.close()
-      break
+      break 

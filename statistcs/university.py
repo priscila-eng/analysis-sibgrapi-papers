@@ -71,12 +71,24 @@ elif command == "2":
     df = pd.DataFrame(results, columns=["Região", "Estado", "Artigo"])
 
     # gráfico
-    plt.figure(figsize=(20, 12))
+    plt.figure(figsize=(20, 10))
+    plt.legend(
+      loc='upper center',
+      bbox_to_anchor=(0.5, -0.1),
+      ncol=3,
+      frameon=True,
+      fontsize=16
+    )
     ax = sns.barplot(data=df, x="Estado", y="Artigo", hue="Região")
     plt.xticks(rotation=45, ha='right')
+
     for container in ax.containers:
-        ax.bar_label(container, fmt='%.0f', label_type='edge', padding=3)
-    plt.title("Número de artigos por estado e região")
+        ax.bar_label(container, fmt='%.0f', label_type='edge', padding=3, fontsize=16)
+
+    ax.tick_params(axis='both', labelsize=16)
+    ax.set_xlabel("Estado", fontsize=16)
+    ax.set_ylabel("Artigo", fontsize=16)
+    # plt.title("Número de artigos por estado e região")
     plt.tight_layout()
     plt.show()
 elif command == "3":
@@ -104,11 +116,19 @@ elif command == "3":
     df["Year"] = df["Year"].astype(int)
 
     # gráfico de linha: crescimento por região
-    plt.figure(figsize=(14, 10))
+    plt.figure(figsize=(20, 10))
+    plt.legend(
+      loc='upper center',
+      bbox_to_anchor=(0.5, -0.1),
+      ncol=3,
+      frameon=True,
+      fontsize=16
+    )
     sns.lineplot(data=df, x="Year", y="Paper Count", hue="Region", marker="o")
-    plt.title("Distribuição de artigos por região ao longo dos anos")
-    plt.ylabel("Número de artigos")
-    plt.xlabel("Ano")
+    # plt.title("Distribuição de artigos por região ao longo dos anos")
+    plt.ylabel("Número de artigos", fontsize=16)
+    plt.xlabel("Ano", fontsize=16)
+    plt.tick_params(axis='both', labelsize=16)
     plt.grid(True)
     plt.tight_layout()
     plt.show()
